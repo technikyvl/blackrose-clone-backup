@@ -47,7 +47,7 @@ export function Pricing() {
 
         <div className="grid lg:grid-cols-3 gap-8">
           {pricingCategories.map((category, index) => (
-            <Card key={index} className="border-border/50">
+            <Card key={index} className="border-border/50 hover:border-[#D4AF37]/30 transition-colors">
               <CardHeader>
                 <CardTitle className="text-2xl">{category.category}</CardTitle>
               </CardHeader>

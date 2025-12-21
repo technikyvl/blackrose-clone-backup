@@ -1,6 +1,5 @@
 import { Button } from "@/components/ui/button"
 import { Star, Sparkles } from "lucide-react"
-import Image from "next/image"
 
 export function Hero() {
   return (
@@ -54,12 +53,11 @@ export function Hero() {
           {/* Right Image */}
           <div className="relative lg:h-[600px]">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl h-full">
-              <Image
+              <img
                 src="/images/snapinsta.jpg"
                 alt="Pięknie pomalowane paznokcie - Salon Kosmetyczny Black Rose"
-                fill
-                className="object-cover"
-                priority
+                className="w-full h-full object-cover"
+                loading="eager"
               />
             </div>
           </div>

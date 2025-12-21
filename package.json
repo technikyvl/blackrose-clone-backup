@@ -1,0 +1,21 @@
+{
+  "name": "blackrose-clone-backup",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "npm@10.0.0",
+  "scripts": {
+    "build": "cd black-rose-clone && npm install && npm run build",
+    "dev": "cd black-rose-clone && npm run dev",
+    "start": "cd black-rose-clone && npm start"
+  },
+  "dependencies": {
+    "next": "16.0.10",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+

@@ -54,8 +54,8 @@ export function Hero() {
           <div className="relative lg:h-[600px]">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl h-full">
               <img
-                src="/images/zrzut-20ekranu-202025-12-21-20181226.png"
-                alt="Black Rose Salon Interior"
+                src="/images/paznokcie.jpg"
+                alt="Pięknie pomalowane paznokcie - Salon Kosmetyczny Black Rose"
                 className="w-full h-full object-cover"
               />
             </div>

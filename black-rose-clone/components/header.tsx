@@ -38,6 +38,10 @@ export function Header() {
                 src="/logo-2.png" 
                 alt="Black Rose Salon Kosmetyczny" 
                 className="h-10 w-auto object-contain"
+                style={{ 
+                  mixBlendMode: 'multiply',
+                  filter: 'contrast(1.2) brightness(1.1)'
+                }}
               />
             </a>
           </div>

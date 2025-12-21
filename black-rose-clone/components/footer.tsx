@@ -6,7 +6,10 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-primary">Black Rose</h3>
+            <h3 className="text-xl font-bold text-primary relative inline-block">
+              Black Rose
+              <span className="absolute -top-1 -right-1 text-[#D4AF37]">✨</span>
+            </h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Salon Kosmetyczny w Czechowicach-Dziedzicach. Profesjonalna pielęgnacja i relaks.
             </p>
@@ -37,21 +40,21 @@ export function Footer() {
             <div className="flex gap-3">
               <a
                 href="#"
-                className="w-10 h-10 bg-primary/10 hover:bg-primary/20 rounded-full flex items-center justify-center transition-colors"
+                className="w-10 h-10 bg-[#D4AF37]/10 hover:bg-[#D4AF37]/20 rounded-full flex items-center justify-center transition-colors border border-[#D4AF37]/20"
               >
-                <Facebook className="w-5 h-5 text-primary" />
+                <Facebook className="w-5 h-5 text-[#D4AF37]" />
               </a>
               <a
                 href="#"
-                className="w-10 h-10 bg-primary/10 hover:bg-primary/20 rounded-full flex items-center justify-center transition-colors"
+                className="w-10 h-10 bg-[#D4AF37]/10 hover:bg-[#D4AF37]/20 rounded-full flex items-center justify-center transition-colors border border-[#D4AF37]/20"
               >
-                <Instagram className="w-5 h-5 text-primary" />
+                <Instagram className="w-5 h-5 text-[#D4AF37]" />
               </a>
               <a
                 href="#"
-                className="w-10 h-10 bg-primary/10 hover:bg-primary/20 rounded-full flex items-center justify-center transition-colors"
+                className="w-10 h-10 bg-[#D4AF37]/10 hover:bg-[#D4AF37]/20 rounded-full flex items-center justify-center transition-colors border border-[#D4AF37]/20"
               >
-                <Mail className="w-5 h-5 text-primary" />
+                <Mail className="w-5 h-5 text-[#D4AF37]" />
               </a>
             </div>
           </div>

@@ -43,16 +43,16 @@ export function Contact() {
           {contactInfo.map((info, index) => {
             const Icon = info.icon
             return (
-              <Card key={index} className="border-border/50 hover:shadow-lg transition-shadow">
+              <Card key={index} className="border-border/50 hover:shadow-lg transition-shadow border-[#D4AF37]/20">
                 <CardContent className="p-6 text-center space-y-3">
-                  <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
-                    <Icon className="w-6 h-6 text-primary" />
+                  <div className="w-12 h-12 bg-[#D4AF37]/10 rounded-full flex items-center justify-center mx-auto border border-[#D4AF37]/30">
+                    <Icon className="w-6 h-6 text-[#D4AF37]" />
                   </div>
                   <h3 className="font-semibold">{info.title}</h3>
                   {info.link ? (
                     <a
                       href={info.link}
-                      className="text-sm text-muted-foreground hover:text-primary transition-colors block"
+                      className="text-sm text-muted-foreground hover:text-[#D4AF37] transition-colors block"
                     >
                       {info.content}
                     </a>

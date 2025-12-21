@@ -9,7 +9,7 @@ export function Hero() {
           {/* Left Content */}
           <div className="space-y-8">
             <div className="flex items-center gap-2 text-sm">
-              <Star className="w-5 h-5 fill-primary text-primary" />
+              <Star className="w-5 h-5 fill-[#D4AF37] text-[#D4AF37]" />
               <span className="font-semibold">5.0</span>
               <span className="text-muted-foreground">• 326 opinii</span>
             </div>
@@ -20,7 +20,10 @@ export function Hero() {
                 <br />
                 Kosmetyczny
                 <br />
-                <span className="text-primary">Black Rose</span>
+                <span className="text-primary relative">
+                  Black Rose
+                  <span className="absolute -top-2 -right-2 text-[#D4AF37] text-3xl">✨</span>
+                </span>
               </h1>
 
               <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
@@ -39,9 +42,9 @@ export function Hero() {
               </Button>
             </div>
 
-            <div className="pt-8 border-t border-border">
-              <div className="bg-muted/50 rounded-2xl p-6 inline-block">
-                <p className="text-3xl font-bold text-primary">500+</p>
+            <div className="pt-8 border-t border-[#D4AF37]/30">
+              <div className="bg-muted/50 rounded-2xl p-6 inline-block border border-[#D4AF37]/20">
+                <p className="text-3xl font-bold text-[#D4AF37]">500+</p>
                 <p className="text-sm text-muted-foreground">
                   zadowolonych klientek
                   <br />w tym roku

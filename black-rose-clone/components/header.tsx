@@ -33,32 +33,35 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-primary">Black Rose</h1>
+            <h1 className="text-2xl font-bold text-primary relative">
+              Black Rose
+              <span className="absolute -top-1 -right-1 text-[#D4AF37]">✨</span>
+            </h1>
           </div>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center gap-8">
             <button
               onClick={() => scrollToSection("uslugi")}
-              className="text-foreground hover:text-primary transition-colors"
+              className="text-foreground hover:text-[#D4AF37] transition-colors"
             >
               Usługi
             </button>
             <button
               onClick={() => scrollToSection("o-nas")}
-              className="text-foreground hover:text-primary transition-colors"
+              className="text-foreground hover:text-[#D4AF37] transition-colors"
             >
               O Nas
             </button>
             <button
               onClick={() => scrollToSection("cennik")}
-              className="text-foreground hover:text-primary transition-colors"
+              className="text-foreground hover:text-[#D4AF37] transition-colors"
             >
               Cennik
             </button>
             <button
               onClick={() => scrollToSection("kontakt")}
-              className="text-foreground hover:text-primary transition-colors"
+              className="text-foreground hover:text-[#D4AF37] transition-colors"
             >
               Kontakt
             </button>
@@ -87,25 +90,25 @@ export function Header() {
             <nav className="flex flex-col gap-4">
               <button
                 onClick={() => scrollToSection("uslugi")}
-                className="text-left text-foreground hover:text-primary transition-colors"
+                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
               >
                 Usługi
               </button>
               <button
                 onClick={() => scrollToSection("o-nas")}
-                className="text-left text-foreground hover:text-primary transition-colors"
+                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
               >
                 O Nas
               </button>
               <button
                 onClick={() => scrollToSection("cennik")}
-                className="text-left text-foreground hover:text-primary transition-colors"
+                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
               >
                 Cennik
               </button>
               <button
                 onClick={() => scrollToSection("kontakt")}
-                className="text-left text-foreground hover:text-primary transition-colors"
+                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
               >
                 Kontakt
               </button>

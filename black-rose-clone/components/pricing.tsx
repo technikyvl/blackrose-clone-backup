@@ -36,7 +36,10 @@ export function Pricing() {
     <section id="cennik" className="py-24 bg-secondary/30">
       <div className="container mx-auto px-4">
         <div className="text-center max-w-2xl mx-auto mb-16">
-          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance">Cennik Usług</h2>
+          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance relative inline-block">
+            Cennik Usług
+            <span className="absolute -top-2 -right-3 text-[#D4AF37] text-2xl">✨</span>
+          </h2>
           <p className="text-lg text-muted-foreground">
             Przejrzyste ceny za profesjonalne usługi kosmetyczne najwyższej jakości
           </p>
@@ -55,12 +58,12 @@ export function Pricing() {
                       <h4 className="font-semibold text-sm leading-tight flex-1">
                         {service.name}
                         {service.popular && (
-                          <span className="ml-2 text-xs bg-primary/10 text-primary px-2 py-0.5 rounded-full">
+                          <span className="ml-2 text-xs bg-[#D4AF37]/20 text-[#D4AF37] px-2 py-0.5 rounded-full border border-[#D4AF37]/30">
                             Popularne
                           </span>
                         )}
                       </h4>
-                      <span className="font-bold text-primary whitespace-nowrap">{service.price}</span>
+                      <span className="font-bold text-[#D4AF37] whitespace-nowrap">{service.price}</span>
                     </div>
                     <p className="text-xs text-muted-foreground">{service.duration}</p>
                   </div>

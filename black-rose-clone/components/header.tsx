@@ -33,7 +33,11 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-primary">Black Rose</h1>
+            <img 
+              src="/logo-2.png" 
+              alt="Black Rose Salon Kosmetyczny" 
+              className="h-10 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}

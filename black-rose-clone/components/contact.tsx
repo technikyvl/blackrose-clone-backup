@@ -33,10 +33,7 @@ export function Contact() {
     <section id="kontakt" className="py-24">
       <div className="container mx-auto px-4">
         <div className="text-center max-w-2xl mx-auto mb-16">
-          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance relative inline-block">
-            Skontaktuj się z nami
-            <span className="absolute -top-2 -right-3 text-[#D4AF37] text-2xl">✨</span>
-          </h2>
+          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance">Skontaktuj się z nami</h2>
           <p className="text-lg text-muted-foreground">
             Zarezerwuj wizytę telefonicznie lub online. Chętnie odpowiemy na wszystkie pytania
           </p>
@@ -46,16 +43,16 @@ export function Contact() {
           {contactInfo.map((info, index) => {
             const Icon = info.icon
             return (
-              <Card key={index} className="border-border/50 hover:shadow-lg transition-shadow border-[#D4AF37]/20">
+              <Card key={index} className="border-border/50 hover:shadow-lg transition-shadow">
                 <CardContent className="p-6 text-center space-y-3">
-                  <div className="w-12 h-12 bg-[#D4AF37]/10 rounded-full flex items-center justify-center mx-auto border border-[#D4AF37]/30">
-                    <Icon className="w-6 h-6 text-[#D4AF37]" />
+                  <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
+                    <Icon className="w-6 h-6 text-primary" />
                   </div>
                   <h3 className="font-semibold">{info.title}</h3>
                   {info.link ? (
                     <a
                       href={info.link}
-                      className="text-sm text-muted-foreground hover:text-[#D4AF37] transition-colors block"
+                      className="text-sm text-muted-foreground hover:text-primary transition-colors block"
                     >
                       {info.content}
                     </a>

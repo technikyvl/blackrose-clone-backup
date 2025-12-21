@@ -36,10 +36,7 @@ export function Pricing() {
     <section id="cennik" className="py-24 bg-secondary/30">
       <div className="container mx-auto px-4">
         <div className="text-center max-w-2xl mx-auto mb-16">
-          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance relative inline-block">
-            Cennik Usług
-            <span className="absolute -top-2 -right-3 text-[#D4AF37] text-2xl">✨</span>
-          </h2>
+          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance">Cennik Usług</h2>
           <p className="text-lg text-muted-foreground">
             Przejrzyste ceny za profesjonalne usługi kosmetyczne najwyższej jakości
           </p>
@@ -47,7 +44,7 @@ export function Pricing() {
 
         <div className="grid lg:grid-cols-3 gap-8">
           {pricingCategories.map((category, index) => (
-            <Card key={index} className="border-border/50 hover:border-[#D4AF37]/30 transition-colors">
+            <Card key={index} className="border-border/50">
               <CardHeader>
                 <CardTitle className="text-2xl">{category.category}</CardTitle>
               </CardHeader>

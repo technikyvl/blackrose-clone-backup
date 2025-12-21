@@ -40,10 +40,7 @@ export function Services() {
     <section id="uslugi" className="py-24 bg-secondary/30">
       <div className="container mx-auto px-4">
         <div className="text-center max-w-2xl mx-auto mb-16">
-          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance relative inline-block">
-            Nasze Usługi
-            <span className="absolute -top-2 -right-3 text-[#D4AF37] text-2xl">✨</span>
-          </h2>
+          <h2 className="text-4xl lg:text-5xl font-bold mb-4 text-balance">Nasze Usługi</h2>
           <p className="text-lg text-muted-foreground">
             Odkryj pełną gamę profesjonalnych zabiegów kosmetycznych dostosowanych do Twoich potrzeb
           </p>

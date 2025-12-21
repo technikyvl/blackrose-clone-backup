@@ -12,10 +12,7 @@ export function About() {
       <div className="container mx-auto px-4">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h2 className="text-4xl lg:text-5xl font-bold text-balance relative inline-block">
-              O Salonie Black Rose
-              <span className="absolute -top-2 -right-3 text-[#D4AF37] text-2xl">✨</span>
-            </h2>
+            <h2 className="text-4xl lg:text-5xl font-bold text-balance">O Salonie Black Rose</h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
               Salon Kosmetyczny Black Rose to miejsce, gdzie profesjonalizm spotyka się z elegancją. Znajdujemy się w
               sercu Czechowic-Dziedzic i od lat dbamy o piękno i zadowolenie naszych klientek.
@@ -27,14 +24,14 @@ export function About() {
 
             <div className="pt-6 space-y-4">
               <div className="flex items-start gap-3">
-                <MapPin className="w-5 h-5 text-[#D4AF37] mt-1 flex-shrink-0" />
+                <MapPin className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                 <div>
                   <p className="font-semibold">Lokalizacja</p>
                   <p className="text-muted-foreground">ks. Barabasza 6, 43-502 Czechowice-Dziedzic</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
-                <Clock className="w-5 h-5 text-[#D4AF37] mt-1 flex-shrink-0" />
+                <Clock className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                 <div>
                   <p className="font-semibold">Godziny otwarcia</p>
                   <p className="text-muted-foreground">Pn-Pt: 9:00 - 18:00 | Sb: 9:00 - 14:00</p>

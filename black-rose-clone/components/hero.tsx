@@ -9,7 +9,7 @@ export function Hero() {
           {/* Left Content */}
           <div className="space-y-8">
             <div className="flex items-center gap-2 text-sm">
-              <Star className="w-5 h-5 fill-[#D4AF37] text-[#D4AF37]" />
+              <Star className="w-5 h-5 fill-primary text-primary" />
               <span className="font-semibold">5.0</span>
               <span className="text-muted-foreground">• 326 opinii</span>
             </div>
@@ -20,10 +20,7 @@ export function Hero() {
                 <br />
                 Kosmetyczny
                 <br />
-                <span className="text-primary relative">
-                  Black Rose
-                  <span className="absolute -top-2 -right-2 text-[#D4AF37] text-3xl">✨</span>
-                </span>
+                <span className="text-primary">Black Rose</span>
               </h1>
 
               <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">

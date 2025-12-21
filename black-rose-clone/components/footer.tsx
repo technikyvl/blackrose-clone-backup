@@ -6,10 +6,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-primary relative inline-block">
-              Black Rose
-              <span className="absolute -top-1 -right-1 text-[#D4AF37]">✨</span>
-            </h3>
+            <h3 className="text-xl font-bold text-primary">Black Rose</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
               Salon Kosmetyczny w Czechowicach-Dziedzicach. Profesjonalna pielęgnacja i relaks.
             </p>

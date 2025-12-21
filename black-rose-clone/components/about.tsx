@@ -44,9 +44,9 @@ export function About() {
             {stats.map((stat, index) => {
               const Icon = stat.icon
               return (
-                <div key={index} className="bg-secondary/50 rounded-2xl p-8 text-center border border-[#D4AF37]/20">
-                  <Icon className="w-10 h-10 text-[#D4AF37] mx-auto mb-4" />
-                  <p className="text-4xl font-bold text-[#D4AF37] mb-2">{stat.value}</p>
+                <div key={index} className="bg-secondary/50 rounded-2xl p-8 text-center">
+                  <Icon className="w-10 h-10 text-primary mx-auto mb-4" />
+                  <p className="text-4xl font-bold text-primary mb-2">{stat.value}</p>
                   <p className="text-muted-foreground">{stat.label}</p>
                 </div>
               )

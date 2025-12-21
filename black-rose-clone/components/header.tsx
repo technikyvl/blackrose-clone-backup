@@ -87,25 +87,25 @@ export function Header() {
             <nav className="flex flex-col gap-4">
               <button
                 onClick={() => scrollToSection("uslugi")}
-                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
+                className="text-left text-foreground hover:text-primary transition-colors"
               >
                 Usługi
               </button>
               <button
                 onClick={() => scrollToSection("o-nas")}
-                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
+                className="text-left text-foreground hover:text-primary transition-colors"
               >
                 O Nas
               </button>
               <button
                 onClick={() => scrollToSection("cennik")}
-                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
+                className="text-left text-foreground hover:text-primary transition-colors"
               >
                 Cennik
               </button>
               <button
                 onClick={() => scrollToSection("kontakt")}
-                className="text-left text-foreground hover:text-[#D4AF37] transition-colors"
+                className="text-left text-foreground hover:text-primary transition-colors"
               >
                 Kontakt
               </button>

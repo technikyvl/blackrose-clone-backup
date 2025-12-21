@@ -50,17 +50,17 @@ export function Services() {
           {services.map((service, index) => {
             const Icon = service.icon
             return (
-              <Card key={index} className="relative hover:shadow-lg transition-shadow border-border/50 hover:border-[#D4AF37]/30">
+              <Card key={index} className="relative hover:shadow-lg transition-shadow border-border/50">
                 {service.popular && (
                   <div className="absolute top-4 right-4">
-                    <span className="bg-[#D4AF37] text-white text-xs px-3 py-1 rounded-full font-semibold shadow-md">
+                    <span className="bg-primary text-primary-foreground text-xs px-3 py-1 rounded-full font-semibold">
                       Popularne
                     </span>
                   </div>
                 )}
                 <CardContent className="p-6 space-y-4">
-                  <div className="w-12 h-12 bg-[#D4AF37]/10 rounded-xl flex items-center justify-center border border-[#D4AF37]/20">
-                    <Icon className="w-6 h-6 text-[#D4AF37]" />
+                  <div className="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center">
+                    <Icon className="w-6 h-6 text-primary" />
                   </div>
                   <h3 className="text-xl font-bold">{service.title}</h3>
                   <p className="text-muted-foreground leading-relaxed">{service.description}</p>

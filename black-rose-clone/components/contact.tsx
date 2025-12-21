@@ -65,11 +65,8 @@ export function Contact() {
           })}
         </div>
 
-        <div className="bg-primary/5 rounded-3xl p-8 md:p-12 text-center space-y-6 border border-[#D4AF37]/20">
-          <h3 className="text-3xl font-bold relative inline-block">
-            Gotowa na transformację?
-            <span className="absolute -top-1 -right-2 text-[#D4AF37]">✨</span>
-          </h3>
+        <div className="bg-primary/5 rounded-3xl p-8 md:p-12 text-center space-y-6">
+          <h3 className="text-3xl font-bold">Gotowa na transformację?</h3>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Zarezerwuj wizytę online i doświadcz profesjonalnej obsługi w Black Rose
           </p>

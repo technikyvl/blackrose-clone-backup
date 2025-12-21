@@ -55,12 +55,12 @@ export function Pricing() {
                       <h4 className="font-semibold text-sm leading-tight flex-1">
                         {service.name}
                         {service.popular && (
-                          <span className="ml-2 text-xs bg-[#D4AF37]/20 text-[#D4AF37] px-2 py-0.5 rounded-full border border-[#D4AF37]/30">
+                          <span className="ml-2 text-xs bg-primary/10 text-primary px-2 py-0.5 rounded-full">
                             Popularne
                           </span>
                         )}
                       </h4>
-                      <span className="font-bold text-[#D4AF37] whitespace-nowrap">{service.price}</span>
+                      <span className="font-bold text-primary whitespace-nowrap">{service.price}</span>
                     </div>
                     <p className="text-xs text-muted-foreground">{service.duration}</p>
                   </div>

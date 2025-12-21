@@ -39,9 +39,9 @@ export function Hero() {
               </Button>
             </div>
 
-            <div className="pt-8 border-t border-[#D4AF37]/30">
-              <div className="bg-muted/50 rounded-2xl p-6 inline-block border border-[#D4AF37]/20">
-                <p className="text-3xl font-bold text-[#D4AF37]">500+</p>
+            <div className="pt-8 border-t border-border">
+              <div className="bg-muted/50 rounded-2xl p-6 inline-block">
+                <p className="text-3xl font-bold text-primary">500+</p>
                 <p className="text-sm text-muted-foreground">
                   zadowolonych klientek
                   <br />w tym roku

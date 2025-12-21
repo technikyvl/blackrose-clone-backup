@@ -53,7 +53,7 @@ export function Services() {
           {services.map((service, index) => {
             const Icon = service.icon
             return (
-              <Card key={index} className="relative hover:shadow-lg transition-shadow border-border/50">
+              <Card key={index} className="relative hover:shadow-lg transition-shadow border-border/50 hover:border-[#D4AF37]/30">
                 {service.popular && (
                   <div className="absolute top-4 right-4">
                     <span className="bg-[#D4AF37] text-white text-xs px-3 py-1 rounded-full font-semibold shadow-md">

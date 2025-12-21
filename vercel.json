@@ -1,7 +1,7 @@
 {
-  "buildCommand": "npm run build",
+  "framework": "nextjs",
   "installCommand": "cd black-rose-clone && npm install",
-  "outputDirectory": "black-rose-clone/.next",
-  "framework": "nextjs"
+  "buildCommand": "cd black-rose-clone && npm run build",
+  "outputDirectory": "black-rose-clone/.next"
 }
 

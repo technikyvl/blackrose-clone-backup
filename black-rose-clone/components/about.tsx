@@ -27,7 +27,7 @@ export function About() {
                 <MapPin className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                 <div>
                   <p className="font-semibold">Lokalizacja</p>
-                  <p className="text-muted-foreground">ks. Barabasza 6, 43-502 Czechowice-Dziedzic</p>
+                  <p className="text-muted-foreground">ks. Barabasza 6, 43-502 Czechowice-Dziedzice</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">

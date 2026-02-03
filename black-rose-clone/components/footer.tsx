@@ -7,13 +7,16 @@ const footerLinks = {
     { label: "Manicure & Pedicure", href: "#uslugi" },
     { label: "Oprawa Oka", href: "#uslugi" },
     { label: "Zabiegi na Twarz", href: "#uslugi" },
-    { label: "Zabiegi Ciała", href: "#uslugi" },
+    { label: "Metamorfozy", href: "#metamorfozy" },
+    { label: "Galeria", href: "#galeria" },
   ],
   info: [
     { label: "O nas", href: "#o-nas" },
+    { label: "Zespół", href: "#zespol" },
     { label: "Cennik", href: "#cennik" },
-    { label: "Kontakt", href: "#kontakt" },
-    { label: "Rezerwacja", href: "#kontakt" },
+    { label: "Promocje", href: "#promocje" },
+    { label: "Opinie", href: "#opinie" },
+    { label: "FAQ", href: "#faq" },
   ],
 }
 
@@ -38,9 +41,9 @@ export function Footer() {
 
       {/* Main Footer Content */}
       <div className="relative max-w-7xl mx-auto px-6 lg:px-8 py-16 lg:py-20">
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 lg:gap-12">
           {/* Brand Column */}
-          <div className="lg:col-span-1">
+          <div className="col-span-2 md:col-span-3 lg:col-span-2">
             <h3
               className="text-2xl text-white mb-4"
               style={{ fontFamily: "var(--font-playfair), Georgia, serif" }}
@@ -48,7 +51,7 @@ export function Footer() {
               Black <span className="italic text-[#F8B4C8]">Rose</span>
             </h3>
 
-            <p className="text-[14px] text-white/60 leading-relaxed mb-6">
+            <p className="text-[14px] text-white/60 leading-relaxed mb-6 max-w-sm">
               Salon Kosmetyczny w Czechowicach-Dziedzicach.
               Profesjonalna pielęgnacja i relaks w eleganckim otoczeniu.
             </p>
@@ -116,12 +119,16 @@ export function Footer() {
             <h4 className="text-[13px] tracking-[0.15em] uppercase text-[#F8B4C8] mb-6">
               Kontakt
             </h4>
-            <div className="space-y-4 text-[14px] text-white/60">
+            <div className="space-y-3 text-[14px] text-white/60">
               <p>ks. Barabasza 6</p>
               <p>43-502 Czechowice-Dziedzice</p>
               <div className="w-8 h-px bg-white/20 my-4" />
               <p>Pn-Pt: 9:00 - 18:00</p>
               <p>Sb: 9:00 - 14:00</p>
+              <div className="w-8 h-px bg-white/20 my-4" />
+              <a href="tel:+48XXXXXXXXX" className="hover:text-[#F8B4C8] transition-colors block">
+                +48 XXX XXX XXX
+              </a>
             </div>
           </div>
         </div>

@@ -47,10 +47,11 @@ export function Header() {
           </a>
 
           {/* Desktop Navigation */}
-          <nav className="hidden md:flex items-center gap-10">
+          <nav className="hidden md:flex items-center gap-8">
             {[
               { id: "uslugi", label: "Usługi" },
               { id: "o-nas", label: "O nas" },
+              { id: "zespol", label: "Zespół" },
               { id: "cennik", label: "Cennik" },
               { id: "kontakt", label: "Kontakt" },
             ].map((item) => (
@@ -104,6 +105,7 @@ export function Header() {
           {[
             { id: "uslugi", label: "Usługi" },
             { id: "o-nas", label: "O nas" },
+            { id: "zespol", label: "Zespół" },
             { id: "cennik", label: "Cennik" },
             { id: "kontakt", label: "Kontakt" },
           ].map((item, index) => (

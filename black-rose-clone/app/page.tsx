@@ -7,7 +7,6 @@ import { WhyUs } from "@/components/why-us"
 import { Team } from "@/components/team"
 import { Gallery } from "@/components/gallery"
 import { Pricing } from "@/components/pricing"
-import { SpecialOffers } from "@/components/special-offers"
 import { Testimonials } from "@/components/testimonials"
 import { FAQ } from "@/components/faq"
 import { Location } from "@/components/location"
@@ -26,7 +25,6 @@ export default function Home() {
       <Team />
       <Gallery />
       <Pricing />
-      <SpecialOffers />
       <Testimonials />
       <FAQ />
       <Location />

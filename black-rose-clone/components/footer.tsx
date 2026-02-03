@@ -14,7 +14,6 @@ const footerLinks = {
     { label: "O nas", href: "#o-nas" },
     { label: "Zespół", href: "#zespol" },
     { label: "Cennik", href: "#cennik" },
-    { label: "Promocje", href: "#promocje" },
     { label: "Opinie", href: "#opinie" },
     { label: "FAQ", href: "#faq" },
   ],

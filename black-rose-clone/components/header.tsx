@@ -1,7 +1,6 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Button } from "@/components/ui/button"
 import { Phone, Menu, X } from "lucide-react"
 
 export function Header() {
@@ -26,111 +25,114 @@ export function Header() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled ? "bg-background/95 backdrop-blur-md shadow-sm" : "bg-transparent"
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
+        isScrolled
+          ? "bg-white shadow-[0_1px_0_0_#F8B4C8]"
+          : "bg-transparent"
       }`}
     >
-      <div className="container mx-auto px-4">
+      <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
-          <div className="flex items-center">
-            <a href="/" className="flex items-center">
-              <img 
-                src="/logo-2.png" 
-                alt="Black Rose Salon Kosmetyczny" 
-                className="h-10 w-auto object-contain"
-                style={{ 
-                  mixBlendMode: 'multiply',
-                  filter: 'contrast(1.2) brightness(1.1)'
-                }}
-              />
-            </a>
-          </div>
+          {/* Logo */}
+          <a href="/" className="flex items-center group">
+            <img
+              src="/logo-2.png"
+              alt="Black Rose"
+              className="h-9 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
+              style={{
+                mixBlendMode: 'multiply',
+                filter: 'contrast(1.2) brightness(1.1)'
+              }}
+            />
+          </a>
 
           {/* Desktop Navigation */}
-          <nav className="hidden md:flex items-center gap-8">
-            <button
-              onClick={() => scrollToSection("uslugi")}
-              className="text-foreground hover:text-primary transition-colors"
-            >
-              Usługi
-            </button>
-            <button
-              onClick={() => scrollToSection("o-nas")}
-              className="text-foreground hover:text-primary transition-colors"
-            >
-              O Nas
-            </button>
-            <button
-              onClick={() => scrollToSection("cennik")}
-              className="text-foreground hover:text-primary transition-colors"
-            >
-              Cennik
-            </button>
-            <button
-              onClick={() => scrollToSection("kontakt")}
-              className="text-foreground hover:text-primary transition-colors"
-            >
-              Kontakt
-            </button>
+          <nav className="hidden md:flex items-center gap-10">
+            {[
+              { id: "uslugi", label: "Usługi" },
+              { id: "o-nas", label: "O nas" },
+              { id: "cennik", label: "Cennik" },
+              { id: "kontakt", label: "Kontakt" },
+            ].map((item) => (
+              <button
+                key={item.id}
+                onClick={() => scrollToSection(item.id)}
+                className="relative text-[15px] tracking-wide text-[#1A1A1A] hover:text-[#1A1A1A] transition-colors group"
+              >
+                {item.label}
+                <span className="absolute -bottom-1 left-0 w-0 h-[2px] bg-[#F8B4C8] transition-all duration-300 group-hover:w-full" />
+              </button>
+            ))}
           </nav>
 
-          {/* Desktop CTA Buttons */}
+          {/* Desktop CTA */}
           <div className="hidden md:flex items-center gap-4">
-            <Button variant="ghost" size="sm">
-              <Phone className="w-4 h-4 mr-2" />
-              Zadzwoń
-            </Button>
-            <Button size="sm" className="bg-primary hover:bg-primary/90">
-              Zarezerwuj wizytę
-            </Button>
+            <a
+              href="tel:+48XXXXXXXXX"
+              className="flex items-center gap-2 text-[15px] text-[#4A4A4A] hover:text-[#1A1A1A] transition-colors"
+            >
+              <Phone className="w-4 h-4" />
+              <span>Zadzwoń</span>
+            </a>
+            <button
+              onClick={() => scrollToSection("kontakt")}
+              className="pill-button pill-button-primary text-[14px]"
+            >
+              Zarezerwuj
+            </button>
           </div>
 
           {/* Mobile Menu Button */}
-          <button className="md:hidden text-foreground" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
+          <button
+            className="md:hidden p-2 text-[#1A1A1A] hover:bg-[#FFF5F8] rounded-full transition-colors"
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+          >
             {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
           </button>
         </div>
+      </div>
 
-        {/* Mobile Menu */}
-        {isMobileMenuOpen && (
-          <div className="md:hidden py-4 border-t border-border">
-            <nav className="flex flex-col gap-4">
-              <button
-                onClick={() => scrollToSection("uslugi")}
-                className="text-left text-foreground hover:text-primary transition-colors"
-              >
-                Usługi
-              </button>
-              <button
-                onClick={() => scrollToSection("o-nas")}
-                className="text-left text-foreground hover:text-primary transition-colors"
-              >
-                O Nas
-              </button>
-              <button
-                onClick={() => scrollToSection("cennik")}
-                className="text-left text-foreground hover:text-primary transition-colors"
-              >
-                Cennik
-              </button>
-              <button
-                onClick={() => scrollToSection("kontakt")}
-                className="text-left text-foreground hover:text-primary transition-colors"
-              >
-                Kontakt
-              </button>
-              <div className="flex flex-col gap-2 pt-4">
-                <Button variant="outline" size="sm" className="justify-start bg-transparent">
-                  <Phone className="w-4 h-4 mr-2" />
-                  Zadzwoń
-                </Button>
-                <Button size="sm" className="bg-primary hover:bg-primary/90">
-                  Zarezerwuj wizytę
-                </Button>
-              </div>
-            </nav>
+      {/* Mobile Menu */}
+      <div
+        className={`md:hidden absolute top-full left-0 right-0 bg-white border-b border-[#F8B4C8] transition-all duration-300 ${
+          isMobileMenuOpen
+            ? "opacity-100 translate-y-0"
+            : "opacity-0 -translate-y-4 pointer-events-none"
+        }`}
+      >
+        <nav className="flex flex-col px-6 py-6 gap-1">
+          {[
+            { id: "uslugi", label: "Usługi" },
+            { id: "o-nas", label: "O nas" },
+            { id: "cennik", label: "Cennik" },
+            { id: "kontakt", label: "Kontakt" },
+          ].map((item, index) => (
+            <button
+              key={item.id}
+              onClick={() => scrollToSection(item.id)}
+              className="text-left py-3 px-4 text-[17px] text-[#1A1A1A] hover:bg-[#FFF5F8] rounded-lg transition-colors"
+              style={{ animationDelay: `${index * 50}ms` }}
+            >
+              {item.label}
+            </button>
+          ))}
+
+          <div className="mt-4 pt-4 border-t border-[#E5E5E5] space-y-3">
+            <a
+              href="tel:+48XXXXXXXXX"
+              className="flex items-center gap-3 py-3 px-4 text-[#4A4A4A] hover:bg-[#FFF5F8] rounded-lg transition-colors"
+            >
+              <Phone className="w-5 h-5" />
+              <span>Zadzwoń do nas</span>
+            </a>
+            <button
+              onClick={() => scrollToSection("kontakt")}
+              className="w-full pill-button pill-button-secondary text-center"
+            >
+              Zarezerwuj wizytę
+            </button>
           </div>
-        )}
+        </nav>
       </div>
     </header>
   )

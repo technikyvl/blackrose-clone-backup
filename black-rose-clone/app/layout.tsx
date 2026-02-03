@@ -1,12 +1,20 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { Questrial } from "next/font/google"
+import { Questrial, Playfair_Display } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
 
 const questrial = Questrial({
   weight: "400",
   subsets: ["latin"],
+  variable: "--font-questrial",
+})
+
+const playfair = Playfair_Display({
+  subsets: ["latin"],
+  variable: "--font-playfair",
+  weight: ["400", "500", "600", "700"],
+  style: ["normal", "italic"],
 })
 
 export const metadata: Metadata = {
@@ -39,7 +47,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="pl">
+    <html lang="pl" className={`${questrial.variable} ${playfair.variable}`}>
       <body className={`${questrial.className} antialiased`}>
         {children}
         <Analytics />

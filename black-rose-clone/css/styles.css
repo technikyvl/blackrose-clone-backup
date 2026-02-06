@@ -4129,11 +4129,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .service-cta .cta-reserve-btn {
-  display: inline-flex;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  align-self: flex-start;
   margin-bottom: 2.5rem;
   font-size: 15px;
   padding: 0.875rem 2.5rem;
   text-decoration: none;
+  background-color: var(--ink);
+  color: var(--pure-white);
+  border-radius: 9999px;
+  font-family: 'Questrial', sans-serif;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.service-cta .cta-reserve-btn:hover {
+  background-color: #000000;
+  transform: translateY(-2px);
 }
 
 .service-cta .cta-line {

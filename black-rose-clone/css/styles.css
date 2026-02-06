@@ -30,7 +30,7 @@ html {
 }
 
 body {
-  font-family: var(--font-sans);
+  font-family: 'Questrial', sans-serif;
   background-color: var(--pure-white);
   color: var(--ink);
   -webkit-font-smoothing: antialiased;
@@ -95,11 +95,23 @@ section {
    Typography
    ==================================== */
 .font-serif {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
 }
 
 .font-sans {
-  font-family: var(--font-sans);
+  font-family: 'Questrial', sans-serif;
+}
+
+/* Global accent class - always Playfair Display italic */
+.accent {
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-style: italic;
+}
+
+/* All headings use Questrial (body font) by default */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Questrial', sans-serif;
+  font-weight: 400;
 }
 
 /* ====================================
@@ -121,7 +133,7 @@ section {
    Decorative Number Styles
    ==================================== */
 .decorative-number {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-weight: 400;
   color: var(--rose);
   line-height: 0.85;
@@ -652,7 +664,7 @@ section {
 }
 
 .hero-heading .accent {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   color: var(--rose);
   margin-top: 0.5rem;
@@ -702,7 +714,7 @@ section {
 }
 
 .hero-stat-value {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: clamp(2.5rem, 5vw, 3.75rem);
   color: var(--rose);
   line-height: 1;
@@ -855,7 +867,7 @@ section {
 }
 
 .section-title .accent {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   color: var(--rose);
 }
@@ -941,7 +953,7 @@ section {
   position: absolute;
   top: 1rem;
   left: 1.5rem;
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: clamp(3.5rem, 6vw, 5rem);
   color: var(--rose);
   opacity: 0.4;
@@ -960,7 +972,7 @@ section {
 }
 
 .service-card-content h3 .accent {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   color: var(--rose);
 }
@@ -1210,7 +1222,7 @@ section {
   position: absolute;
   top: -2rem;
   left: -1rem;
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 120px;
   color: var(--rose);
   opacity: 0.2;
@@ -1232,7 +1244,7 @@ section {
 }
 
 .ba-info .subtitle {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   font-size: clamp(1.25rem, 2.5vw, 1.875rem);
   color: var(--rose);
@@ -1448,7 +1460,7 @@ section {
 }
 
 .about-stat-value {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: clamp(2rem, 4vw, 3.75rem);
   color: var(--rose);
   line-height: 1;
@@ -1534,7 +1546,7 @@ section {
   position: absolute;
   top: -1rem;
   left: -0.5rem;
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 5rem;
   color: var(--rose);
   opacity: 0.1;
@@ -1621,7 +1633,7 @@ section {
 }
 
 .stats-banner-value {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: clamp(2rem, 4vw, 3rem);
   color: var(--ink);
   margin-bottom: 0.5rem;
@@ -1777,7 +1789,7 @@ section {
 }
 
 .team-card-content h3 .accent {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   color: var(--rose);
 }
@@ -2120,7 +2132,7 @@ section {
 }
 
 .pricing-decorative span {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 50vw;
   color: var(--pure-white);
   opacity: 0.3;
@@ -2180,7 +2192,7 @@ section {
   position: absolute;
   top: 1rem;
   right: 1.5rem;
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 3.75rem;
   color: var(--rose);
   opacity: 0.4;
@@ -2194,7 +2206,7 @@ section {
 }
 
 .pricing-card-header h3 .accent {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   color: var(--rose);
 }
@@ -2265,7 +2277,7 @@ section {
 }
 
 .pricing-service-price {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 1.25rem;
   color: var(--rose);
   font-weight: 500;
@@ -2329,7 +2341,7 @@ section {
 }
 
 .testimonials-decorative span {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 40vw;
   color: var(--pure-white);
   opacity: 0.02;
@@ -2364,7 +2376,7 @@ section {
 }
 
 .rating-summary-value {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: clamp(3rem, 6vw, 4.375rem);
   color: var(--rose);
 }
@@ -2769,7 +2781,7 @@ section {
 }
 
 .faq-question-number {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 1.5rem;
   color: var(--rose);
   opacity: 0.4;
@@ -2875,7 +2887,7 @@ section {
 }
 
 .location-decorative span {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 40vw;
   color: var(--pure-white);
   opacity: 0.02;
@@ -3330,7 +3342,7 @@ section {
 }
 
 .contact-cta-inner h3 {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: clamp(1.5rem, 3vw, 2.5rem);
   color: var(--pure-white);
   margin-bottom: 1rem;
@@ -3371,7 +3383,7 @@ section {
 }
 
 .footer-decorative span {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 40vw;
   color: var(--pure-white);
   opacity: 0.02;
@@ -3433,7 +3445,7 @@ section {
 }
 
 .footer-brand h3 {
-  font-family: var(--font-serif);
+  font-family: 'Playfair Display', Georgia, serif;
   font-size: 1.5rem;
   color: var(--pure-white);
   margin-bottom: 1rem;

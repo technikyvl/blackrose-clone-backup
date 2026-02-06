@@ -1,0 +1,67 @@
+CONTENT BRIEF: Masaż StópURL: /masaz/masaz-stop/
+Typ strony: Tier 3 (podstrona szczegółowa)Metadane SEOTitle: Masaż Stóp Czechowice-Dziedzice - Black Rose | 70 zł | 30 minMeta Description: Masaż stóp w Czechowicach-Dziedzicach ✓ 70 zł ✓ 30 min ✓ Refleksologia ✓ Relaks ✓ Zmęczone stopy ✓ Umów wizytę online!H1: Masaż Stóp w Czechowicach-DziedzicachDługość: 400-500 słówStruktura treści1. Wprowadzenie (50 słów)
+
+Czym jest masaż stóp (refleksologia, terapia manualna)
+Główne korzyści (relaks, poprawa krążenia, redukcja bólu, regeneracja)
+2. Jak działa (100 słów)
+
+Refleksologia - punkty na stopach odpowiadają narządom
+Stymulacja punktów refleksologicznych
+Poprawa krążenia w stopach
+Redukcja napięć
+Relaks całego ciała (poprzez stopy)
+Łagodne ugniatanie, głaskanie, akupresura
+Czas: 30 minut
+3. Dla kogo (80 słów)
+
+Każdy - kobiety, mężczyźni, seniorzy
+Zmęczone, przeciążone stopy (stanie, chodzenie)
+Obrzęki stóp
+Zimne stopy (zaburzenia krążenia)
+Ból stóp
+Stres (relaks poprzez stopy)
+Przeciwwskazania: grzybica, rany otwarte, zakrzepica
+4. Przebieg masażu (100 słów)
+
+Namoczenie stóp w ciepłej wodzie (5-10 min)
+Osuszenie
+Aplikacja olejku lub kremu
+Masaż stóp (podeszwa, pięta, palce, grzbiet)
+Akupresura (punkty refleksologiczne)
+Delikatne rozciąganie palców
+Głęboki relaks
+Czas: 30 minut
+5. Efekty (80 słów)
+
+Natychmiastowe: relaks, lekkość stóp, ciepło
+Poprawa krążenia (ciepłe stopy)
+Redukcja obrzęków
+Redukcja bólu
+Relaks całego ciała
+Lepsza jakość snu
+Efekty utrzymują się 3-7 dni
+Regularne masaże: profilaktyka, zdrowie stóp
+6. Cena (30 słów)
+
+Masaż stóp 30 min: 70 zł
+7. Pielęgnacja (50 słów)
+
+Nawilżać stopy codziennie
+Wygodne obuwie
+Peeling stóp (raz w tygodniu)
+Regularne masaże (raz w miesiącu)
+8. FAQ (3-4 pytania)
+
+Czy masaż stóp boli?
+Ile trwa masaż stóp?
+Czy masaż stóp pomaga na obrzęki?
+Co to jest refleksologia stóp?
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /masaz/ (kategoria główna)
+Link do: /manicure-pedicure/pedicure-spa/ (kompleksowa pielęgnacja stóp)
+Schema Markup:
+
+Service schema
+Offer schema (cena 70 zł, czas 30 min)

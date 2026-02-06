@@ -1,0 +1,78 @@
+CONTENT BRIEF: Maska Algowa
+URL: /zabiegi-na-twarz/maska-algowa/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Maska Algowa Czechowice-Dziedzice - Black Rose | 80 zł | 30 min
+Meta Description: Maska algowa w Czechowicach-Dziedzicach ✓ 80 zł ✓ 30 min ✓ Intensywne nawilżenie ✓ Regeneracja ✓ Relaks ✓ Umów wizytę!
+H1: Maska Algowa w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest maska algowa (maska z alg morskich)
+Główne korzyści (intensywne nawilżenie, regeneracja, detoks)
+
+2. Jak działa (100 słów)
+
+Algi morskie - minerały, witaminy, mikroelementy
+Głębokie nawilżenie
+Efekt okluzyjny - lepsze wchłanianie składników aktywnych
+Detoksykacja
+Relaksujący zabieg
+Czas: 30 minut
+
+3. Dla kogo (80 słów)
+
+Każdy typ skóry (szczególnie sucha, odwodniona)
+Zmęczona, szara skóra
+Po zabiegach oczyszczających (jako uzupełnienie)
+Osoby szukające relaksu i nawilżenia
+Brak przeciwwskazań
+
+4. Przebieg zabiegu (100 słów)
+
+Oczyszczenie twarzy
+Aplikacja serum (opcjonalnie)
+Nałożenie maski algowej (15-20 min)
+Usunięcie maski (ściąga się jak guma)
+Krem nawilżający
+Efekt: natychmiastowe nawilżenie, gładkość
+
+5. Efekty (80 słów)
+
+Natychmiastowe: intensywne nawilżenie, gładkość, rozjaśnienie
+Detoksykacja
+Ujędrnienie
+Poprawa kolorytu
+Efekty utrzymują się 3-7 dni
+Można robić regularnie (raz w tygodniu)
+
+6. Cena (30 słów)
+
+Maska algowa: 80 zł (30 min)
+Często dodawana do innych zabiegów
+
+7. Pielęgnacja (50 słów)
+
+Nawilżanie codzienne (przedłuża efekt)
+Ochrona SPF
+Picie wody
+
+8. FAQ (3-4 pytania)
+
+Jakie efekty daje maska algowa?
+Jak często robić maskę algową?
+Czy maska algowa nawilża?
+Dla kogo maska algowa?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /zabiegi-na-twarz/ (kategoria główna)
+Link do: /zabiegi-na-twarz/wodorowe-oczyszczanie/ (zabieg + maska)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 80 zł, czas 30 min)

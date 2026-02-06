@@ -1,0 +1,78 @@
+CONTENT BRIEF: Peeling Węglowy
+URL: /zabiegi-na-twarz/peeling-weglowy/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Peeling Węglowy Czechowice-Dziedzice - Black Rose | 200 zł | 45 min
+Meta Description: Peeling węglowy w Czechowicach-Dziedzicach ✓ Redukcja zmarszczek ✓ Zwężenie porów ✓ 200 zł ✓ 45 min ✓ Widoczne efekty od 1 zabiegu ✓ Umów wizytę!
+H1: Peeling Węglowy w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest peeling węglowy (Carbon Laser Peel, Hollywood Peel)
+Główne korzyści (redukcja zmarszczek, zwężenie porów, rozjaśnienie, gładkość)
+
+2. Jak działa (100 słów)
+
+Nałożenie maski węglowej (wnika w pory)
+Laser Nd:YAG - rozbija węgiel + stymuluje kolagen
+Efekt: oczyszczenie porów, lifting, rozjaśnienie
+Bezbolesny zabieg (uczucie ciepła)
+Czas: 45 minut
+
+3. Dla kogo (80 słów)
+
+Rozszerzone pory
+Tłusta, mieszana skóra
+Zmarszczki mimiczne
+Przebarwienia, nierówny koloryt
+Blizny potrądzikowe
+Przeciwwskazania: ciąża, aktywne infekcje, świeża opalenizna
+
+4. Przebieg zabiegu (100 słów)
+
+Oczyszczenie twarzy
+Nałożenie maski węglowej (10 min schnięcia)
+Usunięcie węgla laserem (15-20 min)
+Maska kojąca + serum
+Brak rekonwalescencji
+Możliwe: lekkie zaczerwienienie (2-3h)
+
+5. Efekty (80 słów)
+
+Widoczne od pierwszego zabiegu: gładkość, rozjaśnienie
+Seria 4-6 zabiegów co 2-3 tygodnie (optymalne efekty)
+Długoterminowe: zwężenie porów, redukcja zmarszczek 30%
+Stymulacja produkcji kolagenu (3-6 miesięcy)
+Zabiegi podtrzymujące: raz na 4-6 tygodni
+
+6. Cena (30 słów)
+
+Peeling węglowy: 200 zł (45 min)
+Pakiet 4 zabiegów: ~750 zł (sprawdź w Booksy)
+
+7. Pielęgnacja (50 słów)
+
+Unikać słońca przez 2 tygodnie (SPF 50+)
+Nawilżanie intensywne
+Nie stosować retinoidów przez 3 dni
+Delikatne oczyszczanie
+
+8. FAQ (3-4 pytania)
+
+Czy peeling węglowy boli?
+Ile zabiegów peelingu węglowego potrzeba?
+Jakie efekty daje peeling węglowy?
+Kiedy widoczne efekty peelingu węglowego?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /zabiegi-na-twarz/ (kategoria główna)
+Link do: /zabiegi-na-twarz/mezoterapia-mikroiglowa/ (komplementarny zabieg)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 200 zł, czas 45 min)

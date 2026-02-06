@@ -1,0 +1,78 @@
+CONTENT BRIEF: Mezoterapia Mikroigłowa Twarz
+URL: /zabiegi-na-twarz/mezoterapia-mikroiglowa/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Mezoterapia Mikroigłowa Twarzy Czechowice-Dziedzice - Black Rose | 250 zł
+Meta Description: Mezoterapia mikroigłowa twarzy w Czechowicach-Dziedzicach ✓ 250 zł ✓ 60 min ✓ Redukcja zmarszczek ✓ Stymulacja kolagenu ✓ Umów wizytę!
+H1: Mezoterapia Mikroigłowa Twarzy w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest mezoterapia mikroigłowa (microneedling + serum)
+Główne korzyści (stymulacja kolagenu, redukcja zmarszczek, ujędrnienie)
+
+2. Jak działa (100 słów)
+
+Mikronakłuwanie skóry (drobne kanały)
+Aplikacja serum (kwas hialuronowy, witaminy, peptydy)
+Stymulacja produkcji kolagenu i elastyny
+Poprawa wchłaniania składników aktywnych
+Znieczulenie kremem (bezbolesne)
+Czas: 60 minut
+
+3. Dla kogo (80 słów)
+
+Pierwsze zmarszczki (30+)
+Utrata jędrności
+Rozszerzone pory
+Blizny potrądzikowe
+Przebarwienia
+Przeciwwskazania: ciąża, aktywne zapalenia, keloidowanie
+
+4. Przebieg zabiegu (100 słów)
+
+Oczyszczenie twarzy
+Znieczulenie kremem (20 min)
+Mezoterapia mikroigłami (30 min)
+Aplikacja serum
+Maska kojąca
+Możliwe: zaczerwienienie (24-48h)
+
+5. Efekty (80 słów)
+
+Krótkoterminowe (1 tydzień): gładkość, nawilżenie
+Długoterminowe (3-6 miesięcy): produkcja kolagenu, lifting
+Redukcja zmarszczek 20-30%
+Seria 3-5 zabiegów co 4-6 tygodni
+Efekty utrzymują się 6-12 miesięcy
+
+6. Cena (30 słów)
+
+Mezoterapia mikroigłowa twarz: 250 zł (60 min)
+
+7. Pielęgnacja (50 słów)
+
+Unikać słońca przez 2 tygodnie (SPF 50+)
+Nawilżanie intensywne
+Nie stosować retinoidów przez tydzień
+Nie ćwiczyć przez 24h
+
+8. FAQ (3-4 pytania)
+
+Czy mezoterapia mikroigłowa boli?
+Ile zabiegów mezoterapii mikroigłowej potrzeba?
+Kiedy efekty mezoterapii mikroigłowej?
+Czym różni się od RF mikroigłowej?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /zabiegi-na-twarz/ (kategoria główna)
+Link do: /radiofrekwencja-mikroiglowa/twarz/ (zaawansowana wersja)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 250 zł, czas 60 min)

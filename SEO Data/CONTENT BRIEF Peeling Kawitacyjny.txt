@@ -1,0 +1,77 @@
+CONTENT BRIEF: Peeling Kawitacyjny
+URL: /zabiegi-na-twarz/peeling-kawitacyjny/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Peeling Kawitacyjny Czechowice-Dziedzice - Black Rose | 150 zł + Sonoforeza
+Meta Description: Peeling kawitacyjny w Czechowicach-Dziedzicach ✓ 150 zł ✓ 60 min ✓ Głębokie oczyszczenie ultradźwiękami ✓ + Sonoforeza ✓ Umów wizytę!
+H1: Peeling Kawitacyjny w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest peeling kawitacyjny (oczyszczanie ultradźwiękami)
+Główne korzyści (głębokie oczyszczenie, usuwanie martwego naskórka, wygładzenie)
+
+2. Jak działa (100 słów)
+
+Ultradźwięki - wibracje usuwają martwy naskórek
+Głębokie oczyszczenie porów
+Sonoforeza - transport składników aktywnych w głąb skóry
+Stymulacja mikrokrążenia
+Bezbolesny, delikatny zabieg
+Czas: 60 minut
+
+3. Dla kogo (80 słów)
+
+Każdy typ skóry (szczególnie wrażliwa)
+Zanieczyszczona skóra
+Martwy naskórek
+Szara, zmęczona cera
+Osoby szukające delikatnego oczyszczenia
+Przeciwwskazania: aktywne zapalenia, ciąża
+
+4. Przebieg zabiegu (100 słów)
+
+Oczyszczenie twarzy
+Peeling kawitacyjny (ultradźwięki, 20 min)
+Sonoforeza (transport serumów, 20 min)
+Maska nawilżająca
+Efekt: czysta, gładka skóra
+Brak rekonwalescencji
+
+5. Efekty (80 słów)
+
+Natychmiastowe: gładkość, czystość, nawilżenie
+Usunięcie martwego naskórka
+Rozjaśnienie
+Poprawa wchłaniania kosmetyków
+Seria 4-6 zabiegów co 1-2 tygodnie (długotrwałe efekty)
+
+6. Cena (30 słów)
+
+Peeling kawitacyjny + Sonoforeza: 150 zł (60 min)
+
+7. Pielęgnacja (50 słów)
+
+Unikać słońca przez 24h (SPF 50+)
+Nawilżanie codzienne
+Stosowanie serumów (lepsza penetracja)
+
+8. FAQ (3-4 pytania)
+
+Czy peeling kawitacyjny boli?
+Jakie efekty daje peeling kawitacyjny?
+Czym różni się peeling kawitacyjny od węglowego?
+Jak często robić peeling kawitacyjny?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /zabiegi-na-twarz/ (kategoria główna)
+Link do: /zabiegi-na-twarz/wodorowe-oczyszczanie/ (alternatywa)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 150 zł, czas 60 min)

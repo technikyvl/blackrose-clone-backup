@@ -1,0 +1,93 @@
+CONTENT BRIEF: Kriolipoliza
+URL: /modelowanie-sylwetki/kriolipoliza/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Kriolipoliza Czechowice-Dziedzice - Black Rose | Od 400 zł | Redukcja Tkanki Tłuszczowej
+Meta Description: Kriolipoliza w Czechowicach-Dziedzicach ✓ Od 400 zł ✓ Redukcja 20-25% tkanki tłuszczowej ✓ Brzuch, boczki, uda ✓ Bez skalpela ✓ Umów wizytę!
+H1: Kriolipoliza w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest kriolipoliza (zamrażanie komórek tłuszczowych)
+Główne korzyści (redukcja 20-25% tkanki tłuszczowej, bez operacji, bez rekonwalescencji)
+
+2. Jak działa (100 słów)
+
+Kontrolowane zamrażanie tkanki tłuszczowej (-20 do -25°C)
+Krystalizacja i śmierć komórek tłuszczowych
+Naturalne usuwanie przez układ limfatyczny (3 miesiące)
+Nie uszkadza skóry, naczyń, nerwów
+Aplikator ssący na wybrany obszar
+Czas: 45-60 min na aplikator
+
+3. Obszary do zabiegu (80 słów)
+
+Brzuch (fałdka nad paskiem)
+Boczki ("uchwyty miłości")
+Uda (wewnętrzne, zewnętrzne)
+Podbródek (podwójny podbródek)
+Ramiona
+Pośladki (podpośladkowy fałd)
+Plecy (fałdka przy biustonoszu)
+
+4. Dla kogo (80 słów)
+
+Osoby z opornymi złogami tłuszczowymi
+BMI poniżej 30 (to nie metoda odchudzania!)
+Po utracie wagi (resztkowa tkanka tłuszczowa)
+Osoby po ciąży
+Przeciwwskazania: ciąża, nowotwory, krioglobulinemia, zimnica, stymulator serca
+
+5. Przebieg zabiegu (100 słów)
+
+Konsultacja - pomiar fałdki, wybór obszaru
+Aplikacja membrany ochronnej
+Założenie aplikatora (ssanie + chłodzenie)
+Zabieg: 45-60 min na aplikator
+Odczucia: zimno, ssanie, znieczulenie po 5-10 min
+Masaż końcowy (2-3 min, intensywny)
+Brak rekonwalescencji - można wrócić do normalnych aktywności
+
+6. Efekty (100 słów)
+
+Redukcja 20-25% tkanki tłuszczowej w traktowanym obszarze
+Efekty widoczne po 4-6 tygodniach
+Finalny rezultat po 3 miesiącach
+1-3 zabiegi na obszar (zależnie od ilości tkanki)
+Trwałe efekty (komórki tłuszczowe usunięte na stałe)
+Warunek: utrzymanie wagi (zdrowa dieta, aktywność)
+
+7. Cena (40 słów)
+
+1 aplikator: 400 zł (60 min)
+2 aplikatory: 700 zł (90 min)
+3 aplikatory: 900 zł (120 min)
+Popularne zestawy: brzuch + boczki (2 aplikatory)
+
+8. Pielęgnacja (50 słów)
+
+Można wrócić do normalnych aktywności od razu
+Aktywność fizyczna zalecana (przyspiesza eliminację komórek)
+Pić dużo wody (detoksykacja)
+Zdrowa dieta (utrzymanie efektów)
+Możliwe: zaczerwienienie, obrzęk, uczucie twardości (2-3 tygodnie)
+
+9. FAQ (4 pytania)
+
+Czy kriolipoliza boli?
+Ile zabiegów kriolipolizy potrzeba?
+Kiedy efekty kriolipolizy?
+Czy kriolipoliza jest skuteczna?
+
+10. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /modelowanie-sylwetki/ (kategoria główna)
+Link do: /modelowanie-sylwetki/lipolaser/ (komplementarny zabieg)
+
+Schema Markup:
+
+Service schema
+Offer schema (ceny: 400/700/900 zł)

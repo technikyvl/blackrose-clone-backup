@@ -1,0 +1,73 @@
+CONTENT BRIEF: Masaż RelaksacyjnyURL: /masaz/relaksacyjny/
+Typ strony: Tier 3 (podstrona szczegółowa)Metadane SEOTitle: Masaż Relaksacyjny Czechowice-Dziedzice - Black Rose | 60 min 150 zł, 90 min 200 złMeta Description: Masaż relaksacyjny w Czechowicach-Dziedzicach ✓ 60 min 150 zł ✓ 90 min 200 zł ✓ Redukcja stresu ✓ Całe ciało ✓ Umów wizytę online!H1: Masaż Relaksacyjny w Czechowicach-DziedzicachDługość: 400-500 słówStruktura treści1. Wprowadzenie (50 słów)
+
+Czym jest masaż relaksacyjny (odprężenie całego ciała)
+Główne korzyści (redukcja stresu, poprawa samopoczucia, relaks głęboki)
+2. Jak wygląda (100 słów)
+
+Delikatny, płynny masaż całego ciała
+Olejki aromaterapeutyczne (opcjonalnie)
+Spokojne tempo, łagodne ruchy
+Muzyka relaksacyjna, przyciemnione światło
+Temperatura pomieszczenia dostosowana do komfortu
+Czas: 60 lub 90 minut
+3. Obszary masażu (80 słów)
+
+Plecy
+Kark i ramiona
+Nogi (łydki, uda)
+Ręce
+Stopy (opcjonalnie)
+Całe ciało (kompleksowo)
+4. Dla kogo (80 słów)
+
+Każdy - kobiety, mężczyźni, seniorzy
+Osoby żyjące w stresie
+Siedzący tryb życia (biuro, komputer)
+Bezsenność, napięcie nerwowe
+Potrzeba relaksu i odprężenia
+Przeciwwskazania: gorączka, zapalenia, świeże urazy, ciąża wysokiego ryzyka
+5. Przebieg masażu (100 słów)
+
+Konsultacja - omówienie potrzeb
+Rozebranie do bielizny, położenie na stole
+Aplikacja olejku
+Masaż całego ciała (plecy, nogi, ręce, kark)
+Delikatne, płynne ruchy
+Relaks po masażu (5-10 min)
+Picie wody (detoksykacja)
+Czas: 60 lub 90 minut
+6. Efekty (80 słów)
+
+Natychmiastowe: głęboki relaks, redukcja napięcia
+Poprawa nastroju
+Lepsza jakość snu
+Redukcja poziomu stresu
+Ogólne poczucie odprężenia
+Efekty utrzymują się 3-7 dni
+Regularne masaże: trwała poprawa samopoczucia
+7. Cena (30 słów)
+
+Masaż relaksacyjny 60 min: 150 zł
+Masaż relaksacyjny 90 min: 200 zł
+8. Pielęgnacja (50 słów)
+
+Pić dużo wody po masażu (detoksykacja)
+Unikać intensywnej aktywności przez 2-3h
+Relaks, odpoczynek
+Regularne masaże (raz w miesiącu - profilaktyka)
+9. FAQ (3-4 pytania)
+
+Czym różni się masaż relaksacyjny od klasycznego?
+Ile trwa masaż relaksacyjny?
+Jak często robić masaż relaksacyjny?
+Czy masaż relaksacyjny boli?
+10. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /masaz/ (kategoria główna)
+Link do: /masaz/klasyczny/ (alternatywa lecznicza)
+Schema Markup:
+
+Service schema
+Offer schema (ceny: 150/200 zł)

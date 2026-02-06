@@ -1,0 +1,118 @@
+CONTENT BRIEF 7: Masaż
+URL: /masaz/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Masaż Czechowice-Dziedzice - Black Rose | Relaksacyjny & Leczniczy
+Meta Description: Masaż w Czechowicach-Dziedzicach ✓ Relaksacyjny ✓ Klasyczny ✓ Gorącymi kamieniami ✓ Bańką chińską ✓ Profesjonalne masaże ✓ Umów wizytę!
+H1: Masaż w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest masaż (terapeutyczna manipulacja tkanek miękkich)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (redukcja stresu, poprawa krążenia, regeneracja)
+
+2. Rodzaje masażu (200-250 słów)
+Masaże relaksacyjne:
+
+Masaż relaksacyjny - odprężenie, redukcja stresu
+Masaż gorącymi kamieniami - głęboki relaks, ciepło
+Masaż aromaterapeutyczny - olejki eteryczne
+
+Masaże lecznicze:
+
+Masaż klasyczny - napięcia mięśniowe, kontuzje
+Masaż sportowy - regeneracja, przed/po treningu
+Bańka chińska - detoksykacja, cellulitis
+
+Masaże specjalistyczne:
+
+Masaż twarzy, szyi i dekoltu - odmładzanie, relaks
+Masaż stóp - refleksologia
+Drenaż limfatyczny - detoksykacja (opisane w Modelowanie Sylwetki)
+
+3. Dla kogo masaż (100-150 słów)
+
+Każdy - dorośli, seniorzy
+Problemy: stres, napięcia mięśniowe, ból pleców, bezsenność
+Aktywni fizycznie (regeneracja)
+Przeciwwskazania (gorączka, zapalenia, nowotwory, ciąża wysokiego ryzyka)
+
+4. Przebieg masażu (150 słów)
+
+Konsultacja - omówienie potrzeb i dolegliwości
+Przygotowanie (rozebranie do bielizny, położenie na stole)
+Masaż właściwy (30-90 min)
+Relaks po zabiegu
+Picie wody (detoksykacja)
+
+5. Efekty i korzyści (150-200 słów)
+Fizyczne:
+
+Rozluźnienie mięśni
+Poprawa krążenia krwi i limfy
+Redukcja bólu
+Lepsza elastyczność skóry
+
+Psychiczne:
+
+Redukcja stresu i napięcia
+Poprawa nastroju
+Lepsza jakość snu
+Ogólne poczucie relaksu
+
+Regularne masaże:
+
+Wzmocnienie układu odpornościowego
+Lepsza regeneracja organizmu
+
+6. Jak często masaż (100 słów)
+
+Relaksacyjny: raz w miesiącu (ogólne samopoczucie)
+Leczniczy: 1-2 razy w tygodniu (seria 6-10 zabiegów)
+Sportowy: 1-2 razy w tygodniu (aktywność fizyczna)
+Dostosowanie do potrzeb indywidualnych
+
+7. Cennik (tabela HTML)
+Stwórz tabelę z cenami:
+
+Masaż relaksacyjny (60 min / 90 min)
+Masaż klasyczny (60 min / 90 min)
+Masaż gorącymi kamieniami (90 min)
+Bańka chińska (30 min)
+Masaż twarzy, szyi i dekoltu (30 min)
+Masaż stóp (30 min)
+
+Dane cenowe weź z Booksy
+8. FAQ (5-6 pytań)
+
+Jak często robić masaż?
+Czy masaż boli?
+Jak przygotować się do masażu?
+Jakie są przeciwwskazania do masażu?
+Ile trwa masaż?
+
+9. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/masaz/relaksacyjny/
+/masaz/klasyczny/
+/masaz/goracymi-kamieniami/
+/masaz/banka-chinska/
+/masaz/twarz-szyja-dekolt/
+/masaz-stop/
+
+Related categories:
+
+/modelowanie-sylwetki/ (drenaż limfatyczny)
+
+
+SCHEMA MARKUP
+
+Service schema (masaż)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

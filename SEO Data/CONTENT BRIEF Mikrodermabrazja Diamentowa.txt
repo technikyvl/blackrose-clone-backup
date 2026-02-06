@@ -1,0 +1,77 @@
+CONTENT BRIEF: Mikrodermabrazja Diamentowa
+URL: /zabiegi-na-twarz/mikrodermabrazja/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Mikrodermabrazja Diamentowa Czechowice-Dziedzice - Black Rose | 150 zł
+Meta Description: Mikrodermabrazja diamentowa w Czechowicach-Dziedzicach ✓ 150 zł ✓ 45 min ✓ Wygładzenie ✓ Rozjaśnienie ✓ Usuwanie martwego naskórka ✓ Umów wizytę!
+H1: Mikrodermabrazja Diamentowa w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest mikrodermabrazja diamentowa (mechaniczny peeling)
+Główne korzyści (wygładzenie, rozjaśnienie, odmłodzenie)
+
+2. Jak działa (100 słów)
+
+Diamentowa główka - ściera martwy naskórek
+Vacuum - zasysa zanieczyszczenia
+Stymulacja mikrokrążenia
+Poprawa penetracji kosmetyków
+Bezbolesny zabieg (uczucie delikatnego masażu)
+Czas: 45 minut
+
+3. Dla kogo (80 słów)
+
+Każdy typ skóry (szczególnie tłusta, mieszana)
+Martwy naskórek, szorstka skóra
+Drobne zmarszczki
+Przebarwienia, nierówny koloryt
+Blizny potrądzikowe
+Przeciwwskazania: aktywne trądzik, rany, ciąża
+
+4. Przebieg zabiegu (100 słów)
+
+Oczyszczenie twarzy
+Mikrodermabrazja (20-30 min)
+Maska kojąca + serum
+Natychmiastowy efekt: gładkość, rozjaśnienie
+Możliwe: lekkie zaczerwienienie (2-3h)
+
+5. Efekty (80 słów)
+
+Natychmiastowe: gładkość, rozjaśnienie, świeżość
+Usunięcie martwego naskórka
+Poprawa kolorytu
+Redukcja drobnych zmarszczek
+Seria 4-6 zabiegów co 7-14 dni (długotrwałe efekty)
+
+6. Cena (30 słów)
+
+Mikrodermabrazja diamentowa: 150 zł (45 min)
+
+7. Pielęgnacja (50 słów)
+
+Unikać słońca przez 3-7 dni (SPF 50+)
+Nawilżanie intensywne
+Nie stosować retinoidów przez 3 dni
+Delikatne oczyszczanie
+
+8. FAQ (3-4 pytania)
+
+Czy mikrodermabrazja boli?
+Ile zabiegów mikrodermabrazji potrzeba?
+Jakie efekty daje mikrodermabrazja?
+Jak często robić mikrodermabrazję?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /zabiegi-na-twarz/ (kategoria główna)
+Link do: /zabiegi-na-twarz/peeling-weglowy/ (alternatywa)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 150 zł, czas 45 min)

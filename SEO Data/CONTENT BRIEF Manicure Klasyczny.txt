@@ -1,0 +1,81 @@
+CONTENT BRIEF: Manicure Klasyczny
+URL: /manicure-pedicure/manicure-klasyczny/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Manicure Klasyczny Czechowice-Dziedzice - Black Rose | 50 zł | 45 min
+Meta Description: Manicure klasyczny w Czechowicach-Dziedzicach ✓ 50 zł ✓ 45 min ✓ Pielęgnacja naturalna ✓ Opcjonalnie lakier zwykły ✓ Umów wizytę!
+H1: Manicure Klasyczny w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest manicure klasyczny (pielęgnacja bez lakierów trwałych)
+Główne korzyści (naturalne paznokcie, pielęgnacja skórek, kształt)
+
+2. Jak wygląda (100 słów)
+
+Podstawowa pielęgnacja paznokci i dłoni
+Opracowanie skórek
+Nadanie kształtu
+Polerowanie paznokci
+Opcjonalnie: lakier zwykły
+Krótszy czas niż hybrydowy
+Czas: 45 minut
+
+3. Dla kogo (80 słów)
+
+Osoby preferujące naturalne paznokcie
+Osoby nielubiące lakierów trwałych
+Mężczyźni (pielęgnacja bez lakieru)
+Między zabiegami hybrydowymi (przerwa dla paznokci)
+Osoby z alergią na żele/hybrydy
+Przeciwwskazania: brak istotnych
+
+4. Przebieg zabiegu (100 słów)
+
+Usunięcie starego lakieru (jeśli jest)
+Namoczenie dłoni w ciepłej wodzie
+Opracowanie skórek (pchanie, usuwanie naskórka)
+Nadanie kształtu paznokciom
+Polerowanie (opcjonalnie)
+Masaż dłoni kremem
+Opcjonalnie: lakier zwykły + top
+Czas: 45 minut
+
+5. Efekty (80 słów)
+
+Zadbane, naturalne paznokcie
+Czyste, zadbane skórki
+Gładka płytka paznokcia
+Lakier zwykły (jeśli aplikowany): trwałość 3-7 dni
+Zalecane wizyty co 2-3 tygodnie (pielęgnacja skórek)
+
+6. Cena (30 słów)
+
+Manicure klasyczny: 50 zł (45 min)
+
+7. Pielęgnacja (50 słów)
+
+Oliwka do skórek codziennie
+Nawilżanie dłoni
+Rękawiczki przy pracach domowych
+Nie obgryzać skórek
+
+8. FAQ (3-4 pytania)
+
+Czym różni się manicure klasyczny od hybrydowego?
+Ile kosztuje manicure klasyczny?
+Ile trwa manicure klasyczny?
+Czy manicure klasyczny obejmuje lakier?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /manicure-pedicure/ (kategoria główna)
+Link do: /manicure-pedicure/manicure-hybrydowy/ (z lakierem trwałym)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 50 zł, czas 45 min)

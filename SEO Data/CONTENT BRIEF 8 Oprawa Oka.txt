@@ -1,0 +1,127 @@
+CONTENT BRIEF 8: Oprawa Oka
+URL: /oprawa-oka/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Oprawa Oka Czechowice-Dziedzice - Black Rose | Henna Brwi & Rzęs
+Meta Description: Oprawa oka w Czechowicach-Dziedzicach ✓ Henna brwi ✓ Henna rzęs ✓ Regulacja brwi ✓ Laminacja rzęs ✓ Piękne spojrzenie ✓ Umów wizytę!
+H1: Oprawa Oka w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest oprawa oka (stylizacja brwi i rzęs)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (wyraziste spojrzenie, oszczędność czasu, naturalny efekt)
+
+2. Rodzaje zabiegów oprawy oka (200-250 słów)
+Brwi:
+
+Henna brwi - farbowanie henną (trwałość 2-4 tygodnie)
+Henna pudrowa - efekt pudru, naturalna gęstość
+Regulacja brwi - pincetą, woskiem, nożyczkami
+Laminacja brwi - efekt gęstych, uniesiony brwi
+
+Rzęsy:
+
+Henna rzęs - farbowanie, pogrubienie (trwałość 3-4 tygodnie)
+Laminacja rzęs - podkręcenie, efekt dłuższych rzęs
+Lifting rzęs - trwałe podkręcenie (6-8 tygodni)
+
+3. Dla kogo oprawa oka (100-150 słów)
+
+Każdy - kobiety, mężczyźni
+Jasne brwi/rzęsy (wyrazistość)
+Aktywny tryb życia (wakacje, basen, siłownia - brak potrzeby makijażu)
+Przeciwwskazania (infekcje oka, alergie, świeży makijaż permanentny)
+
+4. Przebieg zabiegów (150-200 słów)
+Henna brwi:
+
+Regulacja i nadanie kształtu
+Aplikacja henny (10-15 min)
+Usunięcie henny
+Pielęgnacja (olejek)
+Czas: 30-45 min
+
+Henna rzęs:
+
+Oczyszczenie rzęs
+Aplikacja henny (10-15 min)
+Usunięcie henny
+Czas: 20-30 min
+
+Laminacja rzęs:
+
+Naklejenie silikonowych rolek
+Aplikacja preparatów liftingujących
+Farbowanie rzęs
+Czas: 60-90 min
+
+5. Efekty i trwałość (150-200 słów)
+Henna brwi:
+
+Trwałość 2-4 tygodnie (włoski)
+Trwałość na skórze: 7-10 dni
+Stopniowe blaknięcie
+
+Henna rzęs:
+
+Trwałość 3-4 tygodnie
+Efekt grubszych, ciemniejszych rzęs
+
+Laminacja rzęs:
+
+Trwałość 6-8 tygodni
+Efekt podkręconych, dłuższych rzęs
+Nie wymaga tuszu
+
+6. Pielęgnacja po zabiegu (100 słów)
+
+Pierwsze 24h: nie moczyć brwi/rzęs
+Henna brwi: olejek na noc (przedłuża trwałość)
+Laminacja rzęs: nie używać tuszu przez 24h
+Unikać peelingów na obszarze brwi
+Szczotkować brwi/rzęsy codziennie
+
+7. Cennik (tabela HTML)
+Stwórz tabelę z cenami:
+
+Henna brwi
+Henna brwi pudrowa
+Regulacja brwi (pinceta / wosk)
+Laminacja brwi
+Henna rzęs
+Laminacja rzęs
+Lifting rzęs
+
+Dane cenowe weź z Booksy
+8. FAQ (5-6 pytań)
+
+Ile trzyma się henna brwi?
+Czy henna brwi jest bezpieczna?
+Jak długo utrzymuje się laminacja rzęs?
+Czy laminacja rzęs niszczy rzęsy?
+Jak często robić hennę brwi?
+
+9. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/oprawa-oka/henna-brwi/
+/oprawa-oka/regulacja-brwi/
+/oprawa-oka/henna-rzesy/
+/oprawa-oka/henna-pudrowa/
+
+Related categories:
+
+/makijaz-permanentny/ (trwałe rozwiązanie)
+/zabiegi-na-twarz/ (kompleksowa pielęgnacja)
+
+
+SCHEMA MARKUP
+
+Service schema (oprawa oka)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

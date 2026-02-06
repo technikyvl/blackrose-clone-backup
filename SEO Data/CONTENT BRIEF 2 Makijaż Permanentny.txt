@@ -1,0 +1,121 @@
+CONTENT BRIEF 2: Makijaż Permanentny
+URL: /makijaz-permanentny/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Makijaż Permanentny Czechowice-Dziedzice - Black Rose | Brwi & Usta
+Meta Description: Makijaż permanentny w Czechowicach-Dziedzicach ✓ Profesjonalne pigmentacje brwi i ust ✓ Naturalne efekty ✓ Doświadczony specjalista ✓ Umów wizytę!
+H1: Makijaż Permanentny w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest makijaż permanentny (1-2 zdania)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (oszczędność czasu, trwałość, naturalny wygląd)
+
+2. Jak działa makijaż permanentny (150-200 słów)
+
+Zasada działania - pigmentacja skóry właściwej
+Rodzaje technik (microblading, powder brows, ombre)
+Różnica między makijażem permanentnym a tatuażem
+Bezpieczeństwo i higiena
+
+Pytania PAA do wykorzystania:
+
+Jak działa makijaż permanentny?
+Czym różni się makijaż permanentny od tatuażu?
+Czy makijaż permanentny jest bezpieczny?
+
+3. Dla kogo makijaż permanentny (100-150 słów)
+
+Osoby z rzadkimi brwiami, nieregularnym konturem ust
+Aktywny tryb życia (sport, basen)
+Alergie na tradycyjne kosmetyki
+Przeciwwskazania (ciąża, karmienie, choroby skóry, keloidowanie)
+
+4. Przebieg zabiegu (150-200 słów)
+
+Konsultacja i dobór kształtu/koloru
+Znieczulenie miejscowe
+Czas trwania zabiegu (1,5-3h)
+Odczucia podczas zabiegu
+Korekta po 4-6 tygodniach
+
+Pytania PAA do wykorzystania:
+
+Jak przebiega zabieg makijażu permanentnego?
+Czy makijaż permanentny boli?
+Ile trwa zabieg makijażu permanentnego?
+Kiedy korekta makijażu permanentnego?
+
+5. Efekty i trwałość (150-200 słów)
+
+Jak długo utrzymuje się efekt (1-3 lata)
+Proces gojenia (7-14 dni)
+Kiedy widoczny finalny efekt (4-6 tygodni po korekcie)
+Czynniki wpływające na trwałość (typ skóry, ekspozycja na słońce)
+
+Pytania PAA do wykorzystania:
+
+Jak długo trzyma się makijaż permanentny?
+Ile schodzi makijaż permanentny?
+Jak goi się makijaż permanentny?
+Kiedy efekt makijażu permanentnego?
+
+6. Pielęgnacja po zabiegu (100 słów)
+
+Pierwsze 7 dni - unikać wody, makijażu, słońca
+Nie skrobać strupków
+Stosować maść regenerującą
+Kiedy można wrócić do normalnych aktywności
+
+Pytania PAA do wykorzystania:
+
+Jak pielęgnować makijaż permanentny?
+Czego unikać po makijażu permanentnym?
+Jak długo nie moczyć makijażu permanentnego?
+
+7. Cennik (tabela HTML)
+Stwórz tabelę z cenami:
+
+Makijaż permanentny brwi (metoda pudrowa, microblading)
+Makijaż permanentny ust (kontur, wypełnienie)
+Korekta
+Usuwanie makijażu permanentnego
+
+Dane cenowe weź z Booksy
+Pytania PAA do wykorzystania:
+
+Ile kosztuje makijaż permanentny brwi?
+Ile kosztuje makijaż permanentny ust?
+Makijaż permanentny cena czechowice?
+
+8. FAQ (5-8 pytań)
+
+Czy makijaż permanentny boli?
+Jak długo trzyma się makijaż permanentny?
+Czy makijaż permanentny jest bezpieczny?
+Ile trwa gojenie makijażu permanentnego?
+Kiedy korekta makijażu permanentnego?
+Czy można usunąć makijaż permanentny?
+
+9. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/makijaz-permanentny/brwi/
+/makijaz-permanentny/usuniecie/
+
+Related categories:
+
+/oprawa-oka/ (komplementarne - henna brwi)
+/usuwanie-tatuazu/ (usuwanie makijażu permanentnego)
+
+
+SCHEMA MARKUP
+
+Service schema (makijaż permanentny)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

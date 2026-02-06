@@ -1,0 +1,86 @@
+CONTENT BRIEF: Pedicure SPA
+URL: /manicure-pedicure/pedicure-spa/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Pedicure SPA Czechowice-Dziedzice - Black Rose | 120 zł | 75 min
+Meta Description: Pedicure SPA w Czechowicach-Dziedzicach ✓ 120 zł ✓ 75 min ✓ Relaks + Pielęgnacja ✓ Masaż + Peeling ✓ Maska parafinowa ✓ Umów wizytę!
+H1: Pedicure SPA w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest pedicure SPA (pielęgnacja + relaks)
+Główne korzyści (kompleksowa pielęgnacja, relaksacja, regeneracja, nawilżenie)
+
+2. Jak wygląda (100 słów)
+
+Rozszerzona wersja pedicure kosmetycznego
+Kąpiel z solami i olejkami aromaterapeutycznymi
+Peeling stóp
+Usuwanie zrogowaceń i odcisków
+Masaż stóp i łydek (wydłużony, 15-20 min)
+Maska parafinowa lub algowa
+Pielęgnacja paznokci
+Opcjonalnie: lakier (zwykły lub hybrydowy za dopłatą)
+Czas: 75 minut
+
+3. Dla kogo (80 słów)
+
+Osoby szukające relaksu i pielęgnacji
+Zmęczone, przeciążone stopy
+Sucha skóra stóp
+Stres, napięcie (masaż refleksologiczny)
+Prezent dla bliskiej osoby
+Przeciwwskazania: grzybica, rany otwarte
+
+4. Przebieg zabiegu (100 słów)
+
+Namoczenie stóp w kąpieli aromatycznej (10 min)
+Peeling stóp
+Usuwanie zrogowaceń i odcisków
+Opracowanie paznokci i skórek
+Masaż stóp i łydek (15-20 min)
+Maska parafinowa (nawilżenie + ciepło)
+Pielęgnacja końcowa
+Opcjonalnie: lakier
+Czas: 75 minut
+
+5. Efekty (80 słów)
+
+Gładkie, miękkie, nawilżone stopy
+Uczucie lekkości i relaksu
+Regeneracja zmęczonych stóp
+Redukcja napięcia w stopach i łydkach
+Efekty utrzymują się 3-4 tygodnie
+Zalecane jako zabieg relaksacyjny raz w miesiącu
+
+6. Cena (30 słów)
+
+Pedicure SPA dla stóp: 120 zł (75 min)
+
+7. Pielęgnacja (50 słów)
+
+Nawilżanie stóp codziennie
+Peeling 1-2 razy w tygodniu
+Wygodne obuwie
+Regularne zabiegi (raz w miesiącu - profilaktyka i relaks)
+
+8. FAQ (3-4 pytania)
+
+Czym różni się pedicure SPA od kosmetycznego?
+Ile kosztuje pedicure SPA?
+Jak długo trwa pedicure SPA?
+Czy pedicure SPA obejmuje masaż?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /manicure-pedicure/ (kategoria główna)
+Link do: /manicure-pedicure/pedicure-kosmetyczny/ (krótsza wersja)
+Link do: /masaz/masaz-stop/ (masaż stóp osobno)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 120 zł, czas 75 min)

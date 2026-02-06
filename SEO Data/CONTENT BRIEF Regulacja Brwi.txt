@@ -1,0 +1,79 @@
+CONTENT BRIEF: Regulacja Brwi
+URL: /oprawa-oka/regulacja-brwi/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Regulacja Brwi Czechowice-Dziedzice - Black Rose | 30 zł | 15 min
+Meta Description: Regulacja brwi w Czechowicach-Dziedzicach ✓ Pinceta 30 zł ✓ Wosk 30 zł ✓ 15 min ✓ Idealny kształt ✓ Profesjonalnie ✓ Umów wizytę!
+H1: Regulacja Brwi w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest regulacja brwi (nadanie kształtu, usunięcie zbędnych włosków)
+Główne korzyści (idealny kształt, wyraziste spojrzenie, zadbany wygląd)
+
+2. Metody regulacji (100 słów)
+
+Pinceta (30 zł, 15 min) - precyzyjna, delikatna
+Wosk (30 zł, 15 min) - szybsza, usunięcie z cebulką
+Dobór metody do preferencji klientki
+Możliwość łączenia metod (wosk + pinceta = idealna precyzja)
+
+3. Dla kogo (80 słów)
+
+Każdy - kobiety, mężczyźni
+Gęste, zarośnięte brwi
+Nieregularny kształt
+Zbędne włoski między brwiami, pod łukiem
+Regularna pielęgnacja brwi
+Przeciwwskazania: zapalenia, świeży makijaż permanentny
+
+4. Przebieg zabiegu (100 słów)
+
+Konsultacja - ustalenie pożądanego kształtu
+Odrysowanie szablonu (opcjonalnie)
+Usunięcie zbędnych włosków pincetą lub woskiem
+Podcięcie nożyczkami (długie włoski)
+Szczotkowanie brwi
+Preparat kojący
+Efekt: idealny kształt, wyraziste brwi
+Czas: 15 minut
+
+5. Efekty i trwałość (80 słów)
+
+Natychmiastowy efekt: zadbane, wyraziste brwi
+Idealny kształt
+Trwałość: 2-4 tygodnie (odrastanie)
+Regularne wizyty co 3-4 tygodnie
+Systematyczna regulacja = łatwiejsze utrzymanie kształtu
+
+6. Cena (30 słów)
+
+Regulacja brwi pincetą: 30 zł (15 min)
+Regulacja brwi woskiem: 30 zł (15 min)
+
+7. Pielęgnacja (50 słów)
+
+Unikać dotykania brwi przez 2-3h
+Nie opalać przez 24h
+Olejek na brwi (odżywienie)
+Szczotkować codziennie
+
+8. FAQ (3-4 pytania)
+
+Czy regulacja brwi boli?
+Jak często regulować brwi?
+Pinceta czy wosk - co lepsze?
+Ile kosztuje regulacja brwi?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /oprawa-oka/ (kategoria główna)
+Link do: /oprawa-oka/henna-brwi/ (regulacja + henna)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 30 zł, czas 15 min)

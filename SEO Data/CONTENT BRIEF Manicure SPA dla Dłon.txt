@@ -1,0 +1,85 @@
+CONTENT BRIEF: Manicure SPA dla Dłoni
+URL: /manicure-pedicure/manicure-spa/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Manicure SPA dla Dłoni Czechowice-Dziedzice - Black Rose | 100 zł
+Meta Description: Manicure SPA dla dłoni w Czechowicach-Dziedzicach ✓ 100 zł ✓ 60 min ✓ Peeling + Masaż + Maska ✓ Regeneracja dłoni ✓ Umów wizytę!
+H1: Manicure SPA dla Dłoni w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest manicure SPA (pielęgnacja + relaks)
+Główne korzyści (regeneracja, nawilżenie, odmłodzenie dłoni, relaksacja)
+
+2. Jak wygląda (100 słów)
+
+Rozszerzona wersja manicure klasycznego
+Kąpiel w ciepłej wodzie z olejkami
+Peeling dłoni
+Opracowanie skórek i paznokci
+Masaż dłoni i przedramion (10-15 min)
+Maska parafinowa lub nawilżająca
+Pielęgnacja końcowa
+Opcjonalnie: lakier zwykły (hybrydowy za dopłatą)
+Czas: 60 minut
+
+3. Dla kogo (80 słów)
+
+Osoby z suchą, spierzchniętą skórą dłoni
+Dłonie obciążone pracą (komputer, prace manualne)
+Osoby szukające relaksu i regeneracji
+Prezent dla bliskiej osoby
+Zimą (regeneracja po mrozach)
+Przeciwwskazania: rany otwarte, egzema w fazie ostrej
+
+4. Przebieg zabiegu (100 słów)
+
+Namoczenie dłoni w kąpieli aromatycznej
+Peeling dłoni (usuwanie martwego naskórka)
+Opracowanie skórek i paznokci
+Nadanie kształtu
+Masaż dłoni i przedramion (10-15 min)
+Maska parafinowa (ciepło + nawilżenie) lub maska nawilżająca
+Krem regenerujący
+Opcjonalnie: lakier
+Czas: 60 minut
+
+5. Efekty (80 słów)
+
+Miękkie, gładkie, nawilżone dłonie
+Regeneracja suchej skóry
+Odmłodzenie dłoni
+Uczucie relaksu
+Efekty utrzymują się 2-3 tygodnie
+Zalecane jako zabieg regeneracyjny raz w miesiącu
+
+6. Cena (30 słów)
+
+Manicure SPA dla dłoni: 100 zł (60 min)
+
+7. Pielęgnacja (50 słów)
+
+Nawilżanie dłoni codziennie (szczególnie po myciu)
+Oliwka na skórki
+Rękawiczki przy pracach domowych
+Ochrona przed mrozem zimą
+
+8. FAQ (3-4 pytania)
+
+Czym różni się manicure SPA od klasycznego?
+Ile kosztuje manicure SPA dla dłoni?
+Jak długo trwa manicure SPA?
+Czy manicure SPA obejmuje masaż?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /manicure-pedicure/ (kategoria główna)
+Link do: /manicure-pedicure/manicure-hybrydowy/ (z lakierem trwałym)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 100 zł, czas 60 min)

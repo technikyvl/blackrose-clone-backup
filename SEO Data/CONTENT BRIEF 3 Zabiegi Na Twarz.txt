@@ -1,0 +1,131 @@
+CONTENT BRIEF 3: Zabiegi Na Twarz
+URL: /zabiegi-na-twarz/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Zabiegi Na Twarz Czechowice-Dziedzice - Black Rose | Pielęgnacja & Odmładzanie
+Meta Description: Zabiegi na twarz w Czechowicach-Dziedzicach ✓ Peeling węglowy ✓ Wodorowe oczyszczanie ✓ Mezoterapia ✓ Mikrodermabrazja ✓ Profesjonalna pielęgnacja!
+H1: Zabiegi Na Twarz w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym są zabiegi na twarz (pielęgnacyjne, odmładzające, oczyszczające)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (poprawa kondycji skóry, redukcja zmarszczek, oczyszczenie)
+
+2. Rodzaje zabiegów na twarz (200-250 słów)
+Zabiegi oczyszczające:
+
+Wodorowe oczyszczanie twarzy - głębokie oczyszczenie, nawilżenie
+Peeling kawitacyjny - usuwanie martwego naskórka ultradźwiękami
+Darsonwal - dezynfekcja, leczenie trądziku
+
+Zabiegi odmładzające:
+
+Peeling węglowy - redukcja zmarszczek, zwężenie porów
+Mezoterapia mikroigłowa - stymulacja produkcji kolagenu
+Radiofrekwencja mikroigłowa - lifting bez skalpela
+Mikrodermabrazja - wygładzenie, rozjaśnienie
+
+Zabiegi nawilżające:
+
+Maska algowa - intensywne nawilżenie
+Ultradźwięki na twarz - transport składników aktywnych
+
+3. Dla kogo zabiegi na twarz (100-150 słów)
+
+Każdy typ skóry (dobór zabiegu do potrzeb)
+Problemy: trądzik, rozszerzone pory, zmarszczki, przebarwienia, suchość
+Przeciwwskazania (ciąża, aktywne infekcje, zapalenia)
+
+4. Przebieg zabiegów (150 słów)
+
+Konsultacja i dobór zabiegu
+Oczyszczenie skóry
+Wykonanie zabiegu właściwego (15-60 min w zależności od typu)
+Maska/serum końcowe
+Zalecenia pielęgnacyjne
+
+Pytania PAA do wykorzystania (peeling węglowy):
+
+Jak działa peeling węglowy?
+Czy peeling węglowy boli?
+Ile trwa peeling węglowy?
+Jak często peeling węglowy?
+
+5. Efekty i trwałość (150-200 słów)
+
+Efekty widoczne od pierwszego zabiegu
+Serie zabiegów dla długotrwałych rezultatów (4-6 zabiegów co 7-14 dni)
+Utrzymanie efektów (zabiegi podtrzymujące co 4-6 tygodni)
+Rezultaty: oczyszczenie, nawilżenie, redukcja zmarszczek, rozjaśnienie
+
+Pytania PAA do wykorzystania:
+
+Jakie efekty daje peeling węglowy?
+Ile zabiegów peelingu węglowego?
+Jak długo utrzymuje się efekt peelingu węglowego?
+
+6. Pielęgnacja po zabiegu (100 słów)
+
+Unikać słońca przez 3-7 dni (SPF 50+)
+Nie stosować retinoidów i kwasów przez 2-3 dni
+Intensywne nawilżanie
+Delikatne oczyszczanie
+
+Pytania PAA do wykorzystania:
+
+Co robić po peelingu węglowym?
+Czego unikać po zabiegu na twarz?
+
+7. Cennik (tabela HTML)
+Stwórz tabelę z cenami dla poszczególnych zabiegów:
+
+Peeling węglowy
+Wodorowe oczyszczanie twarzy
+Mezoterapia mikroigłowa
+Mikrodermabrazja
+Peeling kawitacyjny
+Darsonwal
+Maska algowa
+
+Dane cenowe weź z Booksy
+Pytania PAA do wykorzystania:
+
+Ile kosztuje peeling węglowy?
+Peeling węglowy cena czechowice?
+
+8. FAQ (5-8 pytań)
+
+Jak działa peeling węglowy?
+Czy peeling węglowy boli?
+Ile zabiegów peelingu węglowego potrzeba?
+Jakie efekty daje wodorowe oczyszczanie twarzy?
+Czy zabiegi na twarz są bezpieczne?
+Jak często robić zabiegi na twarz?
+
+9. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/zabiegi-na-twarz/peeling-weglowy/
+/zabiegi-na-twarz/wodorowe-oczyszczanie/
+/zabiegi-na-twarz/peeling-kawitacyjny/
+/zabiegi-na-twarz/mezoterapia-mikroiglowa/
+/zabiegi-na-twarz/mikrodermabrazja/
+/zabiegi-na-twarz/darsonwal/
+/zabiegi-na-twarz/maska-algowa/
+
+Related categories:
+
+/radiofrekwencja-mikroiglowa/ (zaawansowane odmładzanie)
+/oprawa-oka/ (kompleksowa pielęgnacja)
+
+
+SCHEMA MARKUP
+
+Service schema (zabiegi na twarz)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

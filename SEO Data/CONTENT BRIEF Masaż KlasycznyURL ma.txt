@@ -1,0 +1,73 @@
+CONTENT BRIEF: Masaż KlasycznyURL: /masaz/klasyczny/
+Typ strony: Tier 3 (podstrona szczegółowa)Metadane SEOTitle: Masaż Klasyczny Czechowice-Dziedzice - Black Rose | 60 min 150 zł, 90 min 200 złMeta Description: Masaż klasyczny w Czechowicach-Dziedzicach ✓ 60 min 150 zł ✓ 90 min 200 zł ✓ Ból pleców ✓ Napięcia mięśniowe ✓ Umów wizytę!H1: Masaż Klasyczny w Czechowicach-DziedzicachDługość: 400-500 słówStruktura treści1. Wprowadzenie (50 słów)
+
+Czym jest masaż klasyczny (terapeutyczny, leczniczy)
+Główne korzyści (redukcja bólu, rozluźnienie mięśni, poprawa krążenia)
+2. Jak działa (100 słów)
+
+Techniki: głaskanie, rozcieranie, ugniatanie, oklepywanie
+Intensywniejszy niż relaksacyjny
+Praca nad napięciami mięśniowymi
+Poprawa krążenia krwi i limfy
+Redukcja bólu
+Możliwość dostosowania intensywności
+Czas: 60 lub 90 minut
+3. Obszary masażu (80 słów)
+
+Plecy (najczęściej)
+Kark i ramiona
+Lędźwie
+Nogi (łydki, uda)
+Możliwość skupienia się na konkretnym obszarze (np. tylko plecy)
+4. Dla kogo (80 słów)
+
+Osoby z bólem pleców, karku, ramion
+Napięcia mięśniowe (siedzący tryb życia, praca fizyczna)
+Kontuzje sportowe (po konsultacji z lekarzem)
+Po urazach (w fazie rehabilitacji)
+Migreny, bóle głowy (napięciowe)
+Przeciwwskazania: gorączka, zapalenia, świeże urazy, zakrzepica
+5. Przebieg masażu (100 słów)
+
+Konsultacja - omówienie dolegliwości
+Rozebranie do bielizny
+Masaż właściwy (techniki klasyczne)
+Intensywność dostosowana do potrzeb
+Praca nad punktami napięć
+Może być lekko bolesny (ból "na granicy przyjemności")
+Relaks po masażu
+Picie wody
+Czas: 60 lub 90 minut
+6. Efekty (80 słów)
+
+Natychmiastowe: rozluźnienie mięśni, redukcja bólu
+Poprawa ruchomości
+Redukcja napięć
+Poprawa krążenia
+Seria 6-10 zabiegów (dolegliwości przewlekłe)
+Efekty długoterminowe: trwała poprawa, regeneracja
+7. Cena (30 słów)
+
+Masaż klasyczny 60 min: 150 zł
+Masaż klasyczny 90 min: 200 zł
+8. Pielęgnacja (50 słów)
+
+Pić dużo wody (detoksykacja)
+Unikać intensywnych ćwiczeń przez 24h
+Ciepłe kąpiele (rozluźnienie)
+Regularne masaże (1-2 razy w tygodniu przy dolegliwościach)
+9. FAQ (3-4 pytania)
+
+Czy masaż klasyczny boli?
+Ile zabiegów masażu klasycznego potrzeba?
+Czym różni się masaż klasyczny od relaksacyjnego?
+Czy masaż klasyczny pomaga na ból pleców?
+10. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /masaz/ (kategoria główna)
+Link do: /masaz/relaksacyjny/ (alternatywa)
+Schema Markup:
+
+Service schema
+Offer schema (ceny: 150/200 zł)

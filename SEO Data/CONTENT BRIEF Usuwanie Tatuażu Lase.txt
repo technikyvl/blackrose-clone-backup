@@ -1,0 +1,94 @@
+CONTENT BRIEF: Usuwanie Tatuażu Laserowe
+URL: /usuwanie-tatuazu/laserowe/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Usuwanie Tatuażu Laserowe Czechowice-Dziedzice - Black Rose | Od 150 zł
+Meta Description: Usuwanie tatuażu laserowe w Czechowicach-Dziedzicach ✓ Od 150 zł ✓ Laser Q-switched ✓ Bezpieczne ✓ Skuteczne ✓ Bez blizn ✓ Umów wizytę!
+H1: Laserowe Usuwanie Tatuażu w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest laserowe usuwanie tatuażu (rozbijanie pigmentu laserem Q-switched)
+Główne korzyści (bezpieczne, skuteczne, bez blizn, stopniowe usuwanie)
+
+2. Jak działa (100 słów)
+
+Laser Q-switched (krótkie impulsy światła)
+Rozbijanie cząsteczek pigmentu na mniejsze
+Usuwanie przez układ limfatyczny
+Selektywna fototermoliza (laser działa tylko na pigment, nie uszkadza skóry)
+Różne długości fal dla różnych kolorów (czarny najłatwiej, zielony/niebieski trudniej)
+Czas: 10-30 min (zależnie od rozmiaru)
+
+3. Co można usunąć (80 słów)
+
+Tatuaże artystyczne (kolorowe, czarno-białe)
+Makijaż permanentny (brwi, usta, kreski)
+Tatuaże kosmetyczne
+Przebarwienia potatuażowe
+Tatuaże amatorskie i profesjonalne
+
+4. Rozmiary i ceny (100 słów)
+
+Rozmiar S (do 5 cm): 150 zł (30 min)
+Rozmiar M (5-10 cm): 250 zł (45 min)
+Rozmiar L (10-20 cm): 350 zł (60 min)
+Rozmiar XL (powyżej 20 cm): 500 zł (90 min)
+
+5. Dla kogo (80 słów)
+
+Każdy z niechcianym tatuażem
+Zmiana gustu, zawód wymagający braku tatuaży
+Błędy w wykonaniu tatuażu
+Przebarwienia po makijażu permanentnym
+Przygotowanie do nowego tatuażu (cover-up)
+Przeciwwskazania: ciąża, aktywne infekcje, świeża opalenizna, choroby skóry, epilepsja
+
+6. Przebieg zabiegu (100 słów)
+
+Konsultacja - ocena tatuażu (kolor, głębokość, rozmiar)
+Oczyszczenie skóry
+Znieczulenie kremem (opcjonalnie)
+Zabieg laserem (uczucie "strzelania gumką")
+Okład chłodzący
+Opatrunek
+Możliwe: zaczerwienienie, obrzęk, pęcherze (przejściowe, 3-7 dni)
+Czas: 10-30 min
+
+7. Efekty i liczba sesji (100 słów)
+
+Tatuaże czarne: 4-8 sesji
+Tatuaże kolorowe: 8-12 sesji
+Makijaż permanentny: 3-6 sesji
+Odstępy: 6-8 tygodni (czas na regenerację i usunięcie pigmentu przez limfę)
+Stopniowe blaknięcie (po każdej sesji 20-30% jaśniejszy)
+Czynniki: kolor, głębokość, jakość tuszu, typ skóry, wiek tatuażu
+Całkowite usunięcie lub znaczące rozjaśnienie
+
+8. Pielęgnacja (50 słów)
+
+Pierwsze 3 dni: opatrunek, maść antybiotykowa
+Nie moczyć przez 24h
+Unikać słońca przez 4-6 tygodni (SPF 50+)
+Nie drapać strupków
+Nie basen/sauna przez 2 tygodnie
+
+9. FAQ (4 pytania)
+
+Czy usuwanie tatuażu boli?
+Ile sesji potrzeba do usunięcia tatuażu?
+Czy usuwanie tatuażu zostawia blizny?
+Czy można usunąć kolorowy tatuaż?
+
+10. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /usuwanie-tatuazu/ (kategoria główna)
+Link do: /makijaz-permanentny/usuniecie/ (usuwanie makijażu permanentnego)
+
+Schema Markup:
+
+Service schema
+Offer schema (ceny: 150/250/350/500 zł)

@@ -1,0 +1,80 @@
+CONTENT BRIEF: Darsonwal Twarz
+URL: /zabiegi-na-twarz/darsonwal/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Darsonwal Twarz Czechowice-Dziedzice - Black Rose | 50 zł | 15 min
+Meta Description: Darsonwal na twarz w Czechowicach-Dziedzicach ✓ 50 zł ✓ 15 min ✓ Leczenie trądziku ✓ Dezynfekcja ✓ Regeneracja ✓ Umów wizytę!
+H1: Darsonwal na Twarz w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Czym jest darsonwal (terapia prądem wysokiej częstotliwości)
+Główne korzyści (dezynfekcja, leczenie trądziku, regeneracja)
+
+2. Jak działa (100 słów)
+
+Prąd wysokiej częstotliwości (dezynfekcja bakteriobójcza)
+Ozon - bakteriobójczy, przeciwzapalny
+Stymulacja mikrokrążenia
+Regulacja wydzielania łoju
+Uczucie delikatnego mrowienia
+Czas: 15 minut
+
+3. Dla kogo (80 słów)
+
+Skóra trądzikowa
+Tłusta skóra
+Rozszerzone pory
+Stany zapalne
+Wypadanie włosów (można stosować na skórę głowy)
+Przeciwwskazania: ciąża, stymulatory serca, padaczka
+
+4. Przebieg zabiegu (100 słów)
+
+Oczyszczenie twarzy
+Darsonwal - przesuwanie elektrody po twarzy (10-15 min)
+Uczucie mrowienia, lekkie trzaski
+Maska kojąca (opcjonalnie)
+Brak rekonwalescencji
+
+5. Efekty (80 słów)
+
+Natychmiastowe: dezynfekcja, zmniejszenie stanów zapalnych
+Redukcja trądziku
+Zwężenie porów
+Regulacja wydzielania łoju
+Seria 10-15 zabiegów codziennie lub co 2 dni (trądzik)
+Zabiegi podtrzymujące: 1-2 razy w tygodniu
+
+6. Cena (30 słów)
+
+Darsonwal twarz: 50 zł (15 min)
+Często dodawany do innych zabiegów na twarz
+
+7. Pielęgnacja (50 słów)
+
+Unikać słońca przez 24h
+Nie stosować kosmetyków alkoholowych
+Nawilżanie
+Nie dotykać twarzy rękami
+
+8. FAQ (3-4 pytania)
+
+Czy darsonwal boli?
+Ile zabiegów darsonwalu potrzeba na trądzik?
+Czy darsonwal pomaga na trądzik?
+Jak często robić darsonwal?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /zabiegi-na-twarz/ (kategoria główna)
+Link do: /zabiegi-na-twarz/peeling-kawitacyjny/ (komplementarny)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 50 zł, czas 15 min)
+

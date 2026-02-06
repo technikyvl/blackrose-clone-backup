@@ -1,0 +1,114 @@
+CONTENT BRIEF 9: Radiofrekwencja Mikroigłowa
+URL: /radiofrekwencja-mikroiglowa/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Radiofrekwencja Mikroigłowa Czechowice-Dziedzice - Black Rose | Lifting Bez Skalpela
+Meta Description: Radiofrekwencja mikroigłowa w Czechowicach-Dziedzicach ✓ Lifting twarzy ✓ Redukcja zmarszczek ✓ Ujędrnienie ✓ Bez operacji ✓ Widoczne efekty!
+H1: Radiofrekwencja Mikroigłowa w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest radiofrekwencja mikroigłowa (zabieg łączący mikronakłuwanie z energią RF)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (lifting bez skalpela, redukcja zmarszczek, ujędrnienie, minimalna rekonwalescencja)
+
+2. Jak działa radiofrekwencja mikroigłowa (150-200 słów)
+
+Mikronakłuwanie - drobne kanały w skórze
+Energia RF - dociera do głębokich warstw skóry
+Stymulacja produkcji kolagenu i elastyny
+Efekt: lifting, ujędrnienie, poprawa tekstury
+Vacuum - ssanie poprawia efektywność
+
+3. Obszary do zabiegu (100 słów)
+
+Twarz (zmarszczki, owal twarzy, policzki)
+Szyja i dekolt (ujędrnienie, zmarszczki)
+Ciało (brzuch, uda, ramiona - rozstępy, cellulitis)
+Podbródek (redukcja podwójnego podbródka)
+
+4. Dla kogo radiofrekwencja mikroigłowa (100-150 słów)
+
+Osoby 30+ (pierwsze oznaki starzenia)
+Utrata jędrności skóry
+Zmarszczki, rozszerzone pory
+Po utracie wagi (zwiotczała skóra)
+Rozstępy, blizny potrądzikowe
+Przeciwwskazania (ciąża, stymulatory serca, aktywne infekcje, nowotwory)
+
+5. Przebieg zabiegu (150-200 słów)
+
+Oczyszczenie skóry
+Znieczulenie miejscowe (krem) - 20-30 min
+Zabieg mikroigłami RF - 30-60 min
+Uczucie ciepła i nakłuwania
+Maska kojąca
+Czas całkowity: 90-120 min
+
+6. Efekty i trwałość (150-200 słów)
+Krótkoterminowe (1-7 dni):
+
+Zaczerwienienie, lekki obrzęk
+Drobne krustki
+
+Średnioterminowe (2-4 tygodnie):
+
+Widoczne ujędrnienie
+Poprawa tekstury skóry
+
+Długoterminowe (3-6 miesięcy):
+
+Maksymalne efekty (produkcja kolagenu)
+Lifting, redukcja zmarszczek 30-50%
+Seria: 3-5 zabiegów co 4-6 tygodni
+Efekty utrzymują się 12-18 miesięcy
+
+7. Pielęgnacja po zabiegu (100 słów)
+
+Pierwsze 24h: nie moczyć twarzy, nie ćwiczyć
+Unikać słońca przez 2 tygodnie (SPF 50+)
+Nawilżanie intensywne
+Nie stosować retinoidów i kwasów przez tydzień
+Delikatne oczyszczanie
+
+8. Cennik (tabela HTML)
+Stwórz tabelę z cenami:
+
+Radiofrekwencja mikroigłowa - twarz
+Radiofrekwencja mikroigłowa - twarz + szyja
+Radiofrekwencja mikroigłowa - twarz + szyja + dekolt
+Radiofrekwencja mikroigłowa - ciało (brzuch, uda, ramiona)
+Radiofrekwencja mikroigłowa - podbródek
+
+Dane cenowe weź z Booksy
+9. FAQ (5-6 pytań)
+
+Czy radiofrekwencja mikroigłowa boli?
+Ile zabiegów RF mikroigłowej potrzeba?
+Kiedy efekty radiofrekwencji mikroigłowej?
+Jak długo utrzymują się efekty?
+Czym różni się RF mikroigłowa od mezoterapii?
+
+10. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/radiofrekwencja-mikroiglowa/twarz/
+/radiofrekwencja-mikroiglowa/szyja-dekolt/
+/radiofrekwencja-mikroiglowa/cialo/
+/radiofrekwencja-mikroiglowa/podbrodek/
+
+Related categories:
+
+/zabiegi-na-twarz/ (mezoterapia mikroigłowa)
+/modelowanie-sylwetki/ (ujędrnienie ciała)
+
+
+SCHEMA MARKUP
+
+Service schema (radiofrekwencja mikroigłowa)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

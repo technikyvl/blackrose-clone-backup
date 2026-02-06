@@ -1,0 +1,63 @@
+CONTENT BRIEF: Depilacja Laserowa Pachy
+URL: /depilacja-laserowa/pachy/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Depilacja Laserowa Pach Czechowice-Dziedzice - Black Rose | 80 zł
+Meta Description: Depilacja laserowa pach w Czechowicach-Dziedzicach ✓ Trwałe usunięcie owłosienia ✓ Bezbolesny zabieg ✓ 80 zł ✓ Umów wizytę online!
+H1: Depilacja Laserowa Pach w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Dlaczego depilacja laserowa pach (komfort, higiena, brak podrażnień)
+Główne korzyści (trwałość, brak wrastających włosków, gładkość)
+
+2. Przebieg zabiegu (100 słów)
+
+Czas trwania: ~10-15 minut
+Przygotowanie: golenie na 24h przed zabiegiem
+Odczucia: lekkie mrowienie, ciepło
+Liczba sesji: 6-8 zabiegów co 4-6 tygodni
+
+3. Efekty (80 słów)
+
+Widoczne od 2-3 sesji (włosy cieńsze, wolniej odrastają)
+Po 6-8 sesjach: redukcja owłosienia o 80-95%
+Trwałe efekty - włoski nie odrastają lub są bardzo delikatne
+Koniec golenia i podrażnień
+
+4. Cena (30 słów)
+
+Depilacja laserowa pach: 80 zł
+Pakiet Pachy + Bikini Klasyczne: 150 zł (oszczędność)
+
+5. Dla kogo (50 słów)
+
+Kobiety i mężczyźni
+Osoby z wrażliwą skórą (koniec podrażnień po goleniu)
+Aktywny tryb życia (sport, basen)
+
+6. Pielęgnacja (50 słów)
+
+Unikać słońca przez 2 tygodnie (SPF 50+)
+Nie golić między sesjami (wyskubywać można)
+Nawilżać skórę codziennie
+
+7. FAQ (3-4 pytania)
+
+Czy depilacja laserowa pach boli?
+Ile sesji depilacji pach potrzeba?
+Jak długo trwa zabieg depilacji pach?
+
+8. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /depilacja-laserowa/ (kategoria główna)
+Link do: /depilacja-laserowa/bikini/ (powiązany zabieg)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 80 zł)
+

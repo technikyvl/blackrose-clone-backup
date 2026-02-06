@@ -1,0 +1,79 @@
+CONTENT BRIEF: Depilacja Woskiem Twarz
+URL: /depilacja-woskiem/twarz/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Depilacja Woskiem Twarzy Czechowice-Dziedzice - Black Rose | Wąsik 20 zł
+Meta Description: Depilacja woskiem twarzy w Czechowicach-Dziedzicach ✓ Wąsik 20 zł ✓ Broda 30 zł ✓ Twarz cała 60 zł ✓ Gładka skóra ✓ Umów wizytę!
+H1: Depilacja Woskiem Twarzy w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Dlaczego depilacja woskiem twarzy (gładkość, precyzja, trwałość)
+Główne korzyści (usunięcie z cebulką, brak codziennego golenia)
+
+2. Obszary twarzy (100 słów)
+
+Wąsik (20 zł, 10 min) - górna warga
+Broda (30 zł, 15 min) - podbródek, boki
+Policzki (30 zł, 15 min) - boki twarzy
+Twarz cała (60 zł, 30 min) - kompleksowo
+Wosk ciepły (delikatny dla wrażliwej skóry twarzy)
+
+3. Przebieg zabiegu (100 słów)
+
+Oczyszczenie skóry twarzy
+Aplikacja wosku ciepłego (niższa temperatura dla twarzy)
+Zerwanie wraz z włoskami
+Usunięcie pozostałości
+Preparat kojący
+Minimalna długość włosków: 0,5 cm
+Czas: 10-30 min (zależnie od obszaru)
+
+4. Efekty i trwałość (80 słów)
+
+Gładkość: 3-4 tygodnie
+Odrastające włoski cieńsze, jaśniejsze
+Regularna depilacja = rzadsze owłosienie
+Brak wrastających włosków (problem po goleniu)
+Precyzyjny kształt (brwi, wąsik)
+
+5. Dla kogo (50 słów)
+
+Kobiety (wąsik, policzki)
+Mężczyźni (broda, precyzyjne kształtowanie)
+Osoby z wrażliwą skórą (golenie powoduje podrażnienia)
+Przeciwwskazania: trądzik, uszkodzona skóra
+
+6. Cena (40 słów)
+
+Wąsik: 20 zł (10 min)
+Broda: 30 zł (15 min)
+Policzki: 30 zł (15 min)
+Twarz cała: 60 zł (30 min)
+
+7. Pielęgnacja (50 słów)
+
+Pierwsze 24h: unikać makijażu, słońca, gorącej wody
+Nie opalać przez 48h
+SPF 50+ na twarz
+Nawilżać delikatnie
+
+8. FAQ (3-4 pytania)
+
+Czy depilacja woskiem twarzy boli?
+Ile trzyma depilacja woskiem twarzy?
+Czy depilacja woskiem wąsika jest skuteczna?
+Jak często robić depilację twarzy woskiem?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /depilacja-woskiem/ (kategoria główna)
+Link do: /depilacja-laserowa/twarz/ (trwałe rozwiązanie)
+
+Schema Markup:
+
+Service schema
+Offer schema (ceny: 20/30/60 zł)

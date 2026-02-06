@@ -1,0 +1,77 @@
+CONTENT BRIEF: Usunięcie Makijażu Permanentnego
+URL: /makijaz-permanentny/usuniecie/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Usunięcie Makijażu Permanentnego Czechowice-Dziedzice - Black Rose | 200 zł
+Meta Description: Usunięcie makijażu permanentnego w Czechowicach-Dziedzicach ✓ Laser ✓ Bezpieczne ✓ 200 zł ✓ Brwi, usta, kreski ✓ Umów wizytę!
+H1: Usunięcie Makijażu Permanentnego w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Dlaczego usuwanie makijażu permanentnego (zmiana kształtu, koloru, błędy w wykonaniu)
+Główne korzyści (bezpieczne, skuteczne, możliwość ponownej pigmentacji)
+
+2. Co można usunąć (80 słów)
+
+Makijaż permanentny brwi (microblading, powder brows)
+Makijaż permanentny ust (kontur, wypełnienie)
+Makijaż permanentny kresek (eyeliner)
+Przebarwienia po nieudanej pigmentacji
+Nieaktualne kształty i kolory
+
+3. Przebieg zabiegu (100 słów)
+
+Metoda: laser Q-switched (rozbijanie pigmentu)
+Konsultacja - ocena pigmentacji
+Zabieg: 15-30 min (zależnie od obszaru)
+Odczucia: delikatne "strzelanie" (znośne)
+Znieczulenie kremem (opcjonalnie)
+Liczba sesji: 3-6 zabiegów co 6-8 tygodni
+
+4. Efekty (80 słów)
+
+Stopniowe blaknięcie pigmentu
+Po każdej sesji pigment jaśniejszy o 20-30%
+Całkowite usunięcie lub znaczące rozjaśnienie po 3-6 sesjach
+Możliwość wykonania nowego makijażu permanentnego po 2 miesiącach od ostatniej sesji usuwania
+
+5. Cena (30 słów)
+
+Usunięcie makijażu permanentnego: 200 zł (1 sesja)
+Koszt całkowity: 600-1200 zł (3-6 sesji)
+
+6. Dla kogo (50 słów)
+
+Osoby niezadowolone z kształtu/koloru brwi/ust
+Przebarwienia po nieudanej pigmentacji
+Zmiana mody (stare kształty brwi)
+Przygotowanie do nowego makijażu permanentnego
+
+7. Pielęgnacja (50 słów)
+
+Pierwsze 3 dni: maść antybiotykowa, opatrunek
+Nie moczyć przez 24h
+Unikać słońca przez 4 tygodnie (SPF 50+)
+Nie skrobać strupków
+Możliwe: zaczerwienienie, obrzęk (2-3 dni)
+
+8. FAQ (3-4 pytania)
+
+Czy usuwanie makijażu permanentnego boli?
+Ile sesji usuwania makijażu permanentnego potrzeba?
+Czy można usunąć makijaż permanentny całkowicie?
+Kiedy można zrobić nowy makijaż permanentny?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /makijaz-permanentny/ (kategoria główna)
+Link do: /makijaz-permanentny/brwi/ (po usunięciu - nowa pigmentacja)
+Link do: /usuwanie-tatuazu/ (podobna technologia)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 200 zł)

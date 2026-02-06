@@ -1,0 +1,75 @@
+CONTENT BRIEF: Depilacja Woskiem Pachy
+URL: /depilacja-woskiem/pachy/
+Typ strony: Tier 3 (podstrona szczegółowa)
+Metadane SEO
+Title: Depilacja Woskiem Pach Czechowice-Dziedzice - Black Rose | 30 zł | 15 min
+Meta Description: Depilacja woskiem pach w Czechowicach-Dziedzicach ✓ 30 zł ✓ 15 min ✓ Gładkość 3-4 tygodnie ✓ Szybko i skutecznie ✓ Umów wizytę online!
+H1: Depilacja Woskiem Pach w Czechowicach-Dziedzicach
+Długość: 400-500 słów
+
+Struktura treści
+1. Wprowadzenie (50 słów)
+
+Dlaczego depilacja woskiem pach (gładkość, higiena, bez podrażnień)
+Główne korzyści (trwałość 3-4 tygodnie, brak zapachu, komfort)
+
+2. Jak wygląda (100 słów)
+
+Szybki zabieg (15 minut)
+Wosk gorący (lepiej przylega do włosków, mniej bolesny)
+Usunięcie z cebulką
+Minimalna długość włosków: 0,5 cm
+Brak wrastających włosków (jak po goleniu)
+
+3. Przebieg zabiegu (100 słów)
+
+Oczyszczenie i odtłuszczenie skóry
+Aplikacja wosku gorącego
+Zerwanie wosku wraz z włoskami
+Usunięcie pozostałości
+Preparat kojący
+Czas: 15 minut
+
+4. Efekty i trwałość (80 słów)
+
+Gładkość: 3-4 tygodnie
+Brak wrastających włosków
+Odrastające włoski cieńsze
+Regularna depilacja = rzadsze owłosienie
+Koniec golenia i podrażnień
+
+5. Dla kogo (50 słów)
+
+Kobiety i mężczyźni
+Osoby z wrażliwą skórą pach (golenie powoduje podrażnienia)
+Sezon letni (bluzki bez rękawów)
+Przeciwwskazania: uszkodzona skóra, świeża opalenizna
+
+6. Cena (30 słów)
+
+Depilacja woskiem pachy: 30 zł (15 min)
+
+7. Pielęgnacja (50 słów)
+
+Pierwsze 24h: unikać dezodorantu, gorącej kąpieli
+Nie opalać przez 48h
+Peeling 2 razy w tygodniu
+Nawilżać codziennie
+
+8. FAQ (3-4 pytania)
+
+Czy depilacja woskiem pach boli?
+Ile trzyma depilacja woskiem pach?
+Jak długo trwa depilacja pach?
+Czy po depilacji woskiem można używać dezodorantu?
+
+9. CTA + linki
+
+CTA: "Umów wizytę online" → Booksy
+Link do: /depilacja-woskiem/ (kategoria główna)
+Link do: /depilacja-laserowa/pachy/ (trwałe rozwiązanie)
+
+Schema Markup:
+
+Service schema
+Offer schema (cena 30 zł, czas 15 min)

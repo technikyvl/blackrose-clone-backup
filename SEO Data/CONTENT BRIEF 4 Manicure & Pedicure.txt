@@ -1,0 +1,147 @@
+CONTENT BRIEF 4: Manicure & Pedicure
+URL: /manicure-pedicure/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Manicure i Pedicure Czechowice-Dziedzice - Black Rose | Hybrydowy & Żelowy
+Meta Description: Manicure i pedicure w Czechowicach-Dziedzicach ✓ Hybrydowy ✓ Żelowy ✓ Przedłużanie ✓ Stylizacja paznokci ✓ Profesjonalna obsługa!
+H1: Manicure i Pedicure w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest manicure i pedicure (pielęgnacja dłoni i stóp + stylizacja paznokci)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (trwałość, estetyka, zdrowie paznokci)
+
+2. Rodzaje manicure i pedicure (200-250 słów)
+Manicure:
+
+Manicure hybrydowy - trwałość 2-3 tygodnie, szeroka paleta kolorów
+Manicure żelowy - trwałość 3-4 tygodnie, wzmocnienie paznokci
+Przedłużanie paznokci - żel/akryl, dowolny kształt i długość
+Manicure klasyczny - pielęgnacja naturalna
+
+Pedicure:
+
+Pedicure hybrydowy - lakier hybrydowy na stopach
+Pedicure żelowy - trwały, odporny na uszkodzenia
+Pedicure kosmetyczny - usuwanie zrogowaceń, pielęgnacja
+Pedicure SPA - relaks + pielęgnacja
+
+Dodatkowe usługi:
+
+Zdobienia
+Manicure japoński
+Parafinowe zabiegi dla dłoni i stóp
+
+3. Dla kogo manicure i pedicure (100-150 słów)
+
+Każdy - kobiety i mężczyźni
+Osoby ceniące zadbane dłonie i stopy
+Aktywny tryb życia (hybrydowy/żelowy = trwałość)
+Problemy: łamliwe paznokcie, zgrubienia, odciski
+
+4. Przebieg zabiegów (150-200 słów)
+Manicure:
+
+Usunięcie starego lakieru
+Opracowanie skórek i płytki paznokcia
+Nadanie kształtu
+Aplikacja bazy, koloru, topu (hybrydowy/żelowy)
+Utwardzanie w lampie UV/LED
+Pielęgnacja skórek
+
+Pedicure:
+
+Namoczenie stóp
+Usuwanie zrogowaceń i odcisków
+Opracowanie paznokci
+Lakierowanie (hybrydowy/żelowy/klasyczny)
+Masaż stóp + pielęgnacja
+
+Pytania PAA do wykorzystania:
+
+Jak wygląda manicure hybrydowy?
+Ile trwa manicure hybrydowy?
+Jak długo schnie manicure hybrydowy?
+
+5. Efekty i trwałość (150-200 słów)
+Manicure:
+
+Hybrydowy: 2-3 tygodnie
+Żelowy: 3-4 tygodnie
+Przedłużanie: 3-4 tygodnie (wypełnienia)
+
+Pedicure:
+
+Hybrydowy: 3-4 tygodnie (na stopach dłużej)
+Żelowy: 4-6 tygodni
+Kosmetyczny: efekt gładkich stóp 2-4 tygodnie
+
+Pytania PAA do wykorzystania:
+
+Ile trzyma się manicure hybrydowy?
+Jak długo wytrzymuje manicure żelowy?
+Czy manicure hybrydowy niszczy paznokcie?
+
+6. Pielęgnacja po zabiegu (100 słów)
+
+Unikać długotrwałego kontaktu z wodą przez pierwsze 24h
+Stosować oliwki do skórek
+Nawilżać dłonie i stopy
+Nosić rękawiczki przy pracach domowych
+Regularne wizyty (co 3-4 tygodnie)
+
+Pytania PAA do wykorzystania:
+
+Jak dbać o manicure hybrydowy?
+Jak pielęgnować paznokcie hybrydowe?
+
+7. Cennik (tabela HTML)
+Stwórz tabelę z cenami:
+
+Manicure hybrydowy
+Manicure żelowy
+Przedłużanie paznokci (żel/akryl)
+Manicure klasyczny
+Pedicure hybrydowy
+Pedicure żelowy
+Pedicure kosmetyczny
+Pedicure SPA
+Zdobienia (cena za paznokieć)
+
+Dane cenowe weź z Booksy
+Pytania PAA do wykorzystania:
+
+Ile kosztuje manicure hybrydowy?
+Manicure hybrydowy cena czechowice?
+
+8. FAQ (5-8 pytań)
+
+Ile trzyma się manicure hybrydowy?
+Czy manicure hybrydowy niszczy paznokcie?
+Jak długo schnie manicure hybrydowy?
+Czym różni się manicure hybrydowy od żelowego?
+Jak zdjąć manicure hybrydowy?
+Ile kosztuje manicure hybrydowy?
+
+9. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/manicure-pedicure/manicure-hybrydowy/
+/manicure-pedicure/manicure-zelowy/
+/manicure-pedicure/pedicure-hybrydowy/
+/manicure-pedicure/pedicure-kosmetyczny/
+/manicure-pedicure/przedluzanie-paznokci/
+/manicure-pedicure/spa-dlonie-stopy/
+
+
+SCHEMA MARKUP
+
+Service schema (manicure i pedicure)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema
+

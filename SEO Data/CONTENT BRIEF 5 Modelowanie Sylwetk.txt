@@ -1,0 +1,155 @@
+CONTENT BRIEF 5: Modelowanie Sylwetki
+URL: /modelowanie-sylwetki/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Modelowanie Sylwetki Czechowice-Dziedzice - Black Rose | Kriolipoliza & Lipolaser
+Meta Description: Modelowanie sylwetki w Czechowicach-Dziedzicach ✓ Kriolipoliza ✓ Lipolaser ✓ Drenaż limfatyczny ✓ Redukcja tkanki tłuszczowej ✓ Bez skalpela!
+H1: Modelowanie Sylwetki w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest modelowanie sylwetki (nieinwazyjne metody redukcji tkanki tłuszczowej i ujędrniania skóry)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (bez operacji, bez rekonwalescencji, widoczne efekty)
+
+2. Rodzaje zabiegów modelujących (200-250 słów)
+Redukcja tkanki tłuszczowej:
+
+Kriolipoliza - zamrażanie komórek tłuszczowych (-20 do -25°C)
+Lipolaser - niszczenie adipocytów światłem laserowym
+Ultradzwięki na ciało - redukcja cellulitu i tkanki tłuszczowej
+
+Ujędrnianie i detoks:
+
+Drenaż limfatyczny - redukcja obrzęków, detoksykacja
+Platforma wibracyjna - stymulacja mięśni, poprawa krążenia
+Radiofrekwencja na ciało - ujędrnienie skóry
+
+Pytania PAA do wykorzystania (kriolipoliza):
+
+Jak działa kriolipoliza?
+Czym jest kriolipoliza?
+Czy kriolipoliza jest skuteczna?
+
+3. Dla kogo modelowanie sylwetki (100-150 słów)
+
+Osoby z opornymi złogami tłuszczowymi (brzuch, boczki, uda, podbródek)
+BMI poniżej 30 (to nie metoda odchudzania, tylko modelowania)
+Po ciąży, utracie wagi - ujędrnienie skóry
+Przeciwwskazania (ciąża, nowotwory, choroby autoimmunologiczne, stymulator serca)
+
+4. Przebieg zabiegów (150-200 słów)
+Kriolipoliza:
+
+Aplikacja aplikatora na wybrany obszar
+Zamrażanie przez 45-60 min
+Uczucie zimna, ściągnięcia (potem znieczulenie)
+Masaż końcowy dla poprawy efektów
+
+Lipolaser:
+
+Nakładanie plastrów laserowych na ciało
+Zabieg 20-30 min
+Bezbolesny, relaksujący
+Połączenie z aktywnością fizyczną zwiększa efekty
+
+Drenaż limfatyczny:
+
+Delikatny masaż
+Czas trwania 60-90 min
+Całkowicie relaksujący
+
+Pytania PAA do wykorzystania:
+
+Jak przebiega kriolipoliza?
+Czy kriolipoliza boli?
+Ile trwa zabieg kriolipolizy?
+
+5. Efekty i trwałość (150-200 słów)
+Kriolipoliza:
+
+Redukcja 20-25% tkanki tłuszczowej w traktowanym obszarze
+Efekty widoczne po 4-6 tygodniach
+Finalny rezultat po 3 miesiącach
+1-3 zabiegi na obszar
+
+Lipolaser:
+
+Redukcja obwodów od pierwszego zabiegu
+6-10 zabiegów dla optymalnych efektów
+Zabiegi 2-3 razy w tygodniu
+
+Drenaż limfatyczny:
+
+Natychmiastowe odczucie lekkości
+Seria 10-15 zabiegów
+Zabiegi 2-3 razy w tygodniu
+
+Pytania PAA do wykorzystania:
+
+Jakie efekty daje kriolipoliza?
+Ile zabiegów kriolipolizy potrzeba?
+Kiedy efekty kriolipolizy?
+Jak długo utrzymuje się efekt kriolipolizy?
+
+6. Pielęgnacja po zabiegu (100 słów)
+
+Kriolipoliza: można wrócić do codziennych aktywności od razu, aktywność fizyczna zalecana
+Lipolaser: aktywność fizyczna bezpośrednio po zabiegu zwiększa efekty
+Drenaż: pić dużo wody, unikać słonych potraw
+Wszystkie: zdrowa dieta i aktywność wspierają rezultaty
+
+Pytania PAA do wykorzystania:
+
+Co robić po kriolipolizie?
+Czy po kriolipolizie trzeba ćwiczyć?
+
+7. Cennik (tabela HTML)
+Stwórz tabelę z cenami:
+
+Kriolipoliza (cena za aplikator/obszar)
+Lipolaser (pojedynczy zabieg / pakiet)
+Drenaż limfatyczny (60 min / 90 min)
+Ultradzwięki na ciało
+Platforma wibracyjna
+Radiofrekwencja na ciało
+
+Dane cenowe weź z Booksy
+Pytania PAA do wykorzystania:
+
+Ile kosztuje kriolipoliza?
+Kriolipoliza cena czechowice?
+
+8. FAQ (5-8 pytań)
+
+Jak działa kriolipoliza?
+Czy kriolipoliza jest skuteczna?
+Czy kriolipoliza boli?
+Ile zabiegów kriolipolizy potrzeba?
+Kiedy efekty kriolipolizy?
+Ile kosztuje kriolipoliza?
+
+9. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/modelowanie-sylwetki/kriolipoliza/
+/modelowanie-sylwetki/lipolaser/
+/modelowanie-sylwetki/drenaz-limfatyczny/
+/modelowanie-sylwetki/ultradzwieki-cialo/
+/modelowanie-sylwetki/platforma-wibracyjna/
+
+Related categories:
+
+/radiofrekwencja-mikroiglowa/ (ujędrnienie skóry)
+/masaz/ (relaks i regeneracja)
+
+
+SCHEMA MARKUP
+
+Service schema (modelowanie sylwetki)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

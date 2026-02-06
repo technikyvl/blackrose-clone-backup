@@ -1,0 +1,102 @@
+CONTENT BRIEF 6: Depilacja Woskiem
+URL: /depilacja-woskiem/
+Typ strony: Tier 2 (główna kategoria)
+Metadane SEO
+Title: Depilacja Woskiem Czechowice-Dziedzice - Black Rose | Szybko & Skutecznie
+Meta Description: Depilacja woskiem w Czechowicach-Dziedzicach ✓ Nogi ✓ Pachy ✓ Bikini ✓ Twarz ✓ Profesjonalne wosk depilacje ✓ Gładka skóra na długo!
+H1: Depilacja Woskiem w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest depilacja woskiem (usuwanie włosów z cebulką)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (gładkość 3-4 tygodnie, osłabienie owłosienia, szybkość)
+
+2. Jak działa depilacja woskiem (150-200 słów)
+
+Zasada działania - wosk przykleja się do włosków i usuwa je z cebulką
+Rodzaje wosku (ciepły, gorący, stripsy)
+Różnica między depilacją woskiem a goleniem
+Przygotowanie włosków (minimalna długość 0,5 cm)
+
+3. Obszary do depilacji woskiem (150 słów)
+
+Nogi (łydki, uda, całe nogi)
+Pachy
+Bikini (klasyczne, brazylijskie)
+Twarz (górna warga, broda, policzki)
+Plecy i tors
+Ręce i przedramiona
+
+4. Dla kogo depilacja woskiem (100 słów)
+
+Każdy - kobiety i mężczyźni
+Alternatywa dla golenia (dłuższa gładkość)
+Osoby z wrażliwą skórą (lepiej niż golenie)
+Przeciwwskazania (uszkodzona skóra, retinoidy, świeża opalenizna)
+
+5. Przebieg zabiegu (150 słów)
+
+Oczyszczenie i odtłuszczenie skóry
+Aplikacja wosku na obszar
+Zerwanie wosku wraz z włoskami
+Usunięcie pozostałości
+Aplikacja preparatu kojącego
+Czas trwania: 15-60 min (zależnie od obszaru)
+
+6. Efekty i trwałość (150-200 słów)
+
+Gładkość 3-4 tygodnie
+Odrastające włoski cieńsze i jaśniejsze
+Regularna depilacja = rzadsze owłosienie
+Efekty lepsze z każdą kolejną depilacją
+
+7. Pielęgnacja po zabiegu (100 słów)
+
+Pierwsze 24h: unikać sauny, solarium, gorących kąpieli
+Nie opalać się przez 48h
+Peeling 2-3 razy w tygodniu (zapobiega wrastaniu włosków)
+Nawilżać skórę codziennie
+
+8. Cennik (tabela HTML)
+Stwórz tabelę z cenami dla poszczególnych obszarów:
+
+Nogi (łydki / uda / całe nogi)
+Pachy
+Bikini (klasyczne / brazylijskie / głębokie)
+Twarz (wąsik / broda / policzki)
+Plecy i tors
+Ręce (przedramiona / całe ręce)
+
+Dane cenowe weź z Booksy
+9. FAQ (5-6 pytań)
+
+Czy depilacja woskiem boli?
+Jak długo trzyma depilacja woskiem?
+Jak przygotować się do depilacji woskiem?
+Czy depilacja woskiem powoduje wrastanie włosków?
+Jak często depilacja woskiem?
+
+10. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3:
+
+/depilacja-woskiem/nogi/
+/depilacja-woskiem/pachy/
+/depilacja-woskiem/bikini/
+/depilacja-woskiem/twarz/
+/depilacja-woskiem/plecy-tors/
+
+Related categories:
+
+/depilacja-laserowa/ (trwałe usuwanie owłosienia)
+
+
+SCHEMA MARKUP
+
+Service schema (depilacja woskiem)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

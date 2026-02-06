@@ -1,0 +1,123 @@
+DEPILACJA CONTENT BRIEF
+
+CONTENT BRIEF: Depilacja Laserowa
+URL: /depilacja-laserowa/
+Typ strony: Tier 2 (główna kategoria)
+
+Metadane SEO
+Title: Depilacja Laserowa Czechowice-Dziedzice - Black Rose | Skuteczne Usuwanie Owłosienia
+Meta Description: Depilacja laserowa w Czechowicach-Dziedzicach ✓ Nowoczesny sprzęt ✓ Bezbolesne zabiegi ✓ Trwałe efekty ✓ Sprawdź cennik i umów wizytę online!
+H1: Depilacja Laserowa w Czechowicach-Dziedzicach
+Długość: 800-1200 słów
+
+STRUKTURA TREŚCI
+1. Wprowadzenie (100-150 słów)
+
+Czym jest depilacja laserowa (1-2 zdania)
+Dlaczego warto wybrać Black Rose w Czechowicach
+Główne korzyści (trwałość, bezpieczeństwo, efektywność)
+
+2. Jak działa depilacja laserowa (150-200 słów)
+
+Zasada działania lasera diodowego
+Proces niszczenia mieszka włosowego
+Dlaczego wymaga serii zabiegów
+Bezpieczeństwo technologii
+
+Pytania PAA do wykorzystania:
+
+Jak działa depilacja laserowa?
+Czy depilacja laserowa jest bezpieczna?
+Dlaczego depilacja laserowa wymaga kilku sesji?
+
+3. Dla kogo depilacja laserowa (100-150 słów)
+
+Typy skóry i włosów (laser działa najlepiej na ciemnych włosach)
+Przeciwwskazania (ciąża, opalanie, choroby skóry)
+Obszary ciała - dodaj linki do podstron Tier 3
+
+4. Przebieg zabiegu (150-200 słów)
+
+Jak wygląda wizyta krok po kroku
+Czas trwania (zależnie od obszaru)
+Odczucia podczas zabiegu (czy boli)
+Przygotowanie przed wizytą
+
+Pytania PAA do wykorzystania:
+
+Jak przygotować się do depilacji laserowej?
+Czy trzeba się golić przed depilacją laserową?
+Czy depilacja laserowa boli?
+Jak wygląda zabieg depilacji laserowej?
+
+5. Efekty i trwałość (150-200 słów)
+
+Ile sesji potrzeba (6-8 zazwyczaj)
+Odstępy między zabiegami (4-6 tygodni)
+Kiedy widoczne pierwsze efekty
+Trwałość rezultatów (redukcja 80-95% owłosienia)
+
+Pytania PAA do wykorzystania:
+
+Ile sesji depilacji laserowej potrzeba?
+Jak często depilacja laserowa?
+Kiedy efekty depilacji laserowej?
+Jak długo utrzymuje się efekt depilacji laserowej?
+
+6. Pielęgnacja po zabiegu (100 słów)
+
+Czego unikać (słońce, sauna, siłownia przez 24-48h)
+Jak dbać o skórę (nawilżanie, SPF)
+Kiedy można wrócić do normalnych aktywności
+
+Pytania PAA do wykorzystania:
+
+Co robić po depilacji laserowej?
+Czego nie wolno robić po depilacji laserowej?
+Jak długo nie opalać się po depilacji laserowej?
+
+7. Cennik (tabela HTML)
+Stwórz tabelę z cenami dla poszczególnych obszarów ciała:
+
+Pachy, Nogi (łydki / całe), Bikini (klasyczne / brazylijskie), Twarz, Plecy, Ręce, Brzuch
+Dane cenowe weź z Booksy
+
+Pytania PAA do wykorzystania:
+
+Ile kosztuje depilacja laserowa?
+Depilacja laserowa cena - co wpływa na koszt?
+
+8. FAQ (5-8 pytań)
+Wykorzystaj pytania PAA - odpowiedz na każde w 2-3 zdaniach:
+
+Czy depilacja laserowa boli?
+Ile sesji depilacji laserowej potrzeba?
+Depilacja laserowa vs IPL - różnice?
+Ile kosztuje depilacja laserowa?
+Co robić po depilacji laserowej?
+Jak przygotować się do depilacji laserowej?
+
+9. CTA + Linki wewnętrzne
+CTA: Przycisk "Umów wizytę online" → link do Booksy
+Linki do podstron Tier 3 (wpleć naturalnie w tekst):
+
+/depilacja-laserowa/pachy/
+/depilacja-laserowa/nogi/
+/depilacja-laserowa/bikini/
+/depilacja-laserowa/twarz/
+/depilacja-laserowa/plecy/
+/depilacja-laserowa/rece/
+/depilacja-laserowa/brzuch/
+
+Related categories:
+
+/depilacja-woskiem/ (alternatywa)
+/zabiegi-na-twarz/ (komplementarne)
+
+
+SCHEMA MARKUP
+
+Service schema (depilacja laserowa)
+LocalBusiness schema
+FAQPage schema
+BreadcrumbList schema

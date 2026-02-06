@@ -3601,3 +3601,597 @@ h1, h2, h3, h4, h5, h6 {
   height: 4px;
   background: var(--rose);
 }
+
+/* ====================================
+   SERVICE SUBPAGES
+   ==================================== */
+
+/* Breadcrumbs */
+.breadcrumbs {
+  padding: 1rem 0;
+  font-size: 13px;
+  color: var(--ink-light);
+}
+
+.breadcrumbs a {
+  color: var(--ink-light);
+  transition: color 0.3s;
+}
+
+.breadcrumbs a:hover {
+  color: var(--rose);
+}
+
+.breadcrumbs .separator {
+  margin: 0 0.5rem;
+  opacity: 0.4;
+}
+
+.breadcrumbs .current {
+  color: var(--ink);
+  font-weight: 500;
+}
+
+/* Service Hero */
+.service-hero {
+  position: relative;
+  padding: 8rem 0 4rem;
+  background: var(--rose-light);
+  overflow: hidden;
+}
+
+.service-hero .decorative-number {
+  position: absolute;
+  top: 50%;
+  right: -5%;
+  transform: translateY(-50%);
+  font-size: 30vw;
+  opacity: 0.04;
+  pointer-events: none;
+  user-select: none;
+}
+
+@media (min-width: 1024px) {
+  .service-hero {
+    padding: 10rem 0 5rem;
+  }
+
+  .service-hero .decorative-number {
+    font-size: 20vw;
+  }
+}
+
+.service-hero .container {
+  position: relative;
+}
+
+.service-hero .section-label {
+  font-size: 13px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rose);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.service-hero .section-label::before {
+  content: '';
+  width: 2rem;
+  height: 1px;
+  background: var(--rose);
+}
+
+.service-hero h1 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1;
+  color: var(--ink);
+  margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .service-hero h1 {
+    font-size: 3.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .service-hero h1 {
+    font-size: 4rem;
+  }
+}
+
+.service-hero h1 .accent {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  color: var(--rose);
+}
+
+.service-hero .hero-description {
+  font-size: 1.125rem;
+  color: var(--ink-light);
+  line-height: 1.7;
+  max-width: 600px;
+  margin-bottom: 2rem;
+}
+
+.service-hero .hero-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.service-hero .hero-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--pure-white);
+  border-radius: 100px;
+  font-size: 13px;
+  color: var(--ink);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.service-hero .hero-badge svg {
+  width: 16px;
+  height: 16px;
+  color: var(--rose);
+}
+
+/* Service Content */
+.service-content {
+  padding: 4rem 0;
+}
+
+@media (min-width: 1024px) {
+  .service-content {
+    padding: 5rem 0;
+  }
+}
+
+.service-content .container {
+  max-width: 900px;
+}
+
+.service-content h2 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 400;
+  color: var(--ink);
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--rose-light);
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .service-content h2 {
+    font-size: 2rem;
+  }
+}
+
+.service-content h2 .accent {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  color: var(--rose);
+}
+
+.service-content h3 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--ink);
+  margin-bottom: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.service-content p {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--ink-light);
+  margin-bottom: 1rem;
+}
+
+.service-content ul {
+  list-style: none;
+  margin-bottom: 1.5rem;
+}
+
+.service-content ul li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: var(--ink-light);
+}
+
+.service-content ul li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.65em;
+  width: 6px;
+  height: 6px;
+  background: var(--rose);
+  border-radius: 50%;
+}
+
+.service-content .content-section {
+  margin-bottom: 3rem;
+}
+
+.service-content .content-section:last-child {
+  margin-bottom: 0;
+}
+
+/* Step cards */
+.service-steps {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 640px) {
+  .service-steps {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.service-step {
+  padding: 1.5rem;
+  background: var(--rose-light);
+  border-radius: 12px;
+  position: relative;
+}
+
+.service-step .step-number {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 2rem;
+  color: var(--rose);
+  opacity: 0.3;
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+}
+
+.service-step h4 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+
+.service-step p {
+  font-size: 14px;
+  color: var(--ink-light);
+  margin-bottom: 0;
+}
+
+/* Info box */
+.service-info-box {
+  background: var(--rose-light);
+  border-left: 3px solid var(--rose);
+  padding: 1.25rem 1.5rem;
+  border-radius: 0 12px 12px 0;
+  margin: 1.5rem 0;
+}
+
+.service-info-box p {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+/* Pricing Table */
+.service-pricing {
+  padding: 4rem 0;
+  background: var(--soft-bg);
+}
+
+@media (min-width: 1024px) {
+  .service-pricing {
+    padding: 5rem 0;
+  }
+}
+
+.service-pricing .container {
+  max-width: 900px;
+}
+
+.service-pricing .section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.service-pricing .section-header h2 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.service-pricing .section-header h2 .accent {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  color: var(--rose);
+}
+
+.pricing-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--pure-white);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+}
+
+.pricing-table thead th {
+  background: var(--ink);
+  color: var(--pure-white);
+  padding: 1rem 1.5rem;
+  text-align: left;
+  font-family: 'Questrial', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.pricing-table thead th:last-child {
+  text-align: right;
+}
+
+.pricing-table tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.2s;
+}
+
+.pricing-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.pricing-table tbody tr:hover {
+  background: var(--rose-light);
+}
+
+.pricing-table tbody td {
+  padding: 1rem 1.5rem;
+  font-size: 15px;
+  color: var(--ink);
+}
+
+.pricing-table tbody td:last-child {
+  text-align: right;
+  font-weight: 500;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+.pricing-table .category-row td {
+  background: var(--rose-light);
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--rose);
+  padding: 0.75rem 1.5rem;
+}
+
+/* Service FAQ */
+.service-faq {
+  padding: 4rem 0;
+}
+
+@media (min-width: 1024px) {
+  .service-faq {
+    padding: 5rem 0;
+  }
+}
+
+.service-faq .container {
+  max-width: 900px;
+}
+
+.service-faq .section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.service-faq .section-header h2 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+
+.service-faq .section-header h2 .accent {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  color: var(--rose);
+}
+
+/* Service CTA */
+.service-cta {
+  padding: 4rem 0;
+  background: var(--ink);
+  position: relative;
+  overflow: hidden;
+}
+
+.service-cta .decorative-bg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(248,180,200,0.1) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.service-cta .container {
+  position: relative;
+  text-align: center;
+}
+
+.service-cta h2 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--pure-white);
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+  .service-cta h2 {
+    font-size: 2.5rem;
+  }
+}
+
+.service-cta h2 .accent {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  color: var(--rose);
+}
+
+.service-cta p {
+  color: rgba(255,255,255,0.7);
+  font-size: 1.125rem;
+  max-width: 500px;
+  margin: 0 auto 2rem;
+  line-height: 1.7;
+}
+
+.service-cta .cta-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+/* Service Internal Links */
+.service-links {
+  padding: 4rem 0;
+  background: var(--rose-light);
+}
+
+@media (min-width: 1024px) {
+  .service-links {
+    padding: 5rem 0;
+  }
+}
+
+.service-links .container {
+  max-width: 900px;
+}
+
+.service-links .section-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.service-links .section-header h2 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 400;
+  color: var(--ink);
+}
+
+.service-links .section-header h2 .accent {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  color: var(--rose);
+}
+
+.service-links-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+}
+
+@media (min-width: 640px) {
+  .service-links-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 768px) {
+  .service-links-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.service-link-card {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
+  background: var(--pure-white);
+  border-radius: 12px;
+  text-decoration: none;
+  color: var(--ink);
+  font-size: 15px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.service-link-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+
+.service-link-card svg {
+  width: 16px;
+  height: 16px;
+  color: var(--rose);
+  flex-shrink: 0;
+}
+
+.service-link-card .arrow {
+  margin-left: auto;
+  color: var(--ink-light);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.service-link-card:hover .arrow {
+  opacity: 1;
+}
+
+/* Related categories */
+.related-categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.related-category {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 100px;
+  font-size: 14px;
+  color: var(--ink-light);
+  text-decoration: none;
+  transition: border-color 0.3s, color 0.3s;
+}
+
+.related-category:hover {
+  border-color: var(--rose);
+  color: var(--rose);
+}

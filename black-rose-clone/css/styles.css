@@ -3911,7 +3911,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .service-pricing .section-header h2 {
   font-family: 'Questrial', sans-serif;
-  font-size: 2rem;
+  font-size: 2.25rem;
   font-weight: 400;
   color: var(--ink);
   margin-bottom: 0.5rem;
@@ -3923,6 +3923,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   color: var(--rose);
+}
+
+@media (min-width: 768px) {
+  .service-pricing .section-header h2 {
+    font-size: 2.75rem;
+  }
 }
 
 .pricing-table {
@@ -4008,16 +4014,30 @@ h1, h2, h3, h4, h5, h6 {
 
 .service-faq .section-header h2 {
   font-family: 'Questrial', sans-serif;
-  font-size: 2rem;
+  font-size: 2.25rem;
   font-weight: 400;
   color: var(--ink);
   margin-bottom: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .service-faq .section-header h2 {
+    font-size: 2.75rem;
+  }
 }
 
 .service-faq .section-header h2 .accent {
   font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   color: var(--rose);
+}
+
+/* Service FAQ - answer padding fix */
+.service-faq .faq-answer p {
+  padding: 0 2rem 1.5rem;
+  font-size: 15px;
+  color: var(--ink-light);
+  line-height: 1.8;
 }
 
 /* Service CTA */
@@ -4098,14 +4118,20 @@ h1, h2, h3, h4, h5, h6 {
 
 .service-links .section-header {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .service-links .section-header h2 {
   font-family: 'Questrial', sans-serif;
-  font-size: 1.75rem;
+  font-size: 2.25rem;
   font-weight: 400;
   color: var(--ink);
+}
+
+@media (min-width: 768px) {
+  .service-links .section-header h2 {
+    font-size: 2.75rem;
+  }
 }
 
 .service-links .section-header h2 .accent {

@@ -298,13 +298,57 @@
 
   <!-- CTA -->
   <section class="service-cta">
-    <div class="decorative-bg"></div>
     <div class="container">
-      <h2 class="animate-on-scroll animate-fade-in-up">Um&#243;w si&#281; na <span class="accent">wizyt&#281;</span></h2>
-      <p class="animate-on-scroll animate-fade-in-up delay-100">Zarezerwuj termin i odkryj lifting bez skalpela</p>
-      <div class="cta-buttons animate-on-scroll animate-fade-in-up delay-200">
-        <a href="../#kontakt" class="pill-button pill-button-primary">Zarezerwuj online</a>
-        <a href="tel:+48XXXXXXXXX" class="pill-button pill-button-secondary">Zadzwo&#324;</a>
+      <div class="cta-layout">
+        <div class="cta-info animate-on-scroll animate-fade-in-up">
+          <span class="cta-label">Kontakt</span>
+          <h2>Umów się na <span class="accent">wizytę</span></h2>
+          <p class="cta-desc">Zarezerwuj termin i odkryj lifting bez skalpela</p>
+          <div class="cta-line"></div>
+          <div class="cta-contact-details">
+            <div class="cta-contact-item">
+              <div class="cta-contact-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+              </div>
+              <div class="cta-contact-text">
+                <span>Telefon</span>
+                <a href="tel:+48XXXXXXXXX">+48 XXX XXX XXX</a>
+              </div>
+            </div>
+            <div class="cta-contact-item">
+              <div class="cta-contact-icon">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+              </div>
+              <div class="cta-contact-text">
+                <span>Adres</span>
+                <span>ks. Barabasza 6, Czechowice-Dziedzice</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="cta-form-wrapper animate-on-scroll animate-fade-in-up delay-100">
+          <h3 class="cta-form-title">Wyślij wiadomość</h3>
+          <form class="cta-form" onsubmit="event.preventDefault();">
+            <div class="cta-form-row">
+              <div class="cta-form-group">
+                <label for="cta-name">Imię</label>
+                <input type="text" id="cta-name" name="name" placeholder="Twoje imię">
+              </div>
+              <div class="cta-form-group">
+                <label for="cta-phone">Telefon</label>
+                <input type="tel" id="cta-phone" name="phone" placeholder="+48 XXX XXX XXX">
+              </div>
+            </div>
+            <div class="cta-form-group">
+              <label for="cta-message">Wiadomość</label>
+              <textarea id="cta-message" name="message" placeholder="W czym możemy pomóc?"></textarea>
+            </div>
+            <button type="submit" class="cta-form-submit">
+              <span>Wyślij wiadomość</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </button>
+          </form>
+        </div>
       </div>
     </div>
   </section>

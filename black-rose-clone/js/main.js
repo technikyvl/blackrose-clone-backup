@@ -381,4 +381,29 @@ document.addEventListener('DOMContentLoaded', () => {
   // Initial icon state
   updateFaqIcons();
 
+  // ====================================
+  // Before & After Carousel
+  // ====================================
+  document.querySelectorAll('.ba-carousel').forEach(carousel => {
+    const track = carousel.querySelector('.ba-carousel-track');
+    const slides = carousel.querySelectorAll('.ba-carousel-slide');
+    const dots = carousel.querySelectorAll('.ba-carousel-dot');
+    const prevBtn = carousel.querySelector('.ba-carousel-prev');
+    const nextBtn = carousel.querySelector('.ba-carousel-next');
+    let current = 0;
+    const total = slides.length;
+
+    function goTo(index) {
+      if (index < 0) index = total - 1;
+      if (index >= total) index = 0;
+      current = index;
+      track.style.transform = 'translateX(-' + (current * 100) + '%)';
+      dots.forEach((d, i) => d.classList.toggle('active', i === current));
+    }
+
+    if (prevBtn) prevBtn.addEventListener('click', () => goTo(current - 1));
+    if (nextBtn) nextBtn.addEventListener('click', () => goTo(current + 1));
+    dots.forEach((dot, i) => dot.addEventListener('click', () => goTo(i)));
+  });
+
 });

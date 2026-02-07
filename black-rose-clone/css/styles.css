@@ -1211,79 +1211,44 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ====================================
-   BEFORE & AFTER
+   BEFORE & AFTER (wycentrowana, styl jak reszta strony)
    ==================================== */
 .before-after-section {
   position: relative;
-  padding: 5rem 0 6rem;
-  overflow: hidden;
+  padding: 4rem 0 5rem;
+  background: var(--pure-white);
 }
 
-/* Nagłówek sekcji – styl jak na ref (METAMORFOZY, Przed & Po, opis) */
-.ba-header {
-  padding: 0 0 0.5rem;
+@media (min-width: 1024px) {
+  .before-after-section {
+    padding: 6rem 0 7rem;
+  }
 }
 
-.ba-header-label {
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 0.25em;
-  text-transform: uppercase;
-  color: #e8b4bc;
-  margin-bottom: 0.75rem;
-  display: block;
-}
-
-.ba-header-title {
-  font-size: clamp(2.25rem, 5vw, 3.5rem);
-  font-weight: 700;
-  color: var(--ink);
-  line-height: 1.15;
-  margin: 0;
-}
-
-.ba-header-title .ba-header-amp {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-style: italic;
-  font-weight: 400;
-  color: var(--rose);
-  display: inline-block;
-  margin: 0 0.1em;
-}
-
-.ba-header-desc {
-  font-size: 1.125rem;
-  color: var(--ink);
-  line-height: 1.7;
-  margin: 1rem auto 0;
-  max-width: 32ch;
-}
-
-/* Karuzela efektów przed / po – bliżej nagłówka, mniej pustej przestrzeni */
-.ba-effects-carousel {
-  margin-top: 0.75rem;
+/* Karuzela efektów – wycentrowana */
+.before-after-section .ba-effects-carousel {
   max-width: 520px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.ba-carousel-viewport {
+.before-after-section .ba-carousel-viewport {
   overflow: hidden;
-  border-radius: 10px;
+  border-radius: 2px;
 }
 
-.ba-carousel-track {
+.before-after-section .ba-carousel-track {
   display: flex;
   transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
-.ba-effects-carousel .ba-effect-card {
+.before-after-section .ba-effects-carousel .ba-effect-card {
   flex: 0 0 100%;
   min-width: 0;
   background: var(--pure-white);
-  border-radius: 12px;
+  border-radius: 2px;
   overflow: hidden;
-  box-shadow: 0 4px 24px -8px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 2px 12px -4px rgba(0, 0, 0, 0.06), 0 0 0 1px rgba(0, 0, 0, 0.04);
 }
 
 .ba-carousel-nav {
@@ -1379,24 +1344,10 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
-.ba-cta-wrap {
+.before-after-section .ba-cta-wrap {
   text-align: center;
   margin-top: 1.5rem;
   padding-bottom: 0.5rem;
-}
-
-@media (min-width: 1024px) {
-  .before-after-section {
-    padding: 7rem 0 8rem;
-  }
-}
-
-/* Tło sekcji – delikatny róż */
-.ba-bg-accent {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(180deg, rgba(255, 235, 243, 0.4) 0%, rgba(255, 250, 252, 0.6) 50%, var(--pure-white) 100%);
-  pointer-events: none;
 }
 
 /* Główny blok porównania */

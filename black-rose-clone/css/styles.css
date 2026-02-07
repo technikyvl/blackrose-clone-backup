@@ -703,10 +703,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .mobile-nav-uslugi {
   flex: 1 1 0;
-  min-height: 0;
+  min-height: 180px;
   display: flex;
   flex-direction: column;
   overflow: hidden;
+}
+
+.mobile-nav-uslugi-title {
+  flex-shrink: 0;
 }
 
 .mobile-nav-uslugi-list {

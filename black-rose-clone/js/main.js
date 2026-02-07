@@ -96,9 +96,14 @@ document.addEventListener('DOMContentLoaded', () => {
         mobileUslugi.replaceWith(wrapper);
         mobileNav.classList.add('has-uslugi');
 
-        // Zawsze widoczny blok na dole: O nas, Zespół, Cennik, Kontakt + divider
+        // Zawsze widoczny blok na dole: Usługi + O nas, Zespół, Cennik, Kontakt + divider
         const bottomWrap = document.createElement('div');
         bottomWrap.className = 'mobile-nav-bottom';
+        const uslugiBottomLink = document.createElement('a');
+        uslugiBottomLink.href = (basePrefix || '') + '#uslugi';
+        uslugiBottomLink.className = 'mobile-nav-link';
+        uslugiBottomLink.textContent = 'Usługi';
+        bottomWrap.appendChild(uslugiBottomLink);
         let next = wrapper.nextElementSibling;
         while (next) {
           const toMove = next;

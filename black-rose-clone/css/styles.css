@@ -511,6 +511,30 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
+.mobile-nav-uslugi-title {
+  display: block;
+  padding: 0.75rem 1rem 0.75rem 1.25rem;
+  font-size: 17px;
+  font-weight: 500;
+  color: var(--ink);
+  text-decoration: none;
+  border-left: 3px solid var(--rose);
+  background: var(--pure-white);
+  border-radius: 2px;
+  transition: background 0.2s;
+}
+
+.mobile-nav-uslugi-title:hover {
+  background: var(--rose-light);
+}
+
+.mobile-nav-uslugi .mobile-nav-uslugi-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 100%;
+}
+
 .mobile-nav-category {
   border-radius: 2px;
   overflow: hidden;
@@ -678,6 +702,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-uslugi {
+  flex: 1 1 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.mobile-nav-uslugi-list {
   flex: 1 1 0;
   min-height: 0;
   overflow-y: auto;

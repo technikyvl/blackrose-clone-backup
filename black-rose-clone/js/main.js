@@ -74,7 +74,14 @@ document.addEventListener('DOMContentLoaded', () => {
       if (mobileUslugi) {
         const wrapper = document.createElement('div');
         wrapper.className = 'mobile-nav-uslugi';
-        wrapper.innerHTML = window.NAV_SERVICES.map((cat, i) => {
+        const uslugiTitle = document.createElement('a');
+        uslugiTitle.href = (basePrefix || '') + '#uslugi';
+        uslugiTitle.className = 'mobile-nav-uslugi-title';
+        uslugiTitle.textContent = 'Usługi';
+        wrapper.appendChild(uslugiTitle);
+        const listWrap = document.createElement('div');
+        listWrap.className = 'mobile-nav-uslugi-list';
+        listWrap.innerHTML = window.NAV_SERVICES.map((cat, i) => {
           const hubUrl = url(cat.slug);
           const subLinks = cat.children.map(c => '<a href="' + url(cat.slug + '/' + c.slug) + '" class="mobile-nav-sublink">' + c.label + '</a>').join('');
           return '<div class="mobile-nav-category">' +
@@ -85,6 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
             '</div>' +
             '</div>';
         }).join('');
+        wrapper.appendChild(listWrap);
         mobileUslugi.replaceWith(wrapper);
         mobileNav.classList.add('has-uslugi');
 
@@ -99,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         mobileNav.appendChild(bottomWrap);
 
-        wrapper.querySelectorAll('.mobile-nav-category-trigger').forEach(btn => {
+        listWrap.querySelectorAll('.mobile-nav-category-trigger').forEach(btn => {
           btn.addEventListener('click', () => {
             const cat = btn.closest('.mobile-nav-category');
             const isOpen = cat.classList.toggle('open');

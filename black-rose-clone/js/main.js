@@ -160,7 +160,41 @@ document.addEventListener('DOMContentLoaded', () => {
     observer.observe(el);
   });
 
-  // Sekcja Przed & Po – tylko nagłówek + CTA (bez slajdera)
+  // ====================================
+  // Karuzela efektów Przed & Po
+  // ====================================
+  const baCarousel = document.querySelector('.ba-effects-carousel');
+  if (baCarousel) {
+    const track = baCarousel.querySelector('.ba-carousel-track');
+    const slides = baCarousel.querySelectorAll('.ba-effect-card');
+    const dotsContainer = baCarousel.querySelector('.ba-carousel-dots');
+    const prevBtn = baCarousel.querySelector('.ba-carousel-prev');
+    const nextBtn = baCarousel.querySelector('.ba-carousel-next');
+    const total = slides.length;
+    let current = 0;
+
+    function goTo(index) {
+      current = (index + total) % total;
+      if (track) track.style.transform = `translateX(-${current * 100}%)`;
+      dotsContainer.querySelectorAll('.ba-carousel-dot').forEach((dot, i) => {
+        dot.classList.toggle('active', i === current);
+      });
+    }
+
+    if (dotsContainer && total > 0) {
+      for (let i = 0; i < total; i++) {
+        const dot = document.createElement('button');
+        dot.type = 'button';
+        dot.className = 'ba-carousel-dot' + (i === 0 ? ' active' : '');
+        dot.setAttribute('aria-label', 'Slajd ' + (i + 1));
+        dot.addEventListener('click', () => goTo(i));
+        dotsContainer.appendChild(dot);
+      }
+    }
+    prevBtn?.addEventListener('click', () => goTo(current - 1));
+    nextBtn?.addEventListener('click', () => goTo(current + 1));
+    goTo(0);
+  }
 
   // ====================================
   // Gallery Filter & Lightbox

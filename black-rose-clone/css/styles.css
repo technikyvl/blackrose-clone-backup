@@ -1274,39 +1274,11 @@ h1, h2, h3, h4, h5, h6 {
 /* ---- Showcase carousel ---- */
 .ba-showcase {
   margin: 2.5rem auto 0;
-  max-width: 580px;
+  max-width: 920px;
   position: relative;
 }
 
-/* Counter (01 / 04) */
-.ba-showcase-counter {
-  text-align: center;
-  margin-bottom: 1.25rem;
-  font-family: 'Playfair Display', Georgia, serif;
-  font-size: 0.9375rem;
-  color: var(--ink-light);
-  letter-spacing: 0.04em;
-  user-select: none;
-}
-
-.ba-showcase-current {
-  font-weight: 600;
-  color: var(--ink);
-  font-size: 1.125rem;
-  transition: opacity 0.25s;
-}
-
-.ba-showcase-sep {
-  display: inline-block;
-  margin: 0 0.35em;
-  opacity: 0.35;
-}
-
-.ba-showcase-total {
-  opacity: 0.5;
-}
-
-/* Viewport */
+/* Viewport – zdecydowanie większa karuzela */
 .ba-showcase-viewport {
   overflow: hidden;
   border-radius: 16px;
@@ -1338,7 +1310,8 @@ h1, h2, h3, h4, h5, h6 {
 .ba-showcase-images {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 16 / 9;
+  min-height: 280px;
 }
 
 .ba-showcase-half {
@@ -1396,23 +1369,24 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--pure-white);
 }
 
-/* Info strip */
+/* Info strip – czcionki jak na stronie (Questrial + Playfair italic) */
 .ba-showcase-info {
   text-align: center;
-  padding: 1rem 1.25rem 1.15rem;
+  padding: 1.25rem 1.5rem 1.35rem;
 }
 
 .ba-showcase-title {
-  font-size: 1rem;
+  font-family: var(--font-sans);
+  font-size: clamp(1.125rem, 2vw, 1.375rem);
   font-weight: 600;
   color: var(--ink);
-  margin: 0 0 0.15rem;
+  margin: 0 0 0.25rem;
 }
 
 .ba-showcase-sub {
-  font-family: 'Playfair Display', Georgia, serif;
+  font-family: var(--font-serif);
   font-style: italic;
-  font-size: 0.875rem;
+  font-size: clamp(0.9375rem, 1.5vw, 1.0625rem);
   color: var(--rose);
   margin: 0;
 }
@@ -1477,13 +1451,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ---- Mobile tweaks ---- */
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   .ba-showcase {
     max-width: 100%;
   }
+}
 
+@media (max-width: 600px) {
   .ba-showcase-images {
     aspect-ratio: 14 / 10;
+    min-height: 220px;
   }
 
   .ba-showcase-divider {

@@ -5,6 +5,89 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   // ====================================
+  // Usługi dropdown (10 hubów + podstrony)
+  // ====================================
+  if (window.NAV_SERVICES && window.NAV_SERVICES.length) {
+    const styleLink = document.querySelector('link[rel="stylesheet"][href*="styles.css"]');
+    const href = styleLink ? styleLink.getAttribute('href') : '';
+    const base = href ? (href.replace(/\/?css\/styles\.css.*$/, '').trim() || '') : '';
+    const basePrefix = base ? base + (base.endsWith('/') ? '' : '/') : '';
+
+    function url(path) {
+      const p = path.replace(/\/$/, '') + '/';
+      return basePrefix ? basePrefix + p : p;
+    }
+
+    // Desktop: replace Usługi link with dropdown
+    const desktopNav = document.querySelector('.desktop-nav');
+    if (desktopNav) {
+      const uslugiLink = Array.from(desktopNav.querySelectorAll('.nav-link, a[href*="uslugi"], button[data-scroll-to="uslugi"]')).find(el => el.textContent.trim() === 'Usługi' || (el.getAttribute('href') && el.getAttribute('href').includes('uslugi')) || el.getAttribute('data-scroll-to') === 'uslugi');
+      if (uslugiLink) {
+        const dropdown = document.createElement('div');
+        dropdown.className = 'nav-dropdown';
+        dropdown.innerHTML =
+          '<button type="button" class="nav-link nav-dropdown-trigger" aria-expanded="false" aria-haspopup="true">Usługi</button>' +
+          '<div class="nav-dropdown-panel" aria-hidden="true">' +
+          window.NAV_SERVICES.map(cat => {
+            const hubUrl = url(cat.slug);
+            const catLinks = cat.children.map(c => '<li><a href="' + url(cat.slug + '/' + c.slug) + '">' + c.label + '</a></li>').join('');
+            return '<div class="nav-dropdown-category">' +
+              '<a href="' + hubUrl + '" class="nav-dropdown-category-title">' + cat.label + '</a>' +
+              '<ul class="nav-dropdown-sublinks">' + catLinks + '</ul>' +
+              '</div>';
+          }).join('') +
+          '</div>';
+        uslugiLink.replaceWith(dropdown);
+
+        const trigger = dropdown.querySelector('.nav-dropdown-trigger');
+        const panel = dropdown.querySelector('.nav-dropdown-panel');
+        trigger.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const open = dropdown.classList.toggle('open');
+          trigger.setAttribute('aria-expanded', open);
+          panel.setAttribute('aria-hidden', !open);
+        });
+        document.addEventListener('click', () => {
+          dropdown.classList.remove('open');
+          trigger.setAttribute('aria-expanded', 'false');
+          panel.setAttribute('aria-hidden', 'true');
+        });
+        panel.addEventListener('click', (e) => e.stopPropagation());
+      }
+    }
+
+    // Mobile: replace Usługi link with expandable list
+    const mobileNav = document.querySelector('.mobile-menu nav');
+    if (mobileNav) {
+      const mobileUslugi = Array.from(mobileNav.querySelectorAll('.mobile-nav-link, a.mobile-nav-link')).find(el => el.textContent.trim() === 'Usługi' || (el.getAttribute('href') && el.getAttribute('href').includes('uslugi')));
+      if (mobileUslugi) {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'mobile-nav-uslugi';
+        wrapper.innerHTML = window.NAV_SERVICES.map((cat, i) => {
+          const hubUrl = url(cat.slug);
+          const subLinks = cat.children.map(c => '<a href="' + url(cat.slug + '/' + c.slug) + '" class="mobile-nav-sublink">' + c.label + '</a>').join('');
+          return '<div class="mobile-nav-category">' +
+            '<button type="button" class="mobile-nav-category-trigger" aria-expanded="false" data-index="' + i + '">' + cat.label + '</button>' +
+            '<div class="mobile-nav-category-content">' +
+            '<a href="' + hubUrl + '" class="mobile-nav-hub-link">Strona kategorii</a>' +
+            '<div class="mobile-nav-sublinks">' + subLinks + '</div>' +
+            '</div>' +
+            '</div>';
+        }).join('');
+        mobileUslugi.replaceWith(wrapper);
+
+        wrapper.querySelectorAll('.mobile-nav-category-trigger').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const cat = btn.closest('.mobile-nav-category');
+            const isOpen = cat.classList.toggle('open');
+            btn.setAttribute('aria-expanded', isOpen);
+          });
+        });
+      }
+    }
+  }
+
+  // ====================================
   // Header Scroll Effect
   // ====================================
   const header = document.querySelector('.site-header');

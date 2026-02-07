@@ -1221,7 +1221,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Nagłówek sekcji – styl jak na ref (METAMORFOZY, Przed & Po, opis) */
 .ba-header {
-  padding: 2rem 0 1.5rem;
+  padding: 0 0 0.5rem;
 }
 
 .ba-header-label {
@@ -1230,7 +1230,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.25em;
   text-transform: uppercase;
   color: #e8b4bc;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.75rem;
   display: block;
 }
 
@@ -1255,13 +1255,13 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.125rem;
   color: var(--ink);
   line-height: 1.7;
-  margin: 1.75rem auto 0;
+  margin: 1rem auto 0;
   max-width: 32ch;
 }
 
-/* Karuzela efektów przed / po */
+/* Karuzela efektów przed / po – bliżej nagłówka, mniej pustej przestrzeni */
 .ba-effects-carousel {
-  margin-top: 2.5rem;
+  margin-top: 0.75rem;
   max-width: 520px;
   margin-left: auto;
   margin-right: auto;
@@ -1274,7 +1274,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .ba-carousel-track {
   display: flex;
-  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .ba-effects-carousel .ba-effect-card {
@@ -1283,15 +1283,15 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--pure-white);
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 8px 30px -10px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 4px 20px -6px rgba(0, 0, 0, 0.06), 0 0 0 1px rgba(0, 0, 0, 0.04);
 }
 
 .ba-carousel-nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 1.25rem;
-  margin-top: 1.5rem;
+  gap: 1rem;
+  margin-top: 0.875rem;
 }
 
 .ba-carousel-btn {
@@ -1383,7 +1383,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1rem;
   font-weight: 600;
   color: var(--ink);
-  margin: 1rem 1rem 0.25rem;
+  margin: 0.75rem 1rem 0.2rem;
 }
 
 .ba-effect-sub {
@@ -1391,13 +1391,13 @@ h1, h2, h3, h4, h5, h6 {
   font-style: italic;
   font-size: 0.875rem;
   color: var(--rose);
-  margin: 0 1rem 1rem;
+  margin: 0 1rem 0.875rem;
 }
 
 .ba-cta-wrap {
   text-align: center;
-  margin-top: 2.5rem;
-  padding-bottom: 1rem;
+  margin-top: 1.5rem;
+  padding-bottom: 0.5rem;
 }
 
 @media (min-width: 1024px) {

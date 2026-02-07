@@ -161,39 +161,66 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // ====================================
-  // Karuzela efektów Przed & Po
+  // Showcase Carousel — Przed & Po
   // ====================================
-  const baCarousel = document.querySelector('.ba-effects-carousel');
-  if (baCarousel) {
-    const track = baCarousel.querySelector('.ba-carousel-track');
-    const slides = baCarousel.querySelectorAll('.ba-effect-card');
-    const dotsContainer = baCarousel.querySelector('.ba-carousel-dots');
-    const prevBtn = baCarousel.querySelector('.ba-carousel-prev');
-    const nextBtn = baCarousel.querySelector('.ba-carousel-next');
+  const showcase = document.querySelector('.ba-showcase');
+  if (showcase) {
+    const track = showcase.querySelector('.ba-showcase-track');
+    const slides = showcase.querySelectorAll('.ba-showcase-slide');
+    const dotsWrap = showcase.querySelector('.ba-showcase-dots');
+    const prevBtn = showcase.querySelector('.ba-showcase-prev');
+    const nextBtn = showcase.querySelector('.ba-showcase-next');
+    const counterCurrent = showcase.querySelector('.ba-showcase-current');
     const total = slides.length;
     let current = 0;
+    let autoplayTimer = null;
 
-    function goTo(index) {
-      current = (index + total) % total;
-      if (track) track.style.transform = `translateX(-${current * 100}%)`;
-      dotsContainer.querySelectorAll('.ba-carousel-dot').forEach((dot, i) => {
-        dot.classList.toggle('active', i === current);
-      });
-    }
-
-    if (dotsContainer && total > 0) {
+    // Build dots
+    if (dotsWrap && total > 0) {
       for (let i = 0; i < total; i++) {
         const dot = document.createElement('button');
         dot.type = 'button';
-        dot.className = 'ba-carousel-dot' + (i === 0 ? ' active' : '');
+        dot.className = 'ba-showcase-dot' + (i === 0 ? ' active' : '');
         dot.setAttribute('aria-label', 'Slajd ' + (i + 1));
-        dot.addEventListener('click', () => goTo(i));
-        dotsContainer.appendChild(dot);
+        dot.addEventListener('click', () => { goTo(i); resetAutoplay(); });
+        dotsWrap.appendChild(dot);
       }
     }
-    prevBtn?.addEventListener('click', () => goTo(current - 1));
-    nextBtn?.addEventListener('click', () => goTo(current + 1));
+
+    function goTo(index) {
+      current = ((index % total) + total) % total;
+      track.style.transform = 'translateX(-' + (current * 100) + '%)';
+      if (counterCurrent) counterCurrent.textContent = String(current + 1).padStart(2, '0');
+      dotsWrap.querySelectorAll('.ba-showcase-dot').forEach(function (d, i) {
+        d.classList.toggle('active', i === current);
+      });
+    }
+
+    function resetAutoplay() {
+      clearInterval(autoplayTimer);
+      autoplayTimer = setInterval(function () { goTo(current + 1); }, 5000);
+    }
+
+    prevBtn?.addEventListener('click', function () { goTo(current - 1); resetAutoplay(); });
+    nextBtn?.addEventListener('click', function () { goTo(current + 1); resetAutoplay(); });
+
+    // Touch swipe
+    let touchStartX = 0;
+    showcase.addEventListener('touchstart', function (e) { touchStartX = e.touches[0].clientX; }, { passive: true });
+    showcase.addEventListener('touchend', function (e) {
+      const diff = touchStartX - e.changedTouches[0].clientX;
+      if (Math.abs(diff) > 40) {
+        goTo(current + (diff > 0 ? 1 : -1));
+        resetAutoplay();
+      }
+    });
+
+    // Pause autoplay on hover
+    showcase.addEventListener('mouseenter', function () { clearInterval(autoplayTimer); });
+    showcase.addEventListener('mouseleave', resetAutoplay);
+
     goTo(0);
+    resetAutoplay();
   }
 
   // ====================================

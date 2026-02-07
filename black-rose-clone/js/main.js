@@ -41,18 +41,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const trigger = dropdown.querySelector('.nav-dropdown-trigger');
         const panel = dropdown.querySelector('.nav-dropdown-panel');
-        trigger.addEventListener('click', (e) => {
-          e.stopPropagation();
-          const open = dropdown.classList.toggle('open');
-          trigger.setAttribute('aria-expanded', open);
-          panel.setAttribute('aria-hidden', !open);
-        });
-        document.addEventListener('click', () => {
-          dropdown.classList.remove('open');
-          trigger.setAttribute('aria-expanded', 'false');
-          panel.setAttribute('aria-hidden', 'true');
-        });
-        panel.addEventListener('click', (e) => e.stopPropagation());
+        let closeTimeout = null;
+
+        function openDropdown() {
+          if (closeTimeout) {
+            clearTimeout(closeTimeout);
+            closeTimeout = null;
+          }
+          dropdown.classList.add('open');
+          trigger.setAttribute('aria-expanded', 'true');
+          panel.setAttribute('aria-hidden', 'false');
+        }
+
+        function closeDropdown() {
+          closeTimeout = setTimeout(() => {
+            dropdown.classList.remove('open');
+            trigger.setAttribute('aria-expanded', 'false');
+            panel.setAttribute('aria-hidden', 'true');
+            closeTimeout = null;
+          }, 150);
+        }
+
+        dropdown.addEventListener('mouseenter', openDropdown);
+        dropdown.addEventListener('mouseleave', closeDropdown);
       }
     }
 

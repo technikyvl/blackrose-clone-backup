@@ -160,43 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
     observer.observe(el);
   });
 
-  // ====================================
-  // Before/After – nowy layout (porównanie + podpis + nawigacja)
-  // ====================================
-  const baWrapper = document.querySelector('.ba-compare-wrapper');
-  if (baWrapper) {
-    let activeBAIndex = 0;
-    const beforeImg = baWrapper.querySelector('.ba-panel-before img');
-    const afterImg = baWrapper.querySelector('.ba-panel-after img');
-    const captionTitle = baWrapper.querySelector('.ba-caption-title');
-    const captionSubtitle = baWrapper.querySelector('.ba-caption-subtitle');
-    const captionNumber = baWrapper.querySelector('.ba-caption-number');
-    const dots = baWrapper.querySelectorAll('.ba-caption-nav .ba-dot');
-    const prevBtn = baWrapper.querySelector('.ba-caption-nav .ba-prev');
-    const nextBtn = baWrapper.querySelector('.ba-caption-nav .ba-next');
-
-    const transformations = [
-      { title: 'Manicure hybrydowy', subtitle: 'French Ombre', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
-      { title: 'Henna pudrowa', subtitle: 'z geometrią', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
-      { title: 'Stylizacja żelowa', subtitle: 'Baby Boomer', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
-      { title: 'Zabieg na twarz', subtitle: 'Oczyszczanie', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
-    ];
-
-    function updateBASlide(index) {
-      activeBAIndex = (index + transformations.length) % transformations.length;
-      const t = transformations[activeBAIndex];
-      if (beforeImg) beforeImg.src = t.before;
-      if (afterImg) afterImg.src = t.after;
-      if (captionTitle) captionTitle.textContent = t.title;
-      if (captionSubtitle) captionSubtitle.textContent = t.subtitle;
-      if (captionNumber) captionNumber.textContent = String(activeBAIndex + 1).padStart(2, '0');
-      dots.forEach((dot, i) => dot.classList.toggle('active', i === activeBAIndex));
-    }
-
-    prevBtn?.addEventListener('click', () => updateBASlide(activeBAIndex - 1));
-    nextBtn?.addEventListener('click', () => updateBASlide(activeBAIndex + 1));
-    dots.forEach((dot, i) => dot.addEventListener('click', () => updateBASlide(i)));
-  }
+  // Sekcja Przed & Po – tylko nagłówek + CTA (bez slajdera)
 
   // ====================================
   // Gallery Filter & Lightbox

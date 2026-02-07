@@ -1219,10 +1219,50 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
 }
 
-.before-after-section .section-header.center .section-desc {
-  max-width: 36ch;
-  margin-left: auto;
-  margin-right: auto;
+/* Nagłówek sekcji – styl jak na ref (METAMORFOZY, Przed & Po, opis) */
+.ba-header {
+  padding: 2rem 0 1.5rem;
+}
+
+.ba-header-label {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #e8b4bc;
+  margin-bottom: 1.25rem;
+  display: block;
+}
+
+.ba-header-title {
+  font-size: clamp(2.25rem, 5vw, 3.5rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.15;
+  margin: 0;
+}
+
+.ba-header-title .ba-header-amp {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--rose);
+  display: inline-block;
+  margin: 0 0.1em;
+}
+
+.ba-header-desc {
+  font-size: 1.125rem;
+  color: var(--ink);
+  line-height: 1.7;
+  margin: 1.75rem auto 0;
+  max-width: 32ch;
+}
+
+.ba-cta-wrap {
+  text-align: center;
+  margin-top: 2.5rem;
+  padding-bottom: 1rem;
 }
 
 @media (min-width: 1024px) {

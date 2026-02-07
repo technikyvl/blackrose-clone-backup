@@ -667,13 +667,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Mobile Menu – nie przycinać: max-height + przewijanie */
+/* Mobile Menu – nie przycinać: pełna wysokość, przewijanie w środku */
 .mobile-menu {
   display: block;
   position: absolute;
   top: 100%;
   left: 0;
   right: 0;
+  min-height: calc(100vh - 60px);
   max-height: calc(100vh - 60px);
   overflow-y: auto;
   overflow-x: hidden;
@@ -684,6 +685,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
   transform: translateY(-16px);
   pointer-events: none;
+  box-sizing: border-box;
 }
 
 @media (min-width: 768px) {

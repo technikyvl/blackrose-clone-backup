@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /b \"C:\\\\Users\\\\kubix\\\\Documents\\\\GitHub\\\\blackrose-clone-backup\\\\black-rose-clone\\\\makijaz-permanentny\"\" && echo \"---\" && dir /b \"C:UserskubixDocumentsGitHubblackrose-clone-backupblack-rose-clonezabiegi-na-twarz\"\")",
+      "Bash(ls:*)"
+    ]
+  }
+}

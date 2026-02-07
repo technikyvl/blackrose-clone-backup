@@ -86,6 +86,18 @@ document.addEventListener('DOMContentLoaded', () => {
             '</div>';
         }).join('');
         mobileUslugi.replaceWith(wrapper);
+        mobileNav.classList.add('has-uslugi');
+
+        // Zawsze widoczny blok na dole: O nas, Zespół, Cennik, Kontakt + divider
+        const bottomWrap = document.createElement('div');
+        bottomWrap.className = 'mobile-nav-bottom';
+        let next = wrapper.nextElementSibling;
+        while (next) {
+          const toMove = next;
+          next = next.nextElementSibling;
+          bottomWrap.appendChild(toMove);
+        }
+        mobileNav.appendChild(bottomWrap);
 
         wrapper.querySelectorAll('.mobile-nav-category-trigger').forEach(btn => {
           btn.addEventListener('click', () => {

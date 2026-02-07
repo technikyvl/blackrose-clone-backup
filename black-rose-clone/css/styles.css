@@ -1211,44 +1211,147 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ====================================
-   BEFORE & AFTER (wycentrowana, styl jak reszta strony)
+   BEFORE & AFTER
    ==================================== */
 .before-after-section {
   position: relative;
-  padding: 4rem 0 5rem;
-  background: var(--pure-white);
+  padding: 5rem 0 6rem;
+  overflow: hidden;
 }
 
 @media (min-width: 1024px) {
   .before-after-section {
-    padding: 6rem 0 7rem;
+    padding: 7rem 0 8rem;
   }
 }
 
-/* Karuzela efektów – wycentrowana */
-.before-after-section .ba-effects-carousel {
+.ba-bg-accent {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(255, 235, 243, 0.4) 0%, rgba(255, 250, 252, 0.6) 50%, var(--pure-white) 100%);
+  pointer-events: none;
+}
+
+.ba-header {
+  padding: 0 0 0.5rem;
+}
+
+.ba-header-label {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #e8b4bc;
+  margin-bottom: 0.75rem;
+  display: block;
+}
+
+.ba-header-title {
+  font-size: clamp(2.25rem, 5vw, 3.5rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.15;
+  margin: 0;
+}
+
+.ba-header-title .ba-header-amp {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--rose);
+  display: inline-block;
+  margin: 0 0.1em;
+}
+
+.ba-header-desc {
+  font-size: 1.125rem;
+  color: var(--ink);
+  line-height: 1.7;
+  margin: 1rem auto 0;
+  max-width: 32ch;
+}
+
+.ba-effects-carousel {
+  margin-top: 0.75rem;
   max-width: 520px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.before-after-section .ba-carousel-viewport {
+.ba-carousel-viewport {
   overflow: hidden;
-  border-radius: 2px;
+  border-radius: 10px;
 }
 
-.before-after-section .ba-carousel-track {
+.ba-carousel-track {
   display: flex;
   transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
-.before-after-section .ba-effects-carousel .ba-effect-card {
+.ba-effects-carousel .ba-effect-card {
   flex: 0 0 100%;
   min-width: 0;
   background: var(--pure-white);
-  border-radius: 2px;
+  border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 2px 12px -4px rgba(0, 0, 0, 0.06), 0 0 0 1px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 4px 24px -8px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(0, 0, 0, 0.04);
+}
+
+.ba-effect-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  aspect-ratio: 1;
+}
+
+.ba-effect-half {
+  position: relative;
+  overflow: hidden;
+}
+
+.ba-effect-half img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.ba-effect-label {
+  position: absolute;
+  top: 0.75rem;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.65rem;
+  border-radius: 9999px;
+  background: var(--pure-white);
+  color: var(--ink);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.ba-effect-half:first-child .ba-effect-label {
+  left: 0.75rem;
+}
+
+.ba-effect-half:last-child .ba-effect-label {
+  right: 0.75rem;
+  background: var(--ink);
+  color: var(--pure-white);
+}
+
+.ba-effect-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0.75rem 1rem 0.2rem;
+}
+
+.ba-effect-sub {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 0.875rem;
+  color: var(--rose);
+  margin: 0 1rem 0.875rem;
 }
 
 .ba-carousel-nav {
@@ -1302,49 +1405,7 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--rose);
 }
 
-/* Jedno zdjęcie efektu + podpis na dole */
-.ba-effect-image-wrap {
-  position: relative;
-  aspect-ratio: 4 / 3;
-  overflow: hidden;
-}
-
-.ba-effect-image-wrap img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-.ba-effect-caption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 1rem 1.25rem;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.4));
-  color: var(--pure-white);
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-}
-
-.ba-effect-caption .ba-effect-title {
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--pure-white);
-  margin: 0;
-}
-
-.ba-effect-caption .ba-effect-sub {
-  font-family: 'Playfair Display', Georgia, serif;
-  font-style: italic;
-  font-size: 0.875rem;
-  color: rgba(255, 255, 255, 0.9);
-  margin: 0;
-}
-
-.before-after-section .ba-cta-wrap {
+.ba-cta-wrap {
   text-align: center;
   margin-top: 1.5rem;
   padding-bottom: 0.5rem;

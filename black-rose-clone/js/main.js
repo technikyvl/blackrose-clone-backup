@@ -161,86 +161,41 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // ====================================
-  // Before/After Slider
+  // Before/After – nowy layout (porównanie + podpis + nawigacja)
   // ====================================
-  const baSlider = document.querySelector('.ba-slider-container');
-  if (baSlider) {
-    let isDragging = false;
-    let sliderPosition = 50;
+  const baWrapper = document.querySelector('.ba-compare-wrapper');
+  if (baWrapper) {
     let activeBAIndex = 0;
-
-    const baBeforeLayer = baSlider.querySelector('.ba-before-layer');
-    const baHandle = baSlider.querySelector('.ba-slider-handle');
-    const baInfoTitle = document.querySelector('.ba-info h3');
-    const baInfoSubtitle = document.querySelector('.ba-info .subtitle');
-    const baInfoNumber = document.querySelector('.ba-info-number');
-    const baDots = document.querySelectorAll('.ba-dot');
-    const baBeforeImg = baSlider.querySelector('.ba-before-layer img');
-    const baAfterImg = baSlider.querySelector('.ba-after-layer img');
+    const beforeImg = baWrapper.querySelector('.ba-panel-before img');
+    const afterImg = baWrapper.querySelector('.ba-panel-after img');
+    const captionTitle = baWrapper.querySelector('.ba-caption-title');
+    const captionSubtitle = baWrapper.querySelector('.ba-caption-subtitle');
+    const captionNumber = baWrapper.querySelector('.ba-caption-number');
+    const dots = baWrapper.querySelectorAll('.ba-caption-nav .ba-dot');
+    const prevBtn = baWrapper.querySelector('.ba-caption-nav .ba-prev');
+    const nextBtn = baWrapper.querySelector('.ba-caption-nav .ba-next');
 
     const transformations = [
-      { title: 'Manicure Hybrydowy', subtitle: 'French Ombre', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
-      { title: 'Henna Pudrowa', subtitle: 'z Geometrią', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
-      { title: 'Stylizacja Żelowa', subtitle: 'Baby Boomer', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
-      { title: 'Zabieg na Twarz', subtitle: 'Oczyszczanie', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
+      { title: 'Manicure hybrydowy', subtitle: 'French Ombre', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
+      { title: 'Henna pudrowa', subtitle: 'z geometrią', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
+      { title: 'Stylizacja żelowa', subtitle: 'Baby Boomer', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
+      { title: 'Zabieg na twarz', subtitle: 'Oczyszczanie', before: 'images/snapinsta.jpg', after: 'images/snapinsta.jpg' },
     ];
 
-    function updateSliderPosition(pos) {
-      sliderPosition = Math.min(Math.max(pos, 5), 95);
-      baBeforeLayer.style.clipPath = `inset(0 ${100 - sliderPosition}% 0 0)`;
-      baHandle.style.left = sliderPosition + '%';
-    }
-
     function updateBASlide(index) {
-      activeBAIndex = index;
-      sliderPosition = 50;
-      updateSliderPosition(50);
-      baBeforeImg.src = transformations[index].before;
-      baAfterImg.src = transformations[index].after;
-      if (baInfoTitle) baInfoTitle.textContent = transformations[index].title;
-      if (baInfoSubtitle) baInfoSubtitle.textContent = transformations[index].subtitle;
-      if (baInfoNumber) baInfoNumber.textContent = String(index + 1).padStart(2, '0');
-      baDots.forEach((dot, i) => {
-        dot.classList.toggle('active', i === index);
-      });
+      activeBAIndex = (index + transformations.length) % transformations.length;
+      const t = transformations[activeBAIndex];
+      if (beforeImg) beforeImg.src = t.before;
+      if (afterImg) afterImg.src = t.after;
+      if (captionTitle) captionTitle.textContent = t.title;
+      if (captionSubtitle) captionSubtitle.textContent = t.subtitle;
+      if (captionNumber) captionNumber.textContent = String(activeBAIndex + 1).padStart(2, '0');
+      dots.forEach((dot, i) => dot.classList.toggle('active', i === activeBAIndex));
     }
 
-    function getSliderX(e) {
-      const rect = baSlider.getBoundingClientRect();
-      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
-      return ((clientX - rect.left) / rect.width) * 100;
-    }
-
-    baSlider.addEventListener('mousedown', () => { isDragging = true; });
-    baSlider.addEventListener('mouseup', () => { isDragging = false; });
-    baSlider.addEventListener('mouseleave', () => { isDragging = false; });
-    baSlider.addEventListener('mousemove', (e) => {
-      if (!isDragging) return;
-      updateSliderPosition(getSliderX(e));
-    });
-
-    baSlider.addEventListener('touchstart', () => { isDragging = true; });
-    baSlider.addEventListener('touchend', () => { isDragging = false; });
-    baSlider.addEventListener('touchmove', (e) => {
-      if (!isDragging) return;
-      updateSliderPosition(getSliderX(e));
-    });
-
-    // BA Navigation
-    document.querySelector('.ba-prev')?.addEventListener('click', () => {
-      updateBASlide((activeBAIndex - 1 + transformations.length) % transformations.length);
-    });
-
-    document.querySelector('.ba-next')?.addEventListener('click', () => {
-      updateBASlide((activeBAIndex + 1) % transformations.length);
-    });
-
-    baDots.forEach((dot, i) => {
-      dot.addEventListener('click', () => updateBASlide(i));
-    });
-
-    // Initialize
-    updateSliderPosition(50);
+    prevBtn?.addEventListener('click', () => updateBASlide(activeBAIndex - 1));
+    nextBtn?.addEventListener('click', () => updateBASlide(activeBAIndex + 1));
+    dots.forEach((dot, i) => dot.addEventListener('click', () => updateBASlide(i)));
   }
 
   // ====================================

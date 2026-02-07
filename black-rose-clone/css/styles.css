@@ -541,10 +541,12 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--pure-white);
   border: none;
   box-shadow: 0 1px 0 0 var(--border);
+  min-width: 0;
 }
 
 .mobile-nav-category-trigger {
   width: 100%;
+  min-width: 0;
   text-align: left;
   padding: 0.75rem 1rem 0.75rem 1.25rem;
   font-size: 16px;
@@ -556,9 +558,12 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 0.75rem;
   transition: background 0.2s;
   position: relative;
   border-left: 3px solid var(--rose);
+  white-space: normal;
+  word-break: break-word;
 }
 
 .mobile-nav-category-trigger:hover {
@@ -570,6 +575,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
   color: var(--ink-light);
   transition: transform 0.2s;
+  flex-shrink: 0;
 }
 
 .mobile-nav-category.open .mobile-nav-category-trigger::after {
@@ -661,13 +667,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-/* Mobile Menu */
+/* Mobile Menu – nie przycinać: max-height + przewijanie */
 .mobile-menu {
   display: block;
   position: absolute;
   top: 100%;
   left: 0;
   right: 0;
+  max-height: calc(100vh - 60px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
   background: var(--pure-white);
   border-bottom: 1px solid var(--rose);
   transition: all 0.3s;
@@ -693,6 +703,8 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
   padding: 1.5rem;
   gap: 0.25rem;
+  min-width: 0;
+  box-sizing: border-box;
 }
 
 /* Gdy jest lista usług – przewijana sekcja + stały dół z Kontakt */

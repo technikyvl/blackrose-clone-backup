@@ -322,7 +322,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     galleryGrid.innerHTML = filteredImages.map((img, index) => `
       <div class="gallery-item animate-on-scroll animate-fade-in-up is-visible" style="animation-delay: ${(index % 8) * 50}ms" data-gallery-index="${index}">
-        <img src="${img.src}" alt="${img.alt}" loading="lazy">
+        <img src="${img.src}" alt="${img.alt}" loading="lazy" decoding="async">
         <div class="gallery-item-overlay">
           <p class="title">${img.alt}</p>
           <span class="category">${img.category}</span>
@@ -408,11 +408,11 @@ document.addEventListener('DOMContentLoaded', () => {
   // Testimonials Carousel
   // ====================================
   const testimonials = [
-    { name: 'Martyna K.', service: 'Manicure Hybrydowy', rating: 5, date: 'Styczeń 2026', text: 'Fantastyczny salon! Pani Anna wykonała mi przepiękny manicure, który trzymał się idealnie przez 3 tygodnie. Polecam wszystkim!', image: 'images/snapinsta.jpg' },
-    { name: 'Agnieszka W.', service: 'Henna Pudrowa', rating: 5, date: 'Grudzień 2025', text: 'Wreszcie mam idealne brwi! Pani Kasia jest prawdziwą artystką. Efekt naturalny i piękny. Na pewno wrócę.', image: 'images/snapinsta.jpg' },
-    { name: 'Paulina M.', service: 'Zabiegi na Twarz', rating: 5, date: 'Styczeń 2026', text: 'Zabieg oczyszczający zrobił cuda z moją cerą. Profesjonalne podejście i bardzo miła atmosfera. Gorąco polecam!', image: 'images/snapinsta.jpg' },
-    { name: 'Ewa S.', service: 'Pedicure', rating: 5, date: 'Listopad 2025', text: 'Najlepszy pedicure jaki miałam! Dbają o każdy szczegół, a stópki wyglądają jak nowe. Będę regularną klientką.', image: 'images/snapinsta.jpg' },
-    { name: 'Monika T.', service: 'SPA & Relaks', rating: 5, date: 'Grudzień 2025', text: 'Cudowny relaks po ciężkim tygodniu. Masaż był niesamowity, a cały zabieg przeprowadzony bardzo profesjonalnie.', image: 'images/snapinsta.jpg' },
+    { name: 'Martyna K.', service: 'Manicure Hybrydowy', rating: 5, date: 'Styczeń 2026', text: 'Fantastyczny salon! Pani Anna wykonała mi przepiękny manicure, który trzymał się idealnie przez 3 tygodnie. Polecam wszystkim!', image: 'images/snapinsta.webp' },
+    { name: 'Agnieszka W.', service: 'Henna Pudrowa', rating: 5, date: 'Grudzień 2025', text: 'Wreszcie mam idealne brwi! Pani Kasia jest prawdziwą artystką. Efekt naturalny i piękny. Na pewno wrócę.', image: 'images/snapinsta.webp' },
+    { name: 'Paulina M.', service: 'Zabiegi na Twarz', rating: 5, date: 'Styczeń 2026', text: 'Zabieg oczyszczający zrobił cuda z moją cerą. Profesjonalne podejście i bardzo miła atmosfera. Gorąco polecam!', image: 'images/snapinsta.webp' },
+    { name: 'Ewa S.', service: 'Pedicure', rating: 5, date: 'Listopad 2025', text: 'Najlepszy pedicure jaki miałam! Dbają o każdy szczegół, a stópki wyglądają jak nowe. Będę regularną klientką.', image: 'images/snapinsta.webp' },
+    { name: 'Monika T.', service: 'SPA & Relaks', rating: 5, date: 'Grudzień 2025', text: 'Cudowny relaks po ciężkim tygodniu. Masaż był niesamowity, a cały zabieg przeprowadzony bardzo profesjonalnie.', image: 'images/snapinsta.webp' },
   ];
 
   let currentTestimonial = 0;
@@ -547,3 +547,17 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 });
+
+(function imageProtection() {
+  document.addEventListener('contextmenu', (e) => {
+    if (e.target && e.target.tagName === 'IMG') e.preventDefault();
+  });
+  document.addEventListener('dragstart', (e) => {
+    if (e.target && e.target.tagName === 'IMG') e.preventDefault();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey && (e.key === 's' || e.key === 'S' || e.key === 'u' || e.key === 'U')) {
+      e.preventDefault();
+    }
+  });
+})();

@@ -2247,19 +2247,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .gallery-item-overlay {
-  position: absolute;
-  inset: 0;
-  background: rgba(26, 26, 26, 0.6);
-  opacity: 0;
-  transition: opacity 0.3s;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.gallery-item:hover .gallery-item-overlay {
-  opacity: 1;
+  display: none;
 }
 
 .gallery-item-overlay .title {
@@ -2382,8 +2370,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .lightbox-info {
-  text-align: center;
-  margin-top: 1rem;
+  display: none;
 }
 
 .lightbox-info .title {
@@ -5007,4 +4994,26 @@ h1, h2, h3, h4, h5, h6 {
 .related-category:hover {
   border-color: var(--rose);
   color: var(--rose);
+}
+
+/* ====================================
+   Image protection (anti-download deterrence)
+   ==================================== */
+img {
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* ====================================
+   Emphasized text (<strong>)
+   ==================================== */
+strong {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+a strong {
+  color: inherit;
 }

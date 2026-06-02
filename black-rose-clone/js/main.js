@@ -561,3 +561,110 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 })();
+
+/* ====================================
+   Edytor – obrót zdjęć o 90° (zapisywany na stałe)
+   Kąt obrotu każdego zdjęcia zapisywany jest w localStorage
+   i przywracany przy ponownym wczytaniu strony.
+   ==================================== */
+(function imageRotateEditor() {
+  const STORE_KEY = 'brImageRotations';
+  let activeImg = null;
+
+  function loadStore() {
+    try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; }
+    catch (e) { return {}; }
+  }
+
+  function saveStore(store) {
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) {}
+  }
+
+  function keyFor(img) {
+    const src = img.getAttribute('src') || img.currentSrc || '';
+    return location.pathname + '|' + src;
+  }
+
+  function apply(img, deg) {
+    img.style.transform = 'rotate(' + deg + 'deg)';
+    img.style.transition = 'transform 0.25s ease';
+  }
+
+  // Przywróć zapisane obroty
+  const store = loadStore();
+  function restoreAll() {
+    document.querySelectorAll('img').forEach((img) => {
+      const deg = store[keyFor(img)];
+      if (deg) apply(img, deg);
+    });
+  }
+  restoreAll();
+  window.addEventListener('load', restoreAll);
+
+  const btn = document.createElement('button');
+  btn.type = 'button';
+  btn.setAttribute('aria-label', 'Obróć zdjęcie o 90°');
+  btn.textContent = '⟳';
+  Object.assign(btn.style, {
+    position: 'fixed',
+    zIndex: '99999',
+    width: '34px',
+    height: '34px',
+    padding: '0',
+    borderRadius: '50%',
+    border: 'none',
+    background: 'rgba(0,0,0,0.65)',
+    color: '#fff',
+    fontSize: '18px',
+    lineHeight: '34px',
+    cursor: 'pointer',
+    display: 'none',
+    boxShadow: '0 2px 6px rgba(0,0,0,0.3)'
+  });
+  document.body.appendChild(btn);
+
+  function placeBtn() {
+    if (!activeImg) return;
+    const r = activeImg.getBoundingClientRect();
+    btn.style.top = (r.top + 6) + 'px';
+    btn.style.left = (r.right - 40) + 'px';
+  }
+
+  function show(img) {
+    activeImg = img;
+    btn.style.display = 'block';
+    placeBtn();
+  }
+
+  function hide() {
+    activeImg = null;
+    btn.style.display = 'none';
+  }
+
+  document.addEventListener('mouseover', (e) => {
+    const img = e.target.closest && e.target.closest('img');
+    if (img) show(img);
+  });
+
+  document.addEventListener('mouseout', (e) => {
+    if (e.relatedTarget === btn) return;
+    const img = e.target.closest && e.target.closest('img');
+    if (img && img === activeImg && (!e.relatedTarget || e.relatedTarget.closest('img') !== img)) {
+      hide();
+    }
+  });
+
+  btn.addEventListener('click', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (!activeImg) return;
+    const key = keyFor(activeImg);
+    const deg = ((store[key] || 0) + 90) % 360;
+    store[key] = deg;
+    saveStore(store);
+    apply(activeImg, deg);
+  });
+
+  window.addEventListener('scroll', placeBtn, true);
+  window.addEventListener('resize', placeBtn);
+})();

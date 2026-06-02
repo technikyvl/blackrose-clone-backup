@@ -601,6 +601,37 @@ document.addEventListener('DOMContentLoaded', () => {
   restoreAll();
   window.addEventListener('load', restoreAll);
 
+  // TYMCZASOWY przycisk eksportu zapisanych obrotów
+  const exportBtn = document.createElement('button');
+  exportBtn.type = 'button';
+  exportBtn.textContent = '⬇ Pobierz obroty';
+  Object.assign(exportBtn.style, {
+    position: 'fixed',
+    bottom: '16px',
+    left: '16px',
+    zIndex: '99999',
+    padding: '12px 16px',
+    borderRadius: '8px',
+    border: 'none',
+    background: '#c0392b',
+    color: '#fff',
+    fontSize: '15px',
+    fontWeight: 'bold',
+    cursor: 'pointer',
+    boxShadow: '0 2px 8px rgba(0,0,0,0.4)'
+  });
+  exportBtn.addEventListener('click', () => {
+    const data = localStorage.getItem(STORE_KEY) || '{}';
+    const blob = new Blob([data], { type: 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'brImageRotations.json';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+  });
+  document.body.appendChild(exportBtn);
+
   const btn = document.createElement('button');
   btn.type = 'button';
   btn.setAttribute('aria-label', 'Obróć zdjęcie o 90°');
